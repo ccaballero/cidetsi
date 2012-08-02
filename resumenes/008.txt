@@ -1,0 +1,23 @@
+2012-08-01
+Informe #8: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy octavo día en el que desempeño mi cargo de administrador, pase
+los requerimientos del sistema de convocatorias a PowerPoint, ademas
+de analizar el modelo de base de datos.
+Respecto al sistema de apoyo administrativo, fuí a petición de las
+secretarias de quimica y electrica a resolver algunos problemas, tales
+detalles los anexaré en el archivo "Trabajo #3".
+
+¿Que problemas tuve?
+Si bien los problemas que se presentan en el sistema de apoyo
+administrativo son esencialmente triviales, creo que aún requiero algo
+mas de experiencia en este tipo de contingencias, de modo que pueda
+resolverlas mas rapidamente.
+
+¿Que actividad realizaré manaña?
+Mañana pretendo ir al departamento de Industrial para ver si ya tienen
+designado al jefe de carrera, respecto al sistema de convocatorias,
+instalaré un sistema de control de versiones (problablemente git) en una
+maquina, ya que creo que surge la necesidad de versionar estos documentos
+y los que son propios del sistema de convocatorias.
