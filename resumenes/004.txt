@@ -1,0 +1,20 @@
+2012-07-26
+Informe #4: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy cuarto día en el que desempeño mi cargo de administrador, tuve mis
+primeros encuentros con el sistema de apoyo administrativo, inserte,
+valide, y verifique las información respectiva a los seguimientos y
+nombramientos de los auxiliares de laboratorio.
+
+En el tiempo restante, inicie la definición y modelamiento inicial del
+sistema, espero concluirla mañana.
+
+¿Que problemas tuve?
+Ninguna novedad el día de hoy.
+
+¿Que actividad realizaré manaña?
+Manaña, tengo pensado finalizar las definición o propuesta de solución,
+y tener definido los modelos de base de datos, espero que esten
+disponibles los reportes que intervienen en el proceso de convocatorias.
+

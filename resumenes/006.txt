@@ -1,0 +1,19 @@
+2012-07-30
+Informe #6: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy sexto día en el que desempeño mi cargo de administrador, termine la
+definicion del problema, y seguimos modelando la base de datos. Ademas
+tuve que ir al departamento de Industrial, por solicitud de la secretaria.
+Para corregir algunos problemas en el sistema de apoyo administrativo,
+referente a los nombramientos. Descubri el problema, pero aun no se como
+solucionarlo. Espero poder verlo mañana con mas detalle. Adjuntaré un
+informe mas detallado de esto cuando consegua entender el problema puntual.
+
+¿Que problemas tuve?
+Ninguna novedad el día de hoy.
+
+¿Que actividad realizaré manaña?
+Mañana pienso ver el codigo fuente del sistema de apoyo administrativo
+para entender mejor el problema detallado anteriormente. Y en el tiempo
+restante seguir modelando la base de datos del sistema de convocatorias.

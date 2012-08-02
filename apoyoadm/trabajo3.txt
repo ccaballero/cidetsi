@@ -1,0 +1,76 @@
+FECHA: 2012/08/01
+
+Problema #1:
+En el departamento de Quimica, se invoco me presencia referente
+a la creación de una nueva gestión. Antes de ir a ver personalmente
+que clase de dificultades se presentaban, cree la gestion II/2012,
+desde mi puesto de trabajo, coloqué los siguiente datos:
+
+    Gestión: II/2012
+    Fecha Inicio: 31/07/2012
+    Fecha Fin:    29/12/2012
+
+Al hacerme presente en el departamento de Quimica, no se presento
+ningún problema adicional, asi que eso fue todo.
+
+Nota: Se me comento que los nombramientos y seguimiento deben
+realizarse hasta el 8 de Agosto, lo que me lleva a concluir que
+debo estar muy atento a cualquier nueva contingencia en alguno
+de los departamentos.
+
+Problema #2:
+En el departamento de Electrica, la situación fue algo mas curiosa,
+el problema era que al iniciar el programa (secretaria.exe), se
+mostraba el siguiente mensaje:
+
+    No se puede conectar a su servidor de Base de Datos,
+    consulte al administrador de Base de Datos
+
+Inicialmente procedi a revisar si era accesible el sitio db.cs.umss.edu.bo,
+realize un ping a tal dominio, y respondio satisfactoriamente.
+
+Luego revise las configuraciones del DSN del sistema,
+tales configuración eran:
+
+    Data source: secretaria
+    Database:    apoyoadm_electro
+    Server:      db.cs.umss.edu.bo
+    UserName:    apoyoadm_electro
+    Password:    **************
+
+En el momento de probar la conexion, se mostraba un cajon de texto
+que no mostraba ningún mensaje, dejandome aturdido por tal comportamiento.
+
+No teniendo ninguna pista de la causa del fallo, procedi a volver al CIDETSI
+a confirmar los parametros establecidos para la conexión, y ver que clase
+de herramientas eran necesarias para el correcto funcionamiento del sistema.
+
+Estando ahi descubri que si realizas un Test con una contraseña incorrecta,
+el mensaje es:
+
+    FATAL: la autentificación password falló para el usuario <apoyoadm_electro>
+
+Cuando el server es el que falla, el mensaje es:
+
+    Could not connect to the server;
+    connect failed for [IP:PORT]
+
+Y cualquier otro error posible lanza un error de tipo vacio.
+En ese momento sospeche que el ip de la maquina podria no estar configurado
+en el servidor db.cs.umss.edu.bo, anote la configuración de la maquina, que es
+la que sigue:
+
+    ip:   192.245.121.140
+    mask: 255.255.255.0
+    gw:   192.245.121.12
+
+y fuí a comprobar los acceso al laboratorio de computo, donde descubrimos que
+el ip configurado para el acceso era diferente, procedimos a cambiarlo, al volver
+al departamento de electronica, la conexión ya funcionaba correctamente.
+
+Es curioso que cuando le pregunte si habian cambiado su configuración de red en
+estos tiempos, me aseguro rotundamente que no.
+
+
+
+

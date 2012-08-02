@@ -1,0 +1,31 @@
+FECHA: 2012/07/27
+Correciones sobre el sistema de apoyo administrativo
+
+La generación de los formularios de nombramiento presentaban
+las opciones de "INTERNO" y "TITULAR". Mientras que en la vida
+como la conocemos hoy en dia, sugieren fuertemente que existan
+las opciones "INVITADO" y "TITULAR".
+
+Cambie los formularios utilzando el codigo fuente encontrado en
+E:\Apoyo Adm\SRC; como no se encontrabá versionado,y debido a la
+celeridad con la que me vi forzado a realizar las cosas, debido a
+la urgencia por su impresión, copie el codigo original a:
+E:\Apoyo Adm\SRC.BAK; y modifique los componentes "repnombra_aux1"
+y "FORNombAuxReg1"
+
+Posteriormente reconstrui las fuentes y copie el archivo secretaria.exe
+en el computador que utiliza la secretaria. No presentando ningun tipo
+de problema.
+
+Posteriormente notamos un problema con un auxiliar que requeria
+dos nombramientos, uno como titular y otro como auxiliar, cada uno
+con sus horas respectivas. Debido a que escencialmente los dos items
+eran en el mismo laboratorio, se optó por cambiar manualmente sus horas
+a de 64 a 32, he imprimir cada uno de sus nombramientos, dejando
+unicamente un seguimiento que contenga ambos. Se sugiere que se tome en
+cuenta este tipo de restricciónes a futuro.
+
+Y para finalizar, notamos que 4 administradores de computo poseian
+en sus nombramientos, mas de 80 horas al mes, cosa que se nos sugirio
+que truncacemos a 80, en el respectivo caso.
+

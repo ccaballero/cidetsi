@@ -1,0 +1,27 @@
+2012-07-23
+Informe #1: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy primer dia en el que desempeño mi cargo de administrador, comencé
+analizando la organización de los proyectos en las maquinas. Me preocupa
+en alguna medida los problemas que puedan suscitarse en el sistema de
+apoyo administrativo. 
+
+¿Que problemas tuve?
+Uno de los aspectos que note, es la curiosa falta de un estandar para
+localizar las cosas, o como diriamos apropiadamente, todo esta por todos
+lados, a pesar que existe una maquina virtual que reune un gran conjunto
+de la información, herramientas, y documentación, hay muchos otros lugares
+donde se encuentran fragmentos del proyecto, cuya importancia real no
+puede ser dictaminada por mi.
+
+¿Que actividad realizaré manaña?
+Para comenzar, intentaré localizar toda la información respecto al sistema
+de apoyo administrativo, ya sea documentación o cualquier recurso adicional.
+
+Despues necesitaré instalar algunas herramientas que considero necesarias,
+estas son: Imagen de Linux para la maquina virtual, cliente PostgreSQL para
+la maquina virtual windows, y Power Designer 16.
+
+Ademas pienso escribir la descripcion detallada de las nuevas funcionalidades
+que deberé desarrollar para el SigDIS.

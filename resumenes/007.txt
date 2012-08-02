@@ -1,0 +1,22 @@
+2012-07-31
+Informe #7: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy septimo día en el que desempeño mi cargo de administrador, consegui
+entender el problema referente al sistema de apoyo administrativo, para
+lo cual adjunto un informe mas detallado ahora, y posiblemente escriba
+otro el jueves según como se solucione el asunto en cuestión.
+Referente al sistema para convocatorias, aún seguimos en etapa de
+modelamiento. Probablemente aun hagamos algunos cambios en esta etapa,
+antes de pasar al desarrollo en php.
+
+¿Que problemas tuve?
+Tuvimos algunos problemas referente al nivel de genericidad que debe
+tener el sistema de convocatorias, hay varias partes en las que aún
+no tenemos una solución adecuada y concertada.
+
+¿Que actividad realizaré manaña?
+Mañana, espero poder finalizar el modelo, y comenzar a trabajar en
+algunas definiciones relativas al proceso de desarrollo. Tambien
+espero definir un plan de contingencia respecto al sistema de apoyo
+en lo que respecta a su falta de jefe de departamento.

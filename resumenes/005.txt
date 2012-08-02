@@ -1,0 +1,18 @@
+2012-07-27
+Informe #5: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy quinto día en el que desempeño mi cargo de administrador, tuve que
+corregir algunas inconsistencias con respecto al sistema de apoyo
+administrativo, escribi un informe mas detallado que adjuntaré a este
+informe.
+
+En el tiempo restante, seguí con la definición y modelamiento del
+sistema de convocatorias.
+
+¿Que problemas tuve?
+Ninguna novedad el día de hoy.
+
+¿Que actividad realizaré manaña?
+El lunes, tengo pensado revalidar los modelos de datos, y crear una
+propuesta formal de solución, con diapositivas, talvez.

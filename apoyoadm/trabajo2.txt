@@ -1,0 +1,36 @@
+FECHA: 2012/07/31
+
+Problema:
+En el momento de mostrar el formulario para nombramientos,
+de los docentes, en el campo de firmas aparecia, DIRECTOR DE CARRERA
+sin especificar el nombre de tal autoridad, se me solicito que
+incluyera tal información.
+
+Al revisar el código para ver el motivo por el que esto no
+funcionaba correctamente, descubri que originalmente el formulario
+estaba programado para colocar el nombre del jefe de carrera,
+y posteriormente alguien habia escrito una funcion para que si no
+existiese ese cargo asignado, se cambiara el formulario de modo
+que mostrara unicamente 'DIRECTOR DE CARRERA', todo esto puede
+notarse en:
+
+Archivo: MODNombramiento.pas
+Funcion: procedure reporteNomDoc(ci,gestion:String);
+  Linea: repnombra.lab_firma.Caption:='DIRECTOR DE CARRERA';
+
+Formulario: repnombra1
+Componente: TQuery
+Consulta: SELECT ... 
+          FROM autoridad a, cargo c
+          WHERE a.fk_cargo = c.codigo
+          AND c.nombre = 'JEFE DE DEPARTAMENTO'
+          AND a.estado = 'ACTIVO'
+
+Sin embargo, volvi a preguntarle a la secretaria, si esa perspectiva
+de la realidad era la correcta, me dijo que debia estar el nombre
+del JEFE DE DEPARTAMENTO, pero que aún no habia sido asignado, pero
+que esta autoridad iba a ser nominada el dia Miercoles 1 de agosto
+por la tarde, entonces quede de ir el jueves por la mañana para
+terminar de definir que autoridad debe estar establecida en los
+formularios, y planearé una solución de contingencia mientras tanto.
+

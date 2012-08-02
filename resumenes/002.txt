@@ -1,0 +1,21 @@
+2012-07-24
+Informe #2: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy segundo dia en el que desempeño mi cargo de administrador, estuve 
+revisando las politicas de respaldo sobre la base de datos, tuve algunos
+inconvenientes con las conexiones al servidor, despues de algunas
+averiguaciones pude realizar un primer respaldo, planee crear un respaldo
+el dia de ayer, pero no habia conseguido encontrar las herramientas que
+necesitaba. Estoy planeando crear un respaldo a las 8:15 cada dia, aún
+asi sería deseable poder hacer los respaldos desde una servidor que
+estuviera encendido todo el tiempo.
+
+¿Que problemas tuve?
+Tuve algunos inconvenientes con la red, que a pesar de que los solucione,
+no estoy seguro de las causas exactas, tarde mas de lo esperado en 
+conseguir realizar los respaldos de las bases de datos.
+
+¿Que actividad realizaré manaña?
+Me dedicaré ha completar la descripción y definición del problema del
+sistema para convocatorias.

@@ -1,0 +1,15 @@
+2012-07-25
+Informe #3: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy tercer dia en el que desempeño mi cargo de administrador, terminé
+la descripción del problema del sistema de convocatorias, ademas realicé
+algunos bocetos sobre una posible base de datos.
+
+¿Que problemas tuve?
+Un dia calmado, y sin novedades.
+
+¿Que actividad realizaré manaña?
+Mañana, pienso revalidar todas mis ideas con Lizbeth, y quiero comenzar a
+preparar las herramientas para la etapa de codificación (netbeans, symphony, etc).
+
