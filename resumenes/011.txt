@@ -1,0 +1,23 @@
+2012-08-07
+Informe #11: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy noveno día en el que desempeño mi cargo de administrador, debido a mi alta
+disponibilidad ya que no tuve que atender ningun problema referente al sistema
+de apoyo adminstrativo.
+Referente al sistema de convocatorias, termine el modelo entidad-relacion, el
+modelo fisico, y genere correctamente el archivo sql que conforma el esquema de
+la base de datos en MySQL. Luego termine el dia intentando configurar algunos
+paquetes necesarios para organizar el desarrollo, tuve algunos problemas por no
+tener internet y otros mas por que no existe mucho espacio en disco duro.
+
+¿Que problemas tuve?
+Tuve algunos inconvenientes en la preparacion del lugar para hacer las pruebas
+de despliegue del sistema, ya que la maquina no posee salida a internet, intentaré
+hacerla registrar mañana.
+
+¿Que actividad realizaré manaña?
+Pienso configurar la infraestructura para el desarrollo del proyecto, ya sea
+servidor web, servidor de base de datos y las herramientas adicionales que serán
+necesarias.
+
