@@ -1,0 +1,29 @@
+2012-08-02
+Informe #9: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy noveno día en el que desempeño mi cargo de administrador, realize en su
+mayor parte actividades referentes al sistema de apoyo administrativo, y
+sospecho que se pondrá peor con el tiempo, hasta el 8 de agosto, adjunto el
+documento 'trabajo4.txt' Que detalla el tipo de situaciones que he tratado.
+En los pocos ratos libres entre las peticiones, me ocupe de organizar los
+documentos, cree tres repositorios:
+
+    - cidetsi: para albergar mis reportes, durante mi estancia en este
+               laboratorio.
+    - convocatoria_doc: para albergar los archivos referentes al proceso
+                        de desarrollo del sistema de convocatorias.
+    - convocatoria_src: para albergar los archivos referentes al producto
+                        del desarrollo del sistema, es decir el codigo y lo
+                        relativo a este.
+
+¿Que problemas tuve?
+No se me presento nada que no pueda manejar, aun asi creo que todo esta
+temporada de nombramientos, podría perjudicar algo en lo que respecta al
+desarrollo del sistema de convocatorias.
+
+¿Que actividad realizaré manaña?
+Suponiendo que tenga el tiempo necesario, intentare seguir analizando la base
+de datos del sistema de convocatorias, referente al sistema de apoyo
+administrativo, es un misterio.
+

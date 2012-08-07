@@ -1,0 +1,20 @@
+2012-08-03
+Informe #10: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy noveno día en el que desempeño mi cargo de administrador, comence el dia
+haciendo cambios sobre la base de datos del sistema de convocatorias, procure
+organizar algunas funciones convencionales sobre el proceso de desarrollo que
+se comenzará a realizar.
+
+Ademas atendi algunos problemas sobre el sistema de apoyo administrativo, estos
+detallados en el archivo "trabajo5.txt".
+
+¿Que problemas tuve?
+No tuve ningun problema, a parte de la ansiedad por no poder ser mas eficiente,
+que sufrio constantemente ultimamente.
+
+¿Que actividad realizaré manaña?
+Pienso echarle una ojeada final al modelo entidad-relacion del sistema para las
+convocatorias, generar el modelo fisico y crear el archivo sql del esquema de
+base de datos, y un script de información ficticia para trabajar en el prototipo.

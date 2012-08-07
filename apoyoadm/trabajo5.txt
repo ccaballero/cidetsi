@@ -1,0 +1,73 @@
+FECHA: 2012-08-03
+
+Problema #1:
+En el departamento de Industrial, habia un problema con 
+el seguimiento del Ing. Oscar Rojas, ya que en su horario
+debia aparecer el cargo de JEFE DE DEPARTAMENTO, cosa que
+no sucedia, note que para que esto pasará, debia de marcarse
+el campo de "Marcar Autoridad", y colocar el tipo de dedicación
+que este ostenta, en este caso JEFE DE DEPARTAMENTO.
+
+Procure dirigirme al departamento y aclarar esta situación con
+la secretaria. Para que de esta forma, no tenga mas problemas
+de este tipo en el futuro.
+
+Problema #2:
+En el departamento de Industrial, se presento un problema al
+imprimir la lista de docentes, en el campo de observaciones,
+debia mostrarse JEFE DE DEPARTAMENTO sobre el registro del
+Ing. Rojas, y DIRECTOR DE CARRERA en el registro del Ing. Cossio,
+
+Resolvi este problema insertando a mano tales registros, notando
+algunos problemas de diseño sobre la base de datos, referidos a
+posibles ambiguiedades y replicaciones en algunas tablas. Tales
+problemas requeririan un estudio de impacto muy concienzudo para
+corregirlos, ademas de una posible actualización de las copias
+del programa, dejando esta anecdota solo para promesas de mejora
+futura, mas como un sueño, que como una realidad posible.
+
+Problema #3:
+En el departamento de Industrial, se presento un problema con
+respecto al juego de caracteres, cuando la secretaria imprimia
+los nombramientos y los seguimientos, se mostraban varias errores
+en las palabras que poseian acentos, como por ejemplo:
+
+    CIENCIAS Y TECNOLOG?A
+
+Ademas de algunos apellidos, materias y otros, en un comienzo
+considere que el problema era la aplicación, siendo escrita en
+Delphi, considere que esta talvez no podria trabajar con otro
+juego de caracteres que no sea ASCII. Revisando a fondo la base
+de datos descarte esta posibilidad.
+
+Procedi a alterar la información con la ayuda de XXXX, realizando
+modificaciones sobre las siguientes tablas:
+
+    carrera
+    hist_materia_dicta
+    hist_materia_labo
+    hist_nombra_doc
+    materia_dicta
+    materia_labo
+    nombra_doc
+    segui_doc
+    usuario
+
+Todos estos sobre sus campos facultad.
+
+Note que este problema era recurrente sobre toda la base de datos de
+industrial, biologia, quimica, electrica, mecanica, civil, y fisica;
+siendo curioso y reconfortante que la base de datos de informatica,
+se salvará (porque esta es la mas poblada de información).
+
+Corregi campos sobre la base de datos de:
+
+    industrial.
+    quimica.
+    biologia.
+    electrica.
+
+Mi hipotesis final, respecto a lo que sucedio, es que estas bases de datos
+fueron restauradas en algun momento en el pasado ó posiblemente se realizó
+una migración (de latin a utf8 posiblemente), y no se contemplo las
+transformaciones en el juego de caracteres.

@@ -1,0 +1,47 @@
+FECHA: 2012/08/02
+
+Problema #1:
+Fuí al departamento de Industrial como habia prometido, y me entere
+que ya habia sido designado el jefe de departamento, lo cual hacia
+mas facíl la solución al problema original en los nombramientos.
+
+Ahora el jefe de departamento es el Ing. Oscar Rojas Villarroel,
+teniendo esta información, procedi a registrar en el sistema, a la
+nueva autoridad, el usuario respectivo es "rojaso".
+
+Despues a mediodia, fui llamado por un problema con el seguimiento
+de ALFARO DENUS GONZALO, cuando se oprimia el boton de "Buscar" sobre
+la lista de docentes, este mostraba un mensaje de que el seguimiento
+no existia para tal docente; En la mayoria de los casos, cuando se
+cambia la gestión en curso, existe una posibilidad de recuperar el
+seguimiento de la anterior gestión, cuando se oprime el boton de
+"Buscar"; que para este caso no funcionaba.
+
+Primero intente averiguar, cual era el determinante por el cual
+se determinaba la accion a tomar; descubri que primero aparece el mensaje
+de copiado de seguimiento, y si colocas cancelar, la siguiente vez
+te muestra directamente el mensaje de no existencia.
+
+Todo este comportamiento es controlado en la tabla "segui_doc", donde
+el atributo estado puede tener dos posibles valores: "ACTIVO" o "INACTIVO".
+
+Solucione el problema cambiando manualmente el estado de "ACTIVO" a "INACTIVO".
+
+    UPDATE segui_doc SET estado = 'INACTIVO' WHERE codigo = '00041';
+
+Problema #2:
+En el departamento de Informática y Sistemas, ocurrieron tres
+problemas:
+
+a) No aparecia ni el seguimiento, ni el nombramiento para la
+   Lic. Leticia Blanco.
+
+   Procedi a insertalo para la gestion II/2012. Posteriormente
+   cambiamos las fechas de nombramiento y solicitud.
+
+b) El seguimiento de la Lic. Corina Flores, requeria una modificación
+   debido a una nueva materia llamada INTERACCION HUMANO COMPUTADOR,
+   se realizó las inserciones desde el mismisimo sistema.
+
+c) En el seguimiento del Ing. Fiorilo, aparecia la materia de PROGRAMACIÓN MOVIL,
+   esta debia ser cambiada a SERVICIOS TELEMATICOS. Se hizó el cambio manualmente.
