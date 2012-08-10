@@ -1,0 +1,26 @@
+2012-08-08
+Informe #12: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy decimosegundo día en el que desempeño mi cargo de administrador, pase
+la primera parte del día en las actividades mencionadas a continuación:
+
+    - En el disco duro solo habian disponibles unos 200MiB de espacio libre,
+      Procedi a eliminar paquetes innecesarios, limpiar caches, y borrar
+      videos de la computadora, consegui obtener 2.5GiB de espacio libre.
+    - Instale y configure los siguientes servicios:
+        - MySQL      5.1.41-3
+        - Apache2.2  2.2.14-5
+
+Posteriormente vino la secretaria y realize tareas para el sistema de apoyo
+administrativo, estas estan detalladas en el archivo trabajo6.txt.
+
+¿Qué problemas tuve?
+Solo tuve problemas en lo que respecta al sistema de apoyo administrativo.
+
+¿Qué actividades realizaré manaña?
+Mañana espero tener una version definitiva a la base de datos, definitiva en
+el sentido que ya cubre los requerimientos que estan contenplados en un
+inicio, aún asi sería muy iluso de mi parte pensar que no habrá mas
+modificaciones en la base de datos.
+

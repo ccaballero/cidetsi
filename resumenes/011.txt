@@ -2,7 +2,7 @@
 Informe #11: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
-Hoy noveno día en el que desempeño mi cargo de administrador, debido a mi alta
+Hoy decimoprimer día en el que desempeño mi cargo de administrador, debido a mi alta
 disponibilidad ya que no tuve que atender ningun problema referente al sistema
 de apoyo adminstrativo.
 Referente al sistema de convocatorias, termine el modelo entidad-relacion, el

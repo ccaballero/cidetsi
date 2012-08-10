@@ -2,7 +2,7 @@
 Informe #10: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
-Hoy noveno día en el que desempeño mi cargo de administrador, comence el dia
+Hoy decimo día en el que desempeño mi cargo de administrador, comence el dia
 haciendo cambios sobre la base de datos del sistema de convocatorias, procure
 organizar algunas funciones convencionales sobre el proceso de desarrollo que
 se comenzará a realizar.

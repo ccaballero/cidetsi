@@ -1,0 +1,19 @@
+FECHA: 2012-08-09
+
+Problema #1:
+Fuí al departamento de fisica a resolver problemas respecto a
+la configuración del seguimiento de VILLARROEL GIL ARMANDO,
+se me solicitó que eliminará todos los registros que concernian
+a su seguimiento.
+
+Despues de eliminar tales registros, volvi al departamento de
+Fisica, he instrui a la secretaria en el registro adecuado de
+seguimientos, horarios y horas. Hubó muchos inconvenientes en
+la calibración de horas, debido en parte al ciertos registros
+repetidos. El ultimo problema que resolvi fue que al exportar
+la lista de docentes a Excel, esta transformabá ciertos grupos
+en fechas, es decir (1-4) en (01-Abr), problema que corregi
+a mano en su archivo excel. Si algún día tengo la libertad de
+tomar mis propias decisiones, intentaré averiguar las causas
+profundas de este tipo de problemas.
+

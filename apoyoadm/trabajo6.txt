@@ -1,0 +1,34 @@
+FECHA: 2012-08-08
+
+Problema #1:
+En el departamento de informática y sistemas, se presento
+un problema debido al cambio de horarios, muchos de los
+seguimientos debieron cambiarse:
+
+Se rotaron las electivas de algunos docentes, y se incluyeron
+algunos cambios en las asignaciones.
+
+Ocurrio un problema con el registro de Lic. Aidee Vargas, en
+su nombramiento marcada 12 horas semanales, y 48 al mes, se me
+pidio que modificará las horas al mes, hasta un valor de 40.
+
+Al ver el código fuente del sistema de apoyo administrativo,
+descubri que las horas mensuales estan basadas en las horas
+semanales:
+
+    horas mes = horas semana * 4
+
+Una restricción escrita en el codigo, y por ende no modificable
+para casos especiales como este.
+
+Intente modificar las horas semana en el registro de la base
+de datos, primero intente modificar el registro hrs_sem en la
+tabla nombra_doc, ya que esta parecia la solucion mas razonable.
+Pero no funcionó, al ver el código fuente, note una logica muy
+rara:
+
+Despues de comprobar que ese pequeño cambio era practicamente
+imposible de conseguir en tan corto periodo de tiempo, se lo
+comunique a la secretaria, y esta parecio entender mi pena.
+
+
