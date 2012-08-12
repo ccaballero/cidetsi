@@ -1,4 +1,4 @@
-2012-08-03
+2012-08-03 (Viernes)
 Informe #10: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
@@ -12,7 +12,7 @@ detallados en el archivo "trabajo5.txt".
 
 ¿Que problemas tuve?
 No tuve ningun problema, a parte de la ansiedad por no poder ser mas eficiente,
-que sufrio constantemente ultimamente.
+que sufro constantemente en estos dias.
 
 ¿Que actividad realizaré manaña?
 Pienso echarle una ojeada final al modelo entidad-relacion del sistema para las

@@ -25,10 +25,10 @@ Intente modificar las horas semana en el registro de la base
 de datos, primero intente modificar el registro hrs_sem en la
 tabla nombra_doc, ya que esta parecia la solucion mas razonable.
 Pero no funcionó, al ver el código fuente, note una logica muy
-rara:
+rara.
 
 Despues de comprobar que ese pequeño cambio era practicamente
 imposible de conseguir en tan corto periodo de tiempo, se lo
-comunique a la secretaria, y esta parecio entender mi pena.
+comunique a la secretaria, y esta parecio entender mi quebranto.
 
 

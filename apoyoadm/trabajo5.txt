@@ -40,7 +40,7 @@ Delphi, considere que esta talvez no podria trabajar con otro
 juego de caracteres que no sea ASCII. Revisando a fondo la base
 de datos descarte esta posibilidad.
 
-Procedi a alterar la información con la ayuda de XXXX, realizando
+Procedi a alterar la información con la ayuda de PgAdmin, realizando
 modificaciones sobre las siguientes tablas:
 
     carrera

@@ -1,4 +1,4 @@
-2012-08-08
+2012-08-08 (Miercoles)
 Informe #12: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
@@ -20,7 +20,7 @@ Solo tuve problemas en lo que respecta al sistema de apoyo administrativo.
 
 ¿Qué actividades realizaré manaña?
 Mañana espero tener una version definitiva a la base de datos, definitiva en
-el sentido que ya cubre los requerimientos que estan contenplados en un
+el sentido que ya cubre los requerimientos que estan contemplados en un
 inicio, aún asi sería muy iluso de mi parte pensar que no habrá mas
 modificaciones en la base de datos.
 

@@ -1,0 +1,23 @@
+2012-08-10 (Viernes)
+Informe #14: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy decimocuarto día en el que desempeño mi cargo de administrador,
+basicamente solo realizamos una actividad, la planificación del
+proceso de desarrollo para el sistema de convocatorias. El resultado
+se encuentra en el documento llamado 'product_backlog.xls' en el
+repositorio convocatoria_doc.
+
+¿Qué problemas tuve?
+Hoy que se realizaron las inscripciones, note que todos los grupos de la
+materia proyecto final pasan clases en las mañanas, como yo curso tal
+materia, me vi perjudicado por un choque de horarios, lamentablemente,
+debo pasar clases todos los viernes a las 9:45 am. Necesitare discutir
+mis posibilidades con mis superiores, en cuanto me sea posible.
+
+¿Qué actividades realizaré manaña?
+Hoy casi al finalizar mi turno, se me solicito que genere los certificados
+para los auxiliares ad-honorem de la gestion I/2012, priorizaré esta tarea
+al maximo, en cuanto la termine satisfactoriamente, pienso analizar el
+codigo fuente del sigdis, de modo que pueda entender algo mas acerca de
+symfony.
