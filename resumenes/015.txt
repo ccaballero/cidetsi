@@ -1,0 +1,30 @@
+2012-08-13 (Lunes)
+Informe #15: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy decimoquinto día en el que desempeño mi cargo de administrador,
+realize dos tareas, en primer lugar, Lizbeth y yo nos asignamos partes
+del sistema de convocatorias para desarrollar, quedamos en tener
+lanzamientos cada jueves.
+
+Por otro lado realize actividades en lo referente al sistema de apoyo
+administrativo, estas estan especificadas en el archivo 'trabajo8.txt'.
+
+¿Qué problemas tuve?
+Ultimamente estoy sufriendo muchos percances debido a mi falta de
+conocimientos acerca de symfony, trataré de conseguir muchas mas horas
+de practica.
+
+¿Qué actividades realizaré manaña?
+Hoy no pude revisar el código fuente del sigdis, espero realizar eso
+mañana, ademas ya comenzaré a preocuparme la mis tareas asignadas, en
+este caso son:
+
+    - Registrar requisitos en una convocatoria.
+         - Añadir requisitos.
+         - Visualizar requisitos.
+         - Modificar requisitos.
+         - Eliminar requisitosVisualizar requisitos.
+         - Modificar requisitos.
+         - Eliminar requisitos.
+

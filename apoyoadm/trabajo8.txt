@@ -1,0 +1,23 @@
+FECHA: 2012-08-13
+
+Problema #1:
+El administrador de computo GONZALO NINA MAMANI, me encargo
+preparar la lista de auxiliares adhonorem de la gestión
+I/2012, me mando un archivo excel, en el que estaban los
+nombres y carnets de los auxiliares, encontre un conjunto
+amplio de problemas en el sistema de apoyo administrativo,
+y como le prometi que tendria todo listo para el lunes en la
+tarde, crei conveniente realizar las inserciones y actualizaciones
+a mano, es decir modificando directamente sobre las siguientes
+tablas:
+
+    - adhonorem.
+    - car_adh.
+
+Note una anomalia respecto a las cargas horarias, en la base de
+datos existen tres posibilidades registradas, pero en la lista
+no especifica nada.
+
+Deje el sistema en la capacidad de generar el listado y los
+certificados en cualquier momento.
+
