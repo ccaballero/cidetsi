@@ -1,0 +1,21 @@
+2012-08-14 (Martes)
+Informe #16: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy decimosexto día en el que desempeño mi cargo de administrador,
+realize correcciones respecto al modelo de base de datos, luego,
+dedique todos mis esfuerzos a entender como funciona el framework
+symfony, creo que necesitare unos dias mas antes de poder asimilar
+el uso de esta libreria de forma productiva. Espero que este tiempo
+sea muy provechoso.
+
+Aún asi creo que es una libreria bastante interesante.
+
+¿Qué problemas tuve?
+No tuve ningun problema, de hecho fue muy reconfortante no tener
+que pensar en mas de un sistema informatico, para variar.
+
+¿Qué actividades realizaré manaña?
+Mañana intentaré alcanzar los conocimientos suficientes sobre
+doctrine para comenzar a generar los futuros visores del proyecto.
+
