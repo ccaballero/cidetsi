@@ -17,5 +17,6 @@ que pensar en mas de un sistema informatico, para variar.
 
 ¿Qué actividades realizaré manaña?
 Mañana intentaré alcanzar los conocimientos suficientes sobre
-doctrine para comenzar a generar los futuros visores del proyecto.
+controladores y vistas, como para planificar mis actividaes de la
+siguiente semana.
 

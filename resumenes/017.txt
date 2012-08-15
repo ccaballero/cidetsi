@@ -1,0 +1,17 @@
+2012-08-15 (Miercoles)
+Informe #17: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy decimoseptimo día en el que desempeño mi cargo de administrador,
+continue aprendiendo a utilizar el framework symfony, creo que ya
+entiendo sobre su manejo de controladores, y su sistema de plantillas.
+
+¿Qué problemas tuve?
+No tuve ningun problema.
+
+¿Qué actividades realizaré manaña?
+Seguiré mi capacitación en symfony, intentare captar los conceptos
+fundamentales, acerca del ORM y si me queda tiempo entender el manejo
+de formularios, ah talves aproveche el feriado para acelerar estos
+tiempos tan improductivos.
+
