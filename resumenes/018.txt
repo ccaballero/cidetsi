@@ -1,0 +1,22 @@
+2012-08-17 (Viernes)
+Informe #18: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy decimoctavo día en el que desempeño mi cargo de administrador,
+continue aprendiendo a utilizar el framework symfony, aproveche
+tambien para ver el código fuente del sigdis, creo que ya estoy
+en la capacidad de comprender el que y el donde se estan realizando
+las funciones, las rutas y las presentaciones.
+
+Con los ultimos esfuerzos del dia, procuramos realizar un modelo
+de navegacion basico, para tener una mejor idea, respecto a como
+se verá la pagina principal.
+
+¿Qué problemas tuve?
+No tuve ningun problema.
+
+¿Qué actividades realizaré manaña?
+Si los tiempos me sonrien, procurare iniciar la codificación real
+sobre la aplicación definitiva, inicialmente las plantillas y el
+routing basico.
+
