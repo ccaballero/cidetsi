@@ -1,0 +1,18 @@
+2012-08-20 (Lunes)
+Informe #19: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy decimonoveno día en el que desempeño mi cargo de administrador,
+termine de cultivarme en el orm denominado doctrine, como ya existia
+un esquema de base de datos construido, utilice este para generar el
+esquema necesario para doctrine, el resultado fue, como se esperaba
+un mapeo de datos que no respetaba las referencias, procuraré buscar
+una solución para esto.
+
+¿Qué problemas tuve?
+No tuve ningun problema.
+
+¿Qué actividades realizaré manaña?
+Si consigo solucionar rapidamente el problema del mapeo para doctrine,
+espero poder comenzar a trabajar sobre el enrutador de symfony.
+
