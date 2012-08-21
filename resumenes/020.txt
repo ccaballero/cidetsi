@@ -1,0 +1,28 @@
+2012-08-21 (Martes)
+Informe #20: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy vigesimo día en el que desempeño mi cargo de administrador,
+hoy termine de entender el metodo de enrutamiento de symfony,
+y me propuse a diseñar las reglas de encaminamiento de las
+peticiones, luego de tener una idea basica, descubri que las rutas
+que escribi podian ser un tanto erroneas, desde el punto de vista
+de la usabilidad.
+
+Luego me llamo la secretaria, resolvi algun problema simple en el
+sistema de apoyo administrativo, luego de terminar, continue
+pensando como podría hacer las rutas de navegacion mas intuitivas.
+
+Se me ocurrieron muchas soluciones, pero no una que me convenza
+totalmente, seguiré pensando en eso hasta mañana.
+
+¿Qué problemas tuve?
+Tengo una duda moral, si sería recomendable, primeramente terminar
+de adoctrinarme en symfony, y escribir a medida que aprendo, ya 
+que hay cosas sobre symfony que parecen ser muy faciles para usuarios
+avanzados, pero muy dificiles para usuarios principiantes.
+
+¿Qué actividades realizaré manaña?
+Espero poder crear mis primeras vistas para el sistema de
+convocatorias.
+
