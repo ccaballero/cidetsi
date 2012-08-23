@@ -1,0 +1,16 @@
+2012-08-22 (Miercoles)
+Informe #21: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy vigesimoprimer día en el que desempeño mi cargo de administrador,
+lei mi libro de symfony, en lo referente a la creacion de formularios,
+ademas realize algunas actividades sobre el sistema de apoyo
+administrativo (Detalladas en el archivo trabajo10.txt).
+
+¿Qué problemas tuve?
+No tuve ningun incoveniente en el desempeño de mis funciones.
+
+¿Qué actividades realizaré manaña?
+Espero poder crear las vista que habia prometido anteriormente. Y seguir
+aprendiendo a desarrollar en symfony.
+

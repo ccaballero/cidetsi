@@ -1,0 +1,53 @@
+FECHA: 2012-08-22
+
+Problema #1:
+La secretaria del departamento de informatica y sistemas, me
+solicito cambiar la asignacion de items, en el laboratorio de
+mantenimiento, debido al retiro de uno de sus administradores,
+
+Tuve que modificar la siguiente información:
+
+ADMINISTRADOR DE MANTENIMIENTO (80hrs):
+    MERIDA PEÑALOZA LUIS FERNANDO
+
+AUXILIAR DE 64hrs:
+    MEDINA MITMA GIMENA LENI
+
+Y añadi un nuevo axiliar:
+
+AUXILIAR DE 32hrs:
+    PEREZ HEREDIA MARIA NORAH
+
+Ademas tuve que registrar los cambios en sus horarios, corregir
+sus horas trabajadas a la semana, y sus nombramientos.
+
+Encontre algunos errores en la aplicación:
+
+- Cuando intente realizar las modificaciones en el seguimiento
+  del nuevo administrador, no mostraba cierta información necesaria
+  para modificar sus horarios.
+
+- Las asignaciones de 64 horas, no existen, unicamente las de 32
+  horas, pero crea una inconveniencia curiosa, debido a la
+  distribución de items en el laboratoria de mantenimiento, los
+  items 5 y 7, mas concretamente.
+
+- Por ultimo, tuve muchas dificultades debido al diseño de la base
+  de datos, me parece que existen muchos datos redundantes, que me
+  creo muchas dificultades a la hora de modificar las cargas horarias
+  de los auxiliares.
+
+  Para ser mas especifico, existen tres campos muy diferentes donde
+  parece existieran la misma información:
+
+  - CAR_AUX { carga_horaria }
+  - CARGO { carga_horaria }
+
+  - SEGUI_AUX { hrs_trab_sem, hrs_trab_mes }
+  - MATERIA_LABO { hrs_sem }
+  - NOMBRA_AUX { hrs_sem }
+
+  Es tambien para mencionar el hecho que el atributo hrs_sem de la
+  table NOMBRA_AUX, parece no ser realmente usado, todo se calcula
+  basado en la información de hrs_sem en la tabla MATERIA_LABO.
+

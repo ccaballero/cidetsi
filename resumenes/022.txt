@@ -1,0 +1,15 @@
+2012-08-23 (Jueves)
+Informe #22: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy vigesimosegundo día en el que desempeño mi cargo de administrador,
+lei varios capitulos de mi manual de symfony, creo que con un dia mas,
+podre iniciar mi desarrollo a nivel mas o menos aceptable.
+
+¿Qué problemas tuve?
+No tuve ningun incoveniente en el desempeño de mis funciones.
+
+¿Qué actividades realizaré manaña?
+Voy a experimentar con la generacion automatica de los formularios
+y de los generadores administrativos.
+
