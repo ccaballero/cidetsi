@@ -1,0 +1,19 @@
+2012-08-27 (Lunes)
+Informe #24: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy vigesimocuarto día en el que desempeño mi cargo de administrador,
+termine de mapear mis objetos con doctrine, tengo aun que revisar
+minucisosamente, la generacion de objetos. Considerando que tengo
+muchas entidades debiles, hay muchas claves primarias que viajan.
+Aun asi, creo que ya tengo los objetos necesarios para pasar a
+codificar los controladores.
+
+¿Qué problemas tuve?
+No tuve ningun incoveniente en el desempeño de mis funciones.
+
+¿Qué actividades realizaré manaña?
+Mañana, voy a tratar de realizar mis primeros controladores, tengo
+asignada la funcion de "Registrar requisitos", la tengo desde hace
+ya tiempo, incluso desde antes que supiera como funcionaba symfony.
+

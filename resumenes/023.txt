@@ -1,0 +1,18 @@
+2012-08-24 (Viernes)
+Informe #23: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy vigesimotercer día en el que desempeño mi cargo de administrador,
+estuve mapeando el modelo de base de datos en doctrine, pese a los
+multiples inconvenientes; ademas de leer infinidad de manuales sobre
+doctrine, consegui resolver muchas de mis dudas.
+
+¿Qué problemas tuve?
+Tuve muchos problemas, debido a mi escasa experiencia en doctrine, y
+en symfony en general.
+
+¿Qué actividades realizaré manaña?
+Mañana, pienso y de hecho estoy superseguro, que voy a terminar de
+mapear mi base de datos en doctrine. No importa que suceda, voy a
+finalizar esa tarea.
+
