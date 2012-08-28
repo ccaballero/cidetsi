@@ -1,0 +1,24 @@
+FECHA: 2012-08-28
+
+Problema #1:
+Fui llamado desde el departamento de industrial, la causa,
+la secretaria estaba generando un reporte de los docentes,
+entre los cuales, existe un registro generico, llamado,
+
+POR DESIGNAR TIEMPO COMPLETO,
+
+Este al estar siendo modificado, hubo algunos problemas con
+el seguimiento que mostraba, y por ende con su numero de horas
+respectivo.
+
+Lo que hize fue revisar la existencia de tal registro, luego
+pase a revisar su seguimiento, que estaba vacio, asi que lo
+llene segun las especificaciones que se me dieron, hecho esto
+las horas totales en la plantilla de docentes, volvi a calibrarse
+correctamente.
+
+Me menciono ademas algunos problemas con respecto a algunas
+inconsistencias en el numero de horas, de algunos registros.
+Pero no fue algo que me dijo que ajustase, se diria que fue a
+modo de comentario.
+
