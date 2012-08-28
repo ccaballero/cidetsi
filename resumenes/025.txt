@@ -1,0 +1,17 @@
+2012-08-28 (Martes)
+Informe #25: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy vigesimoquinto día en el que desempeño mi cargo de administrador,
+Realice mis primeros controladores en symfony, en este caso me estoy
+ocupando del modulo de requisitos. Espero ir agarrando velocidad desde
+ahora en adelante.
+
+¿Qué problemas tuve?
+No tuve ningun incoveniente en el desempeño de mis funciones.
+
+¿Qué actividades realizaré manaña?
+Mañana, espero poder unir los generadores administrativos de symfony
+de modo que pueda generar automaticamente varios componentes
+generales que ya posee el framework.
+
