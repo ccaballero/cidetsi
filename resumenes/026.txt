@@ -1,0 +1,20 @@
+2012-08-29 (Miercoles)
+Informe #26: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy vigesimosexto día en el que desempeño mi cargo de administrador,
+realize basicamente dos actividades, genere los componentes de
+administracion del modulo requisitos, para el sistema de
+convocatorias, despues estuve configurandolos.
+
+Adicionalmente lei la parte del manual de symfony que respecta a la
+realización de pruebas unitarias y funcionales, pero aun no me siento
+del todo listo para cambiar mi metodologia de desarrollo.
+
+¿Qué problemas tuve?
+No tuve ningun incoveniente en el desempeño de mis funciones.
+
+¿Qué actividades realizaré manaña?
+Mañana, espero poder terminar todo lo referente a la administracion
+de plantilla de requisitos.
+
