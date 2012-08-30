@@ -1,0 +1,33 @@
+2012-08-30 (Jueves)
+Informe #27: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy vigesimosexto día en el que desempeño mi cargo de administrador,
+volvi a dividir mis actividades en dos tareas:
+
+- Lectura del manual de zend (capitulos 16 y 17).
+      Ya me faltan solamente dos capitulos.
+- Escritura de funcionalidad sobre el sistema propiamente dicho.
+      Pero mucho de ese tiempo lo tuve que gastar en el problema
+      que describo a continuación.
+
+¿Qué problemas tuve?
+Bueno, mientras esta creando y configurando las vistas administrativas,
+caí en cuenta de este error que me sale:
+
+500 | Internal Server Error | Doctrine_Connection_Mysql_Exception
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'c2.id' in 'on clause'
+
+Me pase un buen pedazo de mañana buscando las causas, luego note
+que se debe a la forma en que he mapeado mi base de datos. Y ahi fue
+donde me estanque.
+
+¿Qué actividades realizaré manaña?
+Debido a los problemas que tuve, y mencione anteriormente, no termine
+mi objetivo planteado, que era:
+
+"Mañana, espero poder terminar todo lo referente a la administracion
+de plantilla de requisitos."
+
+Espero poder conseguirlo en esta ocasión.
+
