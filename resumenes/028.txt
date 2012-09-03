@@ -1,0 +1,25 @@
+2012-08-31 (Viernes)
+Informe #28: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy vigesimooctavo día en el que desempeño mi cargo de administrador,
+volvi a dividir mis actividades en dos tareas:
+
+- Lectura del manual de zend (capitulos 18 y 19).
+    Ya termine el libro, pero aun siento que me falta mucho por
+    aprender, asi que comence el otro libro sobre symfony practico.
+- Escritura de funcionalidad sobre el sistema propiamente dicho.
+    Estuve corrigiendo los detalles que estaban mal mapeados en mis
+    modelos de doctrine, luego de eso comenzo a funcionar adecuadamente
+    mis funciones sobre el modulo de requisitos.
+
+¿Qué problemas tuve?
+Solo tuve un problema, se nos comunico que estaba habiendo subidas
+de tension, razon por la cual tuvimos que desalojar el lugar, lo
+antes posible, por desgracia fue incluso antes que pudiese terminar
+de escribir este informe.
+
+¿Qué actividades realizaré manaña?
+Si todo va bien, espero poder terminar de escribir todas las
+funcionalidades del modulo encargado del registro de requisitos.
+
