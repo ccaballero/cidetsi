@@ -1,0 +1,25 @@
+FECHA: 2012-09-03
+
+Problema #1:
+Se invoco mi presencia desde el departamento de informática y sistemas, para
+realizar las modificaciones necesarias, para la impresion de dos nuevos
+seguimientos:
+
+    - MONTECINOS CHOQUE, MARCO ANTONIO.
+    - GARCIA PEREZ, CARMEN ROSA
+
+Para las materias de TALLER DE PROGRAMACIÓN EN BAJO NIVEL, y INTELIGENCIA
+ARTIFICIAL, respectivamente.
+
+La pizca de complejidad que me fue impuesta, fue que solo necesitaban
+imprimir un seguimiento, que tuviese, unicamente los horarios para esas
+materias, ignorando el resto de las materias que tienen.
+
+Lo resolvi cambiando las referencias de sus antiguas materias a otros docentes,
+de forma que pudiese llenar un nuevo seguimiento para estos casos. Asi deje la
+base de datos intensionalmente inconsistente por unos momentos, hasta despues
+de poder imprimir los seguimientos y nombramientos necesarios.
+
+Luego altere, nuevamente las referencias a sus posiciones originales, de forma
+satisfactoria, y ni un simple 'rayos!!' fue dicho este dia.
+

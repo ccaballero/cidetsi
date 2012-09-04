@@ -1,0 +1,19 @@
+2012-09-04 (Martes)
+Informe #30: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy trigésimo día en el que desempeño mi cargo de administrador,
+volvi a dividir mis actividades en dos tareas:
+
+- Lectura del manual practico de symfony (capitulos 18 y 19).
+    Voy por el capitulo 9.
+- Escritura de funcionalidad sobre el sistema propiamente dicho.
+    Trabaje sobre lime y las pruebas unitarias.
+
+¿Qué problemas tuve?
+No tuve problemas, solo me preocupa la curva de aprendizaje que
+parezco ir llevando
+
+¿Qué actividades realizaré manaña?
+Pienso hacer un retoque sobre los formularios.
+

@@ -5,7 +5,7 @@ Informe #28: Carlos Eduardo Caballero Burgoa
 Hoy vigesimooctavo día en el que desempeño mi cargo de administrador,
 volvi a dividir mis actividades en dos tareas:
 
-- Lectura del manual de zend (capitulos 18 y 19).
+- Lectura del manual de symfony (capitulos 18 y 19).
     Ya termine el libro, pero aun siento que me falta mucho por
     aprender, asi que comence el otro libro sobre symfony practico.
 - Escritura de funcionalidad sobre el sistema propiamente dicho.

@@ -1,0 +1,30 @@
+2012-09-03 (Lunes)
+Informe #29: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy vigesimo noveno día en el que desempeño mi cargo de administrador,
+volvi a dividir mis actividades en dos tareas:
+
+- Lectura del manual practico de symfony (capitulos 18 y 19).
+    Voy por el capitulo 7, creo que ya tengo mas idea respecto a de
+    que va esto de symfony. Al fin.
+- Escritura de funcionalidad sobre el sistema propiamente dicho.
+    Trabaje sobre el sistema de enrutamiento de symfony, cambie todos
+    los mapeos del objeto sfRoute al objeto sfDoctrineRoute, alterando
+    sustancialmente, todos los metodos que poseia anteriormente.
+
+Adicionalmente a estas, realize algunos trabajos sobre el sistema de apoyo
+administrativo, detallados en el archivo trabajo12.txt
+
+¿Qué problemas tuve?
+Note que como de costumbre, me he complicado la vida mas de lo realmente
+necesario, asi que cambie los modelos de doctrine, de modo que pueda ir
+modificandolos en la medida de lo necesario, hasta antes de hoy todos estos
+estaban modelados en su totalidad, lo que me daba una perspectiva del sistema
+mas compleja que en estas primeras etapas. Espero haber aprendido un leccion
+que me sirva en el futuro.
+
+¿Qué actividades realizaré manaña?
+Pienso avanzar en mi libro sobre symfony practico, he ir cambiando las funciones
+como en el libro sea recomendado.
+
