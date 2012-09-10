@@ -1,0 +1,23 @@
+2012-09-05 (Miercoles)
+Informe #31: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy trigésimo día en el que desempeño mi cargo de administrador,
+volvi a dividir mis actividades en tres tareas:
+
+- Lectura del manual practico de symfony.
+    Voy por el capitulo 10.
+- Escritura del informe resumen que me pidio el Ing.Villarroel.
+- Integración de la plantilla que realizó Lizbeth, con las partes
+  de funcionalidad que yo poseia.
+
+¿Qué problemas tuve?
+Sin novedad en el frente.
+
+¿Qué actividades realizaré manaña?
+Pienso y tratare de dejar todo listo, por si el viernes hubiera
+presentación, revisar mis informes pasados me ha hecho pensar
+sobre algunas cosas que prometi y que no cumpli satisfactoriamente,
+asi que procurare ser mas realista en todas mis estimaciones de
+hoy y hacia el futuro.
+

@@ -5,7 +5,7 @@ Informe #30: Carlos Eduardo Caballero Burgoa
 Hoy trigésimo día en el que desempeño mi cargo de administrador,
 volvi a dividir mis actividades en dos tareas:
 
-- Lectura del manual practico de symfony (capitulos 18 y 19).
+- Lectura del manual practico de symfony.
     Voy por el capitulo 9.
 - Escritura de funcionalidad sobre el sistema propiamente dicho.
     Trabaje sobre lime y las pruebas unitarias.

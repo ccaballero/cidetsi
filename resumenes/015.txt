@@ -24,7 +24,5 @@ este caso son:
          - Añadir requisitos.
          - Visualizar requisitos.
          - Modificar requisitos.
-         - Eliminar requisitosVisualizar requisitos.
-         - Modificar requisitos.
          - Eliminar requisitos.
 
