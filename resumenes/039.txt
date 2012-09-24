@@ -1,0 +1,25 @@
+2012-09-18 (Martes)
+Informe #39: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy trigésimo noveno día en el que desempeño mi cargo de administrador,
+Comencé el desarrollo de las funcionalidades referentes a la creación
+de convocatorias, y su manejo de estados.
+
+¿Qué problemas tuve?
+Tuve muchos inconvenientes en lo referente al mapeo con doctrine, en
+las anteriores funcionalidades, las relaciones eran directas, y no
+había ningun problema, pero en el caso de las convocatorias, aún no
+estoy muy seguro, sobre como realizar un mapeo de dos relaciones, tipo
+maestro-detalle, y mucho menos de tipo reflexion multiple.
+
+Ademas tuve, tengo, y problablemente tendré muchos problemas mas con
+la red; esta se desconecta, siempre en los momentos mas importantes
+de mi vida. Necesito llegar al fondo del asunto lo antes posible.
+
+¿Qué actividades realizaré manaña?
+Hoy instale pdflatex, y sus respectivas herramientas de procesamiento
+de texto. Mañana pienso portar la convocatoria que posee, a latex, y
+probar si puedo incluir un generador de documentos que transforme de
+formato XML a formato TEX y a partir de ahi a formato PDF.
+

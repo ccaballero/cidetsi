@@ -2,10 +2,19 @@
 Informe #32: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
-Hoy trigésimo día en el que desempeño mi cargo de administrador,
+Hoy trigésimosegundo día en el que desempeño mi cargo de administrador,
+desarrolle los modules en los que las plantillas estan basados,
+considerando que todos estos poseen una funcionalidad muy similar, los
+generalice a una solucion común los modulos requisitos, requerimientos,
+eventos, y documentos. En lo que respecta al modulo de evaluaciones,
+creo que requerire mucho mas tiempo para concebir una solución mas
+adecuada.
 
 ¿Qué problemas tuve?
 Sin novedad en el frente.
 
 ¿Qué actividades realizaré manaña?
+Pienso integar todas las funciones que posee, y que posee Lizbeth,
+en el tan anhelado prototipo que prometimos, este de medir el
+esfuerzo me parece mas un arte que una ciencia.
 

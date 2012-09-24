@@ -1,0 +1,19 @@
+2012-09-19 (Miercoles)
+Informe #40: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy cuadragésimo día en el que desempeño mi cargo de administrador,
+escribi una plantilla en latex, con el contenido salida que debo poseer
+para la impresion de una convocatoria. Ahora debo buscar un metodo para
+convertir multiples documentos tex a pdf, directamente. Luego trataré
+de generar los documentos TEX a partir de XML, mediante un transformador
+en XSLT.
+
+¿Qué problemas tuve?
+No tuve ningún problema.
+
+¿Qué actividades realizaré manaña?
+Con esto de los agasajos de la FCyT, parece ser que esta semana ya se fue,
+planeo dedicar todos mis esfuerzos a terminar el trabajo de generación de
+credenciales.
+

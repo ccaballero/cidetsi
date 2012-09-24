@@ -1,0 +1,13 @@
+FECHA: 2012-09-06
+
+Problema #1:
+Se invoco mi presencia desde el departamento de informática y sistemas, para
+realizar las modificaciones necesarias, para la impresion de un nuevo
+seguimiento:
+
+    - AYOROA CARDOZO, JOSE RICHARD.
+    Sobre la materia de sistemas expertos.
+
+Se me comento que no era prioritario, pero que la secretaria necesitaba tenerlo
+a mano, y listo para imprimir.
+
