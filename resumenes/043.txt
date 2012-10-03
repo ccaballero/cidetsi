@@ -1,18 +1,23 @@
-2012-09-21 (Viernes)
-Informe #42: Carlos Eduardo Caballero Burgoa
+2012-09-24 (Lunes)
+Informe #43: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
-Hoy cuadragésimo segundo día en el que desempeño mi cargo de administrador,
-tuve que ir al laboratorio de computo a comer salteñas, luego volvi para
-atender las planificaciones relativas al mantenimiento de las computadoras.
-
-Siento que se espera de mi que no trabaje, asi que ralentice todas mis
-actividades para parecer mas normal.
+Hoy cuadragésimo tercer día en el que desempeño mi cargo de administrador,
+regresando (si es que se puede) a la normalidad de las cosas, realize las
+listas de convocatorias por estado, ademas de probar algunas alternativas
+a la previsualizacion del documento, con la libreria imagemagick.
 
 ¿Qué problemas tuve?
 No tuve ningún problema.
 
 ¿Qué actividades realizaré manaña?
-Retomaré mis actividades pendientes, en el sistema de convocatorias, planeo
-seguir programando las funciones referentes a la edición de una convocatoria.
+Comenzaré la busqueda de librerias y transformadores para la generación
+de los documentos necesarios para el proceso de convocatorias.
+Mi teoria en este momento es algo parecido a esto:
+
+    YML --> XML (materia primaria)
+    XML --> TEX (para procesamiento de texto avanzado)
+        XML --> HTML (para la publicación en la web)
+        XML --> TXT (para el envio por medios alternativos, ej. RSS, EMAIL)
+    TEX --> PDF (como punto final)
 
