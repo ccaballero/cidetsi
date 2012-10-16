@@ -1,0 +1,17 @@
+// planificacion
+
+1.- ACTIVIDADES PLANIFICADAS PARA EL DIA DE HOY:
+	
+	- Backup al sistema de mantenimientos.
+	- Evaluar el sprint 2 planificado, realizar modificaciones de ser necesario.
+	
+2.- ACTIVIDADES DEL DIA DE HOY:
+
+	- Evaluar el sprint 2 planificado, realizar modificaciones de ser necesario.
+	- El proceso de evaluación de una convocatoria es más compleja de la prevista. Se partió este requisito en dos partes.
+ 
+
+3.- PROBLEMAS CON ACTIVIDADES:
+
+4.- ACTIVIDADES PARA EL DIA DE MAÑANA:
+	- Continuar con lo planificado del sprint 2.

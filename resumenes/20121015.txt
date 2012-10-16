@@ -1,0 +1,27 @@
+
+1.- ACTIVIDADES PLANIFICADAS PARA EL DIA DE HOY:
+	- Crear modulo de backend para el manejo de un Admin.
+	- Instalar plugin sfDoctrineGuardPlugin para la gestion de usuarios, revisar comandos de este plugin.
+	
+2.- ACTIVIDADES DEL DIA DE HOY:
+	- Añadiendo una apps de backend para administrador para el proyecto.
+	- Configurando la conexión entre apps. Creando una carpeta de configuracion al mismo nivel de las apps.  
+	- Surge el problema call to undefined method sfRoute::getObject, al tratar de acceder a cualquier página.
+	- Después de varios intentos de solucionar el problema, se procedió a retirar el backend, y darle prioridad a la instalación del plugin.
+	- Instalación manual de plugin sfDoctrineGuardPlugin con la ayuda de Carlos dado que él tambien trató de instalar el plugin ExtraFormPlugin y no lo consiguió.
+	- Uso de comando de DoctrineGuard para la creacion de tablas para el manejo de usuarios.
+	
+
+3.- PROBLEMAS CON ACTIVIDADES:
+	- Fatal error: Call to undefined method sfRoute::getObject() in E:\convocatorias_src\apps\frontend\modules\job\actions\actions.class.php on line 22
+	- Errores de instalacion de plugin:
+		Errores al utilizar el comando:	plugin:install sfDoctrineGuardPlugin, "Pear" reporta varios métodos deprecados, y problemas para hallar la dirección web de DoctrineGuard.
+		Una vez copiados los archivos manualmente, se ejecuta el comando php symfony plugin:publish-assets, se generan warnings; pero symfony no reporta su instalacion.
+		Sugerencia por parte de Carlos para volver a empezar todo de nuevo, verificando cada detalle. Se logró instalar de forma satisfactoria.
+	
+		
+
+4.- ACTIVIDADES PARA EL DIA DE MAÑANA:
+
+	- Continuar con el módulo de Gestion de Usuarios, procurar avanzar con la gestión  de permisos
+	- Definir los tipos de permisos y los grupos de usuarios (credenciales)

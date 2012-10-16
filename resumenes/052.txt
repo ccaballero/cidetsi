@@ -2,9 +2,17 @@
 Informe #52: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
-Hoy cuadragésimo septimo día en el que desempeño mi cargo de administrador,
+Hoy quincuagésimo segundo día en el que desempeño mi cargo de administrador,
+vimos conveniente recalcular muchas de las funcionalidades que deberiamos
+presentar dentro de 2 semanas.
+
+Cambiamos ciertas precedencias en lo que respecta a las funcionalidades que
+necesitamos, y las que deberiamos tener listas.
 
 ¿Qué problemas tuve?
+Siento cierto miedo por el futuro, espero que sea una actitud pasajera.
 
 ¿Qué actividades realizaré manaña?
+El Lunes pienso poner todo en orden para acelerar mi desarrollo respecto a las
+cosas que tengo, deberia tener y tendre para el dia de la presentacion.
 

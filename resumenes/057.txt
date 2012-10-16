@@ -1,0 +1,16 @@
+2012-10-12 (Viernes)
+Informe #57: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy quincuagésimo septimo día en el que desempeño mi cargo de administrador,
+Redefinimos las formas de interacción, asignamos las funciones que deberiamos
+realizar, y mejoramos nuestras herramientas para planificacion y seguimiento.
+
+¿Qué problemas tuve?
+No tuve problemas referentes a esto que estoy viviendo.
+
+¿Qué actividades realizaré manaña?
+Desde este lunes, poseeo nuevas funcionalidades para realizar, inicialmente
+debo terminar muchas de las funcionalidades basicas que establecimos en el
+anterior sprint, y que a la larga se nos salierons de las manos.
+

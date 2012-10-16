@@ -1,0 +1,20 @@
+
+1.- ACTIVIDADES PLANIFICADAS PARA EL DIA DE HOY:
+	- Continuar con el Sprint 2.
+	- Revisar la planificación de mis actividades en el sprint 2.
+	
+2.- ACTIVIDADES DEL DIA DE HOY:
+	- Revisión de avances en el proyecto, nos dimos cuenta de que no habian avances. Entramos en pánico.
+	- Análisis de las causas por las que no habian avances; se encontró que el origen de todo
+	fue la desconfiguración de la máquina y la desorganización del proyecto, decidimos apegarnos a la metodología Scrum. 
+	- Intercambio de experiencias en Scrum con Carlos, se optó por seguir las prácticas del libro "Scrum and XP from the trenches", al pie de la letra.
+	- Revisión general de lo planificado Sprint 2. Buscando historias de usuario realizables.
+	- Revisión general el sistema y sus requerimientos.
+	- Se renombró el proyecto a recroTesla.
+
+3.- PROBLEMAS CON ACTIVIDADES:
+	- 
+
+4.- ACTIVIDADES PARA EL DIA DE MAÑANA:
+	- Replanificación.
+	- Llegar dos horas antes de lo habitual para replanificar. 

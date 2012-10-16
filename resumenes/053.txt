@@ -1,0 +1,25 @@
+2012-10-08 (Lunes)
+Informe #53: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy quincuagésimo tercer día en el que desempeño mi cargo de administrador,
+Estuve poniendo a punto los servidores, y se establecieron algunas de las politicas
+necesarias a la hora de subir código y documentación, estuve ilustrando a Lizbeth,
+en los respectos de los sistemas de control de versiones, particularmente git.
+Generamos nuevas llaves para ssh, y transcurrio el dia de esa manera, quedando por
+pendiente, los ajustes sobre los archivos de configuracion del sistema de
+convocatorias.
+
+¿Qué problemas tuve?
+Considerando que soy un usuario de nivel medio en linux, manifiesto que no vi
+nada nuevo en lo que a configuraciones se respecta.
+
+¿Qué actividades realizaré manaña?
+Mañana pienso buscar una solucion definitiva a los problemas en los archivos
+de configuracion del sistema que estoy desarrollando, el caso mas serio, es:
+
+ProjectConfiguration.php, que posee direcciones absolutas hacia las librerias
+de Zend, en mi caso en '/opt/symfony-1.4.18/', en caso de Liz en E:\Quien sabe donde,
+lo importante aqui es que necesitamos que este valor no se necesario cambiar cada
+que un quiere instalar la aplicacion.
+

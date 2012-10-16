@@ -2,9 +2,19 @@
 Informe #51: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
-Hoy cuadragésimo septimo día en el que desempeño mi cargo de administrador,
+Hoy quincuagésimo primer día en el que desempeño mi cargo de administrador,
+descarge mi iso de gentoo linux, y procedi a instalarlo en la maquina pentium iv,
+bautize a la maquina como tesla.
+
+Estuve instalando paquetes toda la mañana, puse a punto las herramientas necesarias
+para el proyecto, y optimize la maquina al maximo nivel que mis capacidades conocen.
+
+Me queda pintuda, la verdad.
 
 ¿Qué problemas tuve?
+No tuve problemas.
 
 ¿Qué actividades realizaré manaña?
+Ahora que mi instrumentación ha terminado, vamos a planificar con Lizbeth las
+actividades para la presentacion del Jueves dentro de 2 semanas.
 

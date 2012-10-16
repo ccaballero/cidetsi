@@ -1,0 +1,26 @@
+2012-10-09 (Martes)
+Informe #54: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy quincuagésimo cuarto día en el que desempeño mi cargo de administrador,
+Modifique los archivos del proyecto, de modo que el problema que tenia ayer,
+referente a la dirección absoluta de las librerias de Symfony, sea solucionado,
+
+Mi solución, consiste en incluir en el path de php, ubicado en el archivo php.ini,
+la direccion de las librerias de symfony.
+
+Todo parece indicar que la solucion funciona satisfactoriamente.
+
+¿Qué problemas tuve?
+No tuve ningun problema el dia de hoy.
+
+¿Qué actividades realizaré manaña?
+Recientemente descubri en internet algo que me hizo refleccionar sobre la clase
+de vida que quiero llevar.
+
+El enlace al sitio es: http://www.microsiervos.com/archivo/frases-citas/macro-tipografia.html, y la cita menciona:
+
+    "El diseño Web es 95% tipografía"
+
+Espero que mañana pueda llegar al fondo del asunto, la verdad es que me esta afectando demasiado esta revelación.
+
