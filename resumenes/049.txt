@@ -2,9 +2,17 @@
 Informe #49: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
-Hoy cuadragésimo septimo día en el que desempeño mi cargo de administrador,
+Hoy cuadragésimo noveno día en el que desempeño mi cargo de administrador,
+vi mucho la pagina jquery.com, intente insertar un plugin para la generacion
+de pestañas, probe con jquery.ui, incluso intente customizar la hoja de estilo
+que poseia, pero al final note que era inutil. intentare encontrar una
+solucion mas simple mañana. A veces pienso que deberia ceder a la complejidad,
+pero luego recuerdo que tengo un compromiso con todos aquellos que usan y gustan
+de usar muy poca memoria RAM en sus maquinas.
 
 ¿Qué problemas tuve?
+No tuve problemas.
 
 ¿Qué actividades realizaré manaña?
+Espero terminar el diseño de mi editor de convocatorias, basado en pestañas.
 

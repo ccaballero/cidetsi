@@ -3,8 +3,15 @@ Informe #45: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
 Hoy cuadragésimo quinto día en el que desempeño mi cargo de administrador,
+termine mis revisiones acerca de los modulos del sistema de convocatorias,
+creo que ya estan listos para pasar a una etapa de evaluación.
 
 ¿Qué problemas tuve?
+No tuve ningun problema en lo que respecta a mis objetivos de hoy y ayer.
 
 ¿Qué actividades realizaré manaña?
+Mañana, pienso comenzar algunas pruebas con la instruccion pdflatex,
+si todo sale bien, creo que a la larga podré tener mayor fluidez en
+este de la generacion automaticas de documentos, interesante campo de
+la informatica este.
 

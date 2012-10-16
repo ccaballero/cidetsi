@@ -2,9 +2,18 @@
 Informe #50: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
-Hoy cuadragésimo septimo día en el que desempeño mi cargo de administrador,
+Hoy quincuagésimo día en el que desempeño mi cargo de administrador,
+termine de escribir las pestañas para el editor de convocatorias, encontre
+varias soluciones en Internet, escogi una muy simple que esta basada en
+pocas lineas de jquery.
 
 ¿Qué problemas tuve?
+Siento cierto alivio en mi conciencia, por seguir fiel a mis convicciones,
+espero con ansias la proxima vez que esa sensación regrese a mi.
 
 ¿Qué actividades realizaré manaña?
+Con esto de no retrasar mis funciones en el sistema de convocatorias, habia
+dejado de lado la maquina que tuvo un malfuncionamiento reciente, mañana
+espero dedicar a reinstalar todo el lugar, y acondicionarlo para el uso de
+Lizbeth y mio.
 

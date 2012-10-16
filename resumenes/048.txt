@@ -2,9 +2,17 @@
 Informe #48: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
-Hoy cuadragésimo septimo día en el que desempeño mi cargo de administrador,
+Hoy cuadragésimo octavo día en el que desempeño mi cargo de administrador,
+comence a utilizar linux, en la computadora denominada 'burbuja', su linux
+no tenia ninguna de las multiples herramientas necesarias para el desarrollo.
+Asi que me la pase instalando y configurando, servicios, programas, utilerias, librerias y scripts que uso habitualmente en todas las maquinas que dispongo para desarrollar.
 
 ¿Qué problemas tuve?
+Una vez aceptado mi destino, creo que no tengo mas problemas en esto del
+cambio de mi status quo.
 
 ¿Qué actividades realizaré manaña?
+Mañana pienso trabajar plenamente con la inserción de jquery en la
+pagina, planeo ver los plugins disponibles que existen, y ver si alguno de
+estos podria acelerar los trabajos que pretendo hacer en javascript.
 
