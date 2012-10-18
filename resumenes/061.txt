@@ -1,0 +1,23 @@
+2012-10-18 (Jueves)
+Informe #61: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy sexagésimo primer día en el que desempeño mi cargo de administrador,
+termine de crear los formularios para la manipulacion de las convocatorias,
+luego, hize multiples modificaciones en la hoja de estilo, a causa de los
+absurdos decoradores de symfony, que usan el tag label en todas partes.
+
+Posteriormente integramos todas mis funcionalidades y las de Lizbeth en
+un solo conjunto.
+
+¿Qué problemas tuve?
+Resulto que mi archivo schema.yml, arrastraba un problema conceptual, que
+hacía que mis objetos con relacion muchos a muchos estuvieran mal mapeados,
+luego de recibir tal epifania, gracias a una pagina en internet, todo fluyo
+mas facilmente.
+
+¿Qué actividades realizaré manaña?
+Manaña trabajaré sobre las funciones de cambios de estado de las convocatorias,
+hasta ahora todas las funciones actuan sobre el estado de borrador, pero necesito
+restringir toda la maquina de estados finitos.
+

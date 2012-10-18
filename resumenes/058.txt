@@ -1,0 +1,19 @@
+2012-10-1i7 (Miercoles)
+Informe #60: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy sexagésimo día en el que desempeño mi cargo de administrador,
+estuve trabajando en la reenderización de los formularios basados en
+el widget sfWidgetFormSelectCheckbox, me costo mucho que se reenderizara
+acorde a la plantilla que tenemos, particularmente curiosa es su forma
+en que reenderizar de symfony, tuve que ver el codigo fuente para
+comprender como modificar muchos de sus comportamientos predefinidos.
+
+¿Qué problemas tuve?
+Tuve muchos problemas en esto de la documentacion de ciertos componentes
+de symfony.
+
+¿Qué actividades realizaré manaña?
+Mañana, espero terminar de una vez y para siempre esto de las convocatorias
+y los objetos retrasados desde el sprint 1.
+
