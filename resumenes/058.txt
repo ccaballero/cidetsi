@@ -1,19 +1,20 @@
-2012-10-1i7 (Miercoles)
-Informe #60: Carlos Eduardo Caballero Burgoa
+2012-10-15 (Lunes)
+Informe #58: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
-Hoy sexagésimo día en el que desempeño mi cargo de administrador,
-estuve trabajando en la reenderización de los formularios basados en
-el widget sfWidgetFormSelectCheckbox, me costo mucho que se reenderizara
-acorde a la plantilla que tenemos, particularmente curiosa es su forma
-en que reenderizar de symfony, tuve que ver el codigo fuente para
-comprender como modificar muchos de sus comportamientos predefinidos.
+Hoy quincuagésimo octavo día en el que desempeño mi cargo de administrador,
+me la pase buscando la manera mas optima para crear el formulario de creacion
+y edicion de convocatorias. Me esta costando mucho entender como es que
+symfony y doctrine se entienden, hay varios entresijos en el comportamiento,
+que aún no puedo asimilar.
 
 ¿Qué problemas tuve?
 Tuve muchos problemas en esto de la documentacion de ciertos componentes
 de symfony.
 
 ¿Qué actividades realizaré manaña?
-Mañana, espero terminar de una vez y para siempre esto de las convocatorias
-y los objetos retrasados desde el sprint 1.
+Siento que hay varias partes del sistema que se ven un poco toscas, mañana
+pienso, darle una remodelada total a algunos de esos componentes, o al menos
+esa es mi excusa, la verdad es que me gusta mucho trabajar en diseño web. Me
+parece mas desafiante que trabajar en el lado del servidor.
 

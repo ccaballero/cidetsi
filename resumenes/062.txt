@@ -1,0 +1,18 @@
+2012-10-19 (Viernes)
+Informe #62: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy sexagésimo segundo día en el que desempeño mi cargo de administrador,
+trabaje sobre la función de previsualización de una convocatoria. Particularmente en el aspecto que tendrá la vista de HTML, considerando que
+ya tengo la vista en LaTex, unicamente me faltaria la vista en TXT.
+
+¿Qué problemas tuve?
+Una vez que tuve mi formulario de edición de convocatorias, descubri que
+no me servirá en un futuro, porque requiero mas información de la que tengo
+en ellos, buscare una forma de no tener que reescribir todo, espero encontrarla.
+
+¿Qué actividades realizaré manaña?
+Pienso trabajar sobre las transformaciones de estados de una convocatoria, y si
+me queda algo de tiempo, talvez, quizá, puede ser, nunca se sabe, trabaje sobre
+los modificadores en xslt para las convocatorias, y los documentos en general.
+

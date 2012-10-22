@@ -12,5 +12,5 @@ No tuve problemas referentes a esto que estoy viviendo.
 ¿Qué actividades realizaré manaña?
 Desde este lunes, poseeo nuevas funcionalidades para realizar, inicialmente
 debo terminar muchas de las funcionalidades basicas que establecimos en el
-anterior sprint, y que a la larga se nos salierons de las manos.
+anterior sprint, y que a la larga se nos salieron de las manos.
 
