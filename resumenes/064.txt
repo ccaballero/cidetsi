@@ -1,0 +1,33 @@
+﻿2012-10-23 (Martes)
+Informe #64: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy sexagésimo cuarto día en el que desempeño mi cargo de administrador,
+vine bien tempraningo, y que descubro, que no puedo encender mi adororada
+computadora. Normalmente diria: 'Que terrible!', pero con los estreses que
+estoy sufriendo ultimamente, solo digo: 'Yupi!!'.
+
+¿Qué problemas tuve?
+Ayer, 22 de Octubre, emergio de entre los muchachos que programan aqui en el
+CIDETSI, por la tarde; un escurridizo olor a quemao; definido y buscado, se
+tomó la decision de apagar todo y irse, dejando una nota donde versaba:
+
+"La cuchilla q' se encuentra en el lado izquierdo esta abajo, debido a un olor
+a quemado, subir la cuchilla, si el olor persiste bajar y avisar al Lic Uztariz."
+
+Si, creedlo estimado lector, 'Uztariz', a ese nivel hemos llegado.
+
+Al dia siguiente, el olor seguia, por instantes fuerte como cafe recien pasado,
+por otros sutil, como maquiato frio, intentamos conjuntamente con Liz dedicarnos
+a tareas mas de analisis que de codificacion.
+
+Al caer la hora de irse, otro infortunio atravesó la puerta, era Rudy, el administrador
+de computo, que nos comento que cambiaron todinga la configuración de la red y que habia
+que reconfigurar todas las cosas.
+
+¿Qué actividades realizaré manaña?
+Considerando las cosas mencionadas anteriormente, creo que procurare asegurar un futuro
+mejor para el sistema de apoyo administrativo, hoy no hice backup por culpa del olor a
+quemao, pero sospecho que mañana tampoco lo haré, por que los accesos hasta la base de
+datos del sistema de apoyo administrativo estan absolutamente cerraos.
+

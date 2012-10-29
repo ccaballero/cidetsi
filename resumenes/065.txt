@@ -1,0 +1,24 @@
+﻿2012-10-24 (Miercoles)
+Informe #65: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy sexagésimo quinto día en el que desempeño mi cargo de administrador,
+primero llegue, encendi mis dos maquinas, una de ellas no tenia internet,
+intranet, o cualquier otra forma de conexion.
+
+Me dirigi, directriz a donde el administrador de turno, en este caso el afortunado
+fue Renan, ante mis aparentes incapacidades en linux, que Renan me hizó notar, decidi
+perseguirlo toda la mañana, viendolo con mi cara de ignorancia, el muchacho tardo toda
+la mañana en darle una solucion a una de mis maquinas (a la denominada Burbuja).
+
+De ahi en mas la maquina conocida como Tesla, no mando señales de conectividad hacia
+ningun lado, pero claro esa es mi conclusion, asi que debe de estar mal, ultimadamente
+no se nada de linux.
+
+¿Qué problemas tuve?
+Renan y su ajetreada agenda.
+
+¿Qué actividades realizaré manaña?
+Mañana deberé portar todas mis baratijas desde Tesla hasta burbuja, la unica maquina que
+aparentemente podré usar de aqui en mas.
+

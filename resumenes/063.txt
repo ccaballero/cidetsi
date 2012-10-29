@@ -1,0 +1,19 @@
+﻿2012-10-22 (Lunes)
+Informe #63: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy sexagésimo tercer día en el que desempeño mi cargo de administrador,
+estuve intentando crear los transformadores en XSLT, descubri que la
+es mas complejo de lo que pense, al menos si quiero hacerlo bien flexible.
+Planeo hacer un analisis mas extensivo muy pronto. Aun asi ya tengo algo
+del codigo que requerire.
+
+¿Qué problemas tuve?
+Tengo que replantear mi logica, al principio creia que con un archivo XML,
+era suficiente para generar una plantilla de convocatorias, pero ahora creo
+que necesitaria dos. Algo que deberé discutir con Lizbeth.
+
+¿Qué actividades realizaré manaña?
+Mañana planeo continuar codificando, algunas de las herramientas que utilizaré,
+para transformar las plantillas.
+
