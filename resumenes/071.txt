@@ -1,0 +1,15 @@
+﻿2012-10-01 (Jueves)
+Informe #71: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy septuagésimo primer día en el que desempeño mi cargo de administrador,
+hemos estado esquematizando los documentos en su respectivo XML, deberemos
+continuar con la tarea en lo sucesivo.
+
+¿Qué problemas tuve?
+Sigo sintiendo un alejamiento del camino, aprovechare el fin de semana largo
+para hablar conmigo mismo, al respecto.
+
+¿Qué actividades realizaré manaña?
+Seguiremos analizando los XML y sus DTD's, espero que con algo mas de claridad.
+

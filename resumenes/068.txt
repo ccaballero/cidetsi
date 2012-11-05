@@ -1,0 +1,19 @@
+﻿2012-10-29 (Lunes)
+Informe #68: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy sexagésimo octavo día en el que desempeño mi cargo de administrador,
+estuve trabajando en los problemas referentes a la publicación de una
+convocatoria, al comienzo pense que sería facil, pero luego note que
+es terriblemente complejo. Asi que pienso recapitular todo mi analisis,
+con la ayuda de Lizbeth y sus super conocimientos en XSLT.
+
+¿Qué problemas tuve?
+Tuve y sigo teniendo muchos problemas con lo que respecta a encapsular
+un comportamiento común para la generación de plantillas.
+
+¿Qué actividades realizaré manaña?
+Mañana pienso pedirle a Lizbeth ayuda en el analisis para la generación
+de documentos, siento que estoy muy dentro de una perspectiva definida,
+y no puedo ver todo el contexto de forma libre.
+

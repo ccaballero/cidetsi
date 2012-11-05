@@ -1,0 +1,22 @@
+﻿2012-10-31 (Miercoles)
+Informe #70: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy septuagésimo día en el que desempeño mi cargo de administrador,
+en la soledad de mi oficina, analize todos los documentos necesarios,
+plantee una ontologia, y luego intente encasillarla a un patron de
+comportamiento comun.
+
+No consegui una ontologia comun a todos los documentos.
+
+Adicionalmente, tuve que reconfigurar varios archivos en el sistema
+de apoyo administrativo, debido a que de mi otra computadora, su
+tarjeta de red, por lo visto murio para siempre.
+
+¿Qué problemas tuve?
+Tengo muchos problemas referentes a mi sospecha de que estoy perdiendo
+el camino correcto.
+
+¿Qué actividades realizaré manaña?
+Plantearemos algunos dtd, sobre los estandares en XML, para los documentos.
+
