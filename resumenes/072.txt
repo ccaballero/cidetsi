@@ -3,8 +3,18 @@ Informe #72: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
 Hoy septuagésimo segundo día en el que desempeño mi cargo de administrador,
+nos enfocamos en esquematizar las cartas, fui concretamente a pedirle a la
+secretaria que me facilitará copias impresas, de las cartas que son enviadas
+a los integrantes de las comisiones de meritos, y de conocimientos.
+
+Una obtenidos estos documentos, terminamos un modelo de referencia en XML, de
+estos, aunque aun no tenemos un modelo universal, comienzo a sospechar que
+no existe tal modelo.
 
 ¿Qué problemas tuve?
+No tuve ningun problema, solo me inquieta el hecho que estar un poco
+oxidado en XSLT.
 
 ¿Qué actividades realizaré manaña?
+Mañana me dedicare a recordar mis viejos años en XSLT, ha pasado tanto tiempo.
 

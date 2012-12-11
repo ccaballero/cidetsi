@@ -3,8 +3,15 @@ Informe #74: Carlos Eduardo Caballero Burgoa
 
 ¿Que actividades realize hoy?
 Hoy septuagésimo cuarto día en el que desempeño mi cargo de administrador,
+Segui con mis reminiscencias acerca de XSLT, aún siento que mis especificaciones
+acerca de XML, son mis aldeanas, pero espero seguir refactorizando en cuanto
+se presenten situaciones no esperadas.
 
 ¿Qué problemas tuve?
+No se me presento ningún inconveniente en esta ocasión.
 
 ¿Qué actividades realizaré manaña?
+Aúnque podría transformar alguno de mis documentos, aun necesito revisar el
+lado del modelo del sistema de convocatorias. Mañana partire mi solución
+desde ese lado de las cosas.
 

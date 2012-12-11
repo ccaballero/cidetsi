@@ -1,0 +1,18 @@
+﻿2012-10-08 (Jueves)
+Informe #75: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy septuagésimo quinto día en el que desempeño mi cargo de administrador,
+Note que mi formulario para la creación y edición de convocatorias, requeria
+algo mas de definición, es decir, que requiero mucha mas información de la
+que mi formulario de doctrine me ha generado, asi que busque como podria
+extender esa funcionalidad, no encontre nada.
+
+¿Qué problemas tuve?
+No se me presento ningún inconveniente en esta ocasión.
+
+¿Qué actividades realizaré manaña?
+Mañana seguire buscando una solución a mi problema, pero comienzo a sospechar
+que tendre que rediseñar el formulario a mano, como en los viejos años. Vaya
+que a pasado tiempo.
+

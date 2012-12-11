@@ -1,0 +1,20 @@
+﻿2012-10-09 (Viernes)
+Informe #76: Carlos Eduardo Caballero Burgoa
+
+¿Que actividades realize hoy?
+Hoy septuagésimo sexto día en el que desempeño mi cargo de administrador,
+Comence el dia retomando mis problemas con el formulario de convocatorias,
+luego, ante la desesperación que me produjo la clase de mundo que los
+programadores actuales han creado, decidi que es hora de hacerlo, a mano,
+esto me ha creado una sensación de incomodidad muy curiosa, espero poder
+engañarme a una logica mas normal.
+
+¿Qué problemas tuve?
+No se me presento ningún inconveniente en esta ocasión.
+
+¿Qué actividades realizaré manaña?
+El lunes pienso terminar mi formulario, y planear como unir mis generadores
+XSLT y la informacion del sistema de convocatorias, o al menos en los papeles,
+como he aprendido desde hace algun tiempo la realidad siempre supera a toda
+planificación.
+
