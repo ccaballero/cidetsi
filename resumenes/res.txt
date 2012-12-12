@@ -10,29 +10,8 @@
 
 2012-12-11
  - apoyo administrativo.
-    Industrial:
-     Director academico -> Msc. Ing. Guido Gomez Ugarte
-     
-     Problemas en:
-         Jimmy Camacho
-         Tito Lima
-         Pascual Maldonado
-         Rodriguez
-         Rodriguez
-         Oscar Rojas
-         Torrez
-
-    Tambien hubo un problema con la aplicacion de escritorio
-    para lo que tuve que apersonarme manualmente.
-
-    Sistemas:
-     Carla Salazar ahora en exclusivo.
-
-     Agregado el director academico, a la espera de conocer
-     la fecha de inicio para los nombramientos.
-
-     Tambien se me sugirio que como el director academico,
-     debe tener el termino A.I. por ser interino.
-     Nose como haré que eso funcione.
-
  - Fusionados todos los repos, y codigos dispersos.
+
+2012-12-12
+ - apoyo administrativo
+ - resumenes sobre los trabajos de apoyo administrativo.

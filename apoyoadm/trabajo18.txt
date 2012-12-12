@@ -1,0 +1,23 @@
+2012-11-28
+
+Desde de ir y volver de mi casa, reflexionar acerca de mi vida,
+y pedir algunas disculpas, pude encontrar la solución a mi problema.
+
+Descubri que este era escencialmente un problema de la logica de
+programacion, ahora creo que es como algo de los creadores originales
+no contemplaron.
+
+La anomalia que bloquea la funcion se debe a que el programa, calcula
+en que gestion esta, basado en la fecha de obtiene del sistema, y no
+asi de la base de datos. Resultando en un desastre de proporciones
+biblicas cuando creas una gestion I/2013, pero aun vives en noviembre
+del 2012.
+
+Reescribi la funcion para el calculo de la gestión, reconstrui todo
+el proyecto, y copie el ejecutable a la secretaria de electrica/electronica
+o como se llame.
+
+De ahi en mas solo paz por un tiempo. Ahora creo que necesito, comprender
+mejor la logica del producto que resguardo. Me altero demasiado tardar
+dos dias en corregir esto.
+

@@ -1,0 +1,14 @@
+2012-11-16
+
+El dia viernes 16 de noviembre, fui llamado por la 
+secretaria del departamento de Industrial, la mencionada
+secretaria me comento que debia comenzar a elaborar los
+nombramientos y seguimientos para la gestion I/2013, es
+asi que me solicitó que cambiase la gestión en el sistema
+de apoyo administrativo.
+
+Investigando un buen rato, para no romper todo el lugar,
+procedi a insertar un nuevo registro en la tabla gestion,
+probe en el sistema y nada, luego deshabilite todas las
+gestiones pasadas y asi fue como funciono.
+

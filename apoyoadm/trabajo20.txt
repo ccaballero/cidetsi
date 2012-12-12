@@ -1,0 +1,26 @@
+2012-12-12
+
+DEPARTAMENTO DE BIOLOGIA:
+    Fui llamado del departamento de Biologia, para
+    cambiar la gestion, para iniciar los nombramientos
+    de sus respectivos docentes.
+
+    Tambien aproveche para configurar el registro del
+    nuevo director academico.
+
+DEPARTAMENTO DE QUIMICA:
+    Me llamaron desde este departamento para realizar
+    la misma actividad mencionada anteriormente.
+
+    Tambien estableci la condicionales sobre el
+    director academico.
+
+Para fines referenciativos, paso a anotar
+los numero internos dentro de la Universidad.
+
+Ayer los necesite y no sabia ninguno:
+
+335 -> biologia
+328 -> quimica
+341 -> industrial
+

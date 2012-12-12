@@ -1,0 +1,10 @@
+2012-11-26
+
+Se me llamó desde el departamento de electrica-electronica
+para cambiar la gestión, a la I/2013, parece ser la cuestión
+que mas esta afectando a todos en estos tiempos.
+
+Cambie la gestión, utilizando la misma logica que en industrial,
+creo que la logica funciona bien, no detecte ninguna anomalia
+hasta ahora.
+

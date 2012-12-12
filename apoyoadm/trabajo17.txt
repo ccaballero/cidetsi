@@ -1,0 +1,16 @@
+2012-11-28
+
+Recibi una llamada del departamento de Electrica ó
+Electronica, o lo que sea que se llame. El proposito
+de la llamada, era y sigue siendo critico. La secretaria
+me comento que una de las funciones del sistema no funcionaba.
+
+Esta función era aquella que permite listar los docentes y
+sus cargas horarias, como un resumen de la informacion que
+poseen en sus seguimientos.
+
+Note que esa función, y otra función para exportar esa misma
+información en una hoja de calculo (xls) eran el problema.
+Revisando el codigo fuente, no llegue a comprender las causas
+para este comportamiento.
+
