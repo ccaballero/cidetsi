@@ -10,8 +10,47 @@
 
 2012-12-11
  - apoyo administrativo.
- - Fusionados todos los repos, y codigos dispersos.
+ - fusionados todos los repos, y codigos dispersos.
 
 2012-12-12
  - apoyo administrativo
  - resumenes sobre los trabajos de apoyo administrativo.
+ - actualizacion de paquetes en burbuja.
+ - cambio de version de php 3.3 -> 3.4.
+   me parece conveniente probar el servidor interno
+   que posee php.
+
+2012-12-13
+2012-12-14
+
+2012-12-17
+ - apoyo administrativo, (dpto. de civil)
+   instalado el sistema de apoyo administrativo, sobre
+   Windows 7 (64 bits).
+ - apoyo administrativo, (dpto. de informatica-sistemas)
+   correcciones menores sobre los nombramientos y
+   seguimientos de docentes de la carrera.
+
+2012-12-18
+ - 
+
+2012-12-19
+ - apoyo administrativo, (dpto. de informatica-sistemas).
+   terminado los nombramientos para auxiliares de pizarra.
+   terminado los nombramientos para auxiliares de laboratorio.
+ - apoyo administrativo, (dpto. de fisica).
+   cambio de gestion.
+   correcciones en el uso del sistema.
+   calibracion de las horas mensuales totales.
+   revision intensiva de los nombramientos y seguimientos
+   de todos los docentes del departamento.
+
+2012-12-20
+ - apoyo administrativo, (dpto. de fisica)
+   registro del Ing. Agreda, mostraba errores
+   en las cargas horarias de su nombramiento.
+ - arreglos finales sobre el sistema de
+   convocatorias.
+
+2012-12-21
+ - resguardo final (apoyo administrativo).
