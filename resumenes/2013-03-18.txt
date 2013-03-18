@@ -1,0 +1,57 @@
+Lunez 18 de marzo del 2013
+
+retomando los resumenes diarios.
+
+Son como las 08:38, y estoy comenzando a planear.
+mmmmm
+me digo a mi mismo....
+por donde comienzo.
+
+recuerdo tener pendientes:
+    - generar los certificados de los auxiliares.
+    - terminar de despleguar el sitio http://convocatorias.cs.umss.edu.bo/
+    - seguir programando el sistema de convocatorias.
+    - tambien necesito preparar mi curso de esta tarde, solo dos dias mas.
+
+decido terminar el desplegar el sitio...
+
+y a las 9:43:26 lo declaro terminado,, ahora decido ir al baño, y voy
+con rumbo definido, mi estomago chilla, asi que comere algo ademas de todo.
+
+vuelvo y ya son las 09:54:36, me digo, que manera de irse el dia señor, ni
+siquiera comi algo.
+
+decido trabajar sobre los transformadores de formatos, necesito encontrar el
+archivo latex que creé hace algun tiempo, no estoy seguro donde podria tener
+una copia.
+
+A las 10:14:06 lo encuentro, en el servidor de mi casa, jaja, busque en 4
+computadores remotamente. Fue una suerte aun tenerlo, ojala y sea la ultima
+version que tenia.
+
+a las 10:38, termino de adaptarla a tambien me asegure que compile bien,
+necesito corregir el campo de firmas, y tendria una adaptacion perfecta.
+
+cuando de pronto, sas no hay internet, voy a quejarme, vuelvo y ya son
+las 11:05:13, me dijo que ya estaba, pero se volvio a caer, aprovecho
+que Carla esta aqui para que cambie la configuracion de su maquina, ha
+estado usando una ip destinada a mis actividades, y no a las suyas, no
+es que afecte mucho, pero prefiero arreglar ese detalle en tiempos de paz,
+y no en tiempos de guerra.
+
+Compruebo el internet a las 11:07:28, y sigue si estar, creo que me he vuelto
+dependiente de el. Sigo con mi archivo en latex.
+
+A las 11:22:03, aparecio el internet y termine mi plantilla latex, los campos
+de firmas me dieron problemas, pero ahora entiendo mejor la clausula minipage
+de latex.
+
+A las 11:49:59, me molesto con Fabien Potencier, ya que no puedo enviar una
+peticion para un tipo MIME, sin que la pagina original sea refrescada.
+
+a las 12:05:15, declaro el problema irresoluble por el dia de hoy, mi higado
+no soporta mas de la tristeza de la libreria symfony. Como ya tengo escrito
+mi informe, paso a buscar la libreria ID3 para mi curso de esta tarde.
+
+Cambio y fuera.
+
