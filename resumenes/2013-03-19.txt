@@ -1,0 +1,68 @@
+Martez 19 de marzo del 2013
+
+Llego y me pongo a trabajar a las 08:33:09,
+me planteo que hacer el dia de hoy,
+
+mmmmm
+
+Recuerdo tener pendientes de ayer, tambien los
+tengo anotados, asi que decido,
+
+Ayer hice mi informe, y olvide mandarle, lo mando
+en este momento.
+
+Termino de enviarlo a las 08:41:24, y me digo,
+mision cumplida!.
+
+Ahora vuelvo a planear y pienso en que es lo mas
+optimo.
+
+Recorde que tenia un problema con las peticiones
+en symfony, una de mis alternativas es ver como
+solucionar eso.
+
+Pero primero necesito revisar algo urgente para mi
+proyecto final, espero que no me tome mucho tiempo.
+
+Comienzo a hacer eso a las 08:44:10, a las 08:49:42,
+descubro que es un error critico, me siento triste.
+
+Decido ir a ver a la Lic. Leticia Blanco, mi tutora
+ademas aprovechare para comprar notas adhesivas propias,
+aqui tania piensa que es dueña de las que hay.
+
+Regreso con las trazas del error a las 09:08:42, ademas traje
+mis posts amarillos, comienzo a corregir mi proyecto final
+antes que sea muy tarde, todo pende de un hilo.
+
+A las 09:38:23, termino las correcciones sobre mi proyecto
+final, y regreso a mostrarle las correcciones urgentes a la Lic.
+Leticia.
+
+Ahora vuelvo a considerar que hacer, decido tomarme un tiempo
+para divagar, recuerdo que el problema con symfony va a ser
+una tarea ardua, y decido.
+
+Voy a pasar a windows y generar los certificados para los
+auxiliares, mientras veo como corregir ese problema en
+internet, ojala encuentre una solución factible.
+
+son las 09:52 y estoy en windows, ya arranque mi maquina virtual,
+descubro que no hay conexion a mi base de datos. resulta que era
+mi error. Tengo sentimientos encontrados al respecto.
+
+A las 09:59 descubro que el sistema de apoyo administrativo tiene
+un error al generar los certificados, otra cosa mas en la que ahora
+debo pensar, me pregunto y digo, que relajante es escribir.
+
+Decido ver que clase de error es ese, jaja, cada vez que veo las
+entrañas del sistema de apoyo administrativo, me dan ganas de llorar.
+
+Ya son las 12:10, pienso en lo triste que es usar windows, todavia
+mas usar una windows virtualizada en otra windows.
+
+Me voy, vi mucho codigo en Delphi, y no encontre el porque de que
+el sistema de apoyo administrativo caiga cuando intenta generar
+los certificados para los auxiliares, recuerdo que hace como 6 meses
+atras pude generarlo sin problemas, eso es lo que mas coraje me dio.
+

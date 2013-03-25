@@ -1,0 +1,15 @@
+Lunez 25 de Marzo del 2013
+
+Llegue tarde y me puse a organizar mis cosas, a las 08:41 me pongo a terminar los certificados
+copio la información que revise en casita, ahora debo insertar las nuevas actividades a la base
+de datos.
+
+A las 11:41 termine de generar los certificados, y revalide toda la información, es decir
+comprobe la consistencia de los numeros del carnet de identidad (encontre incluso varios errores).
+
+Creo que la revisión que hize fue parcialmente suficiente, mi corazon me dice que aun existen algunas
+inconsistencias viviendo en mis archivos, pero eso solo el tiempo puede juzgar.
+
+Me falta media hora para irme, asi que pienso hacer algo suave ahora, revisare la maquina virtual,
+he intentare ordenar algunos de los ficheros antiguos, hay cosas que no sabia que existian hasta el
+dia de hoy.

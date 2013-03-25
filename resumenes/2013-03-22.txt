@@ -1,0 +1,40 @@
+Viernez 22 de Marzo del 2013
+
+LLegue temprano, ahora mismo estoy realizando un backup de la base de datos,
+tengo dos prioridades, una mas que otra.
+
+1. Terminar las funciones que deje pendiente en el sistema de convocatorias.
+2. Terminar de generar los certificados para los auxiliares de todos los
+   laboratorios.
+
+Son las 08:45, aun estoy trabajando en las correcciones para mi presentacion
+del dia de hoy.
+
+A las 09:20:09, termino de corregir mi problema acerca de la descarga de
+ficheros, hago un commit de mis cambios, y me pongo a pensar que mas podria
+mostrar.
+
+Comienzo a integrar las fuentes de Liz y las mias en un sistema común.
+
+El Ing. Villarroel, viene a las 10:01:03, y me pesca 'in fraganti', en plena
+integracion del sistema, tengo que restaurar las cosas a un estado estable.
+Lo resuelvo y le muestro lo que he estado haciendo durante la semana.
+
+Me dice que requerimos una especie de articulo, acerca de lo que hace el
+sistema, para la revista que alguna vez mencionó. Ademas me dice que necesita
+que nos saquemos un foto (los tres), y que nosotros debemos decirle que dia
+realizarlo. Por ultimo me recuerda el pequeño detalle que necesita un nombre
+para el sistema.
+
+A las 10:30:50, termino de escribir y commitear todas las cosas respecto al
+sistema de convocatorias, luego considero varias posibilidades, y recuerdo
+que necesito terminar los certificados.
+
+A las 11:43:45, termino de tener de insertar las actividades finales, y
+comienzo las pruebas de generación, aun me preocupan los acentos, ya tengo
+una version parcial, como las urgencias parecen menores a las de mis
+espectativas, voy a intentar corregir ese problema en casita.
+
+Copiare la información que requiero, para terminarlo este fin de semana y
+me ire.
+

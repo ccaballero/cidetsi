@@ -1,0 +1,26 @@
+Miercolez, 20 de marzo del 2013.
+
+Son las 08:46 y me presto a seguir averiguando como corregir mi
+problema de ayer, seguire por ahora sin poner segundos, porque
+estoy en windows, me dedicare a hacer esto de los certificados
+hasta terminarlo, y luego volvere a planear, tengo el presentimiento
+que el Lic. Ustariz va a necesitarlos pronto.
+
+A las 10:30, resuelvo el problema, resulta que el sistema usa una tabla
+intermedia para almacenar los datos con los que va a generar los
+certificados, el sistema asume que esa tabla esta vacia, al iniciar
+operaciones. Si este no es el caso el sistema genera un error fatal.
+
+A las 10:38 el Lic. Ustariz me llamo para confirmar mis datos para el
+registro de cursos del laboratorio. Aproveche para quedar de deacuerdo
+en como debe generar los certificados para la gestion I/2012. Me paso
+unos formatos modelo, y ahora lo que debo hacer es ver en el sistema
+como hace para automatizar la generacion de los documentos.
+
+A las 11:36, vienen dos perturbados estudiantes, me piden ayuda con su
+programa en Java, como yo estoy trabajando la gentileza, decido ayudarlos
+desinteresadamente, al principio su programa parece simple, luego se
+me complica, y termino tardando mas de lo que debi tardar. Luego viene
+Felipe, aquel que es administrador de computo y me aclara a mi y a los
+estudiantes, todas las dudas. Para eso ya son las 12:30, es hora de partir.
+

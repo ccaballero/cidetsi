@@ -1,0 +1,44 @@
+﻿Juevez, 21 de marzo del 2013.
+
+Son las 8:15, entro a linux y no puedo hacer un backup de la base de datos,
+recuerdo que tengo que trabajar sobre el sistema de apoyo administrativo.
+Ahora voy a Windows, necesito asegurarme que la generacion de los
+certificados, ya es correcta, y generarlos.
+
+A las 08:57, voy a computo y noto que estan ajetreados con esto de los
+inventarios, regreso, y aprovecho para entrar en mantenimiento, ahi la
+calma se siente en el aire. Estan los dos administradores, asi que
+aprovecho para quedar deacuerdo la lista de actividades que creen convenientes
+para los certificados de administracion, auxiliatura, y auxiliatura ad-honorem.
+
+A las 09:26 regreso a mi puesto, tuvimos una conversación profunda con los
+administradores de mantenimiento, fue entretenido.
+
+Reviso las maneras en que puedo alterar el contenido del documento, descubro
+que el contenido del documento y el codigo son uno solo, en mis adentros me
+digo a mi mismo, porque!!!, ahora se que modificar aunque sea una letra del
+documento es una cuestion dramatica de recompilacion total del proyecto.
+
+A las 10:24 noto que mi base de datos esta inaccesible, cayo conmigo conectado
+al sistema de apoyo administrativo. Aprovecho para ir a hablar con Rudy allá
+en computo, hago que revise las actividades que pondré en su certificado y el
+de sus auxiliares ad-honorem. Se toma muy en serio las actividades que quiere
+en los certificados, le digo que volvere en 15 minutos para que lo pueda terminar
+con calma, vuelvo y reviso la generacion, en eso descubro que la generacion tiene
+un monton de errores ortograficos, particularmente acentos, pienso y pruebo si
+puede ser corregidos velozmente, pruebo modificando el texto y recompilando todas
+las fuentes, y nope, supongo que delphi, unicamente trabaja con codificaciones
+ascii, no intento averiguar mas, y me digo: "dia que pasa, odio mas las herramientas
+para windows".
+
+A las 10:54 me presto a verificar si ya hay acceso a mi base de datos. nope.
+
+A las 10:58, aparece Cristian, y pregunta por si alguno de nosotros los hiperbóreos
+tiene un lector de tarjetas SD, yo que estoy trabajando la generosidad, digo,
+yo tengo!, pero no esta aqui, tendría que traerlo, me da su visto bueno y parto.
+
+Vuelvo a las 11:07, le entrego el lector de tarjetas SD y ¡oh karma! "por donde nos
+conduces", mi base de datos vuelve a conectarse.
+
+Decido ir generando los documentos, primero necesito extraer las claves de todas
+las actividades, luego asociarlas al certificado.
