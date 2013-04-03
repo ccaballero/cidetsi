@@ -1,0 +1,24 @@
+Martez 26 de marzo del 2013.
+
+Llegue, y me puse a hacer mis actividades pendientes, para aclarar cual de mis actividades
+es aquella a la que denomino pendiente, pues vine ayer, y con el Lic. Ustariz y Nibeth (la
+administradora de computo), me comentaron que los certificados deberian entrar inexorablemente
+en una página, yo me dije en mi mente: "rayos!!, si me hubiesen dicho hace dos dias, la historia
+hubiese sido diferente, ya que podia generar con una configuración exacta", pero luego me dije:
+"C'est la vie", asi que me ofreci de voluntario para formatear el documento. Y esa es aquella
+actividades pendiente.
+
+A las 09:34, estoy escribiendo este reporte y finalizando el formateo del documento que contiene
+la información de los certificados, y espero que ahora si esten listos para imprimir.
+
+A las 09:45:17, estoy en linux, y ahora es que dije que haría el viernes, voy a cambiar el contexto
+de la página, particularmente la pagina principal.
+
+A las 11:46, me canso de buscar una forma factible de integrar las ramas de autentificación y
+principal del proyecto, decido leer como se hace, espero tener las ideas mas claras muy pronto,
+ahora me dedico a tunear la página, tarea que domino con superioridad a mis competidores. Por
+decirlo de alguna manera.
+
+Se me ocurrío matar dos pajaros de un tiro, el manual de uso y la página principal ahora podrían
+parecerse mucho.
+

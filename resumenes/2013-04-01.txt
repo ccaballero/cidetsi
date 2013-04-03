@@ -1,0 +1,23 @@
+Lundes 1º de abril del 2013,
+
+Comienzo a escribir mi reporte a las 08:57, me planteo primero
+pasar las notas de mi curso de PHP 5, para eso estoy en windows,
+primero necesito recordar sus caras, como se que la mayoria son
+auxiliares, intentare recuperar las fotos que se encuentran atrapadas
+en la maquina virtual que corrompio tania valero.
+
+A las 09:04, descubro que no estan facil como parece.
+
+Son las 10:01, y sigo sin poder verlas, ya monte el disco corrupto,
+pero no me muestra las fotografias, solo se me ocurren dos posibilidades,
+la primera, es que justamente se haya corrompido ese directorio, y la otra
+es que vmware me este troleando. Intentare averiguar cual es, al menos
+un tiempo mas.
+
+A las 11:02:48, estoy usando mi portatil, deje la maquina grande en
+mantenimiento, porque ya sonaba demasiado fuerte, Luis el administrador,
+me dijo que directamente podria usarla mañana nomas. Yo lee dije OK.
+
+Asi que avanzaré sobre el proyecto 'vocare' (sistema de convocatorias),
+con los recursos que poseo en esta mi laptop.
+

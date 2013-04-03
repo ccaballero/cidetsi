@@ -1,0 +1,6 @@
+Iercoles 03 de abril del 2013
+
+08:37:14, comienzo a prepararme para terminar de unificar las ramas de desarrollo,
+yo y el plugin sfDoctrineGuard tenemos cuentas pendientes.
+
+

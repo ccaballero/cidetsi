@@ -1,0 +1,53 @@
+Juebes 28 de Marzio del 2013
+
+Son las 08:42:46, y me pongo a escribir mi reporte, siento algo
+de tristeza de no poder mostrar algo mas funcional que lo que
+tengo, en caso de que el Ing. Villarroel venga, ahora voy seguir
+haciendo las cosas del plugin que me toca hacer.
+
+Espero tener un jueves relajado, mi vieja espalda a programado
+demasiadas lineas de código estos dias.
+
+A las 09:08:17, regreso del laboratorio de computo, no puedo
+entrar a mi FTP, Rudy disque dijo que iba a revisar en algun
+momento, yo sospecho que da para rato, como no quiero parecer
+un paranoico, adjunto el mensaje de mi aplicacion FTP, solo
+para fines educativos:
+
+Estado: Conectando a 192.168.2.17:21...
+Estado: Conexión establecida, esperando el mensaje de bienvenida...
+Respuesta:      220 FTP Server ready.
+Comando:        USER convocatorias
+Respuesta:      331 Password required for convocatorias
+Comando:        PASS ******************
+Respuesta:      230 User convocatorias logged in.
+Comando:        SYST
+Respuesta:      500 Invalid command: try being more creative
+Comando:        FEAT
+Respuesta:      215 UNIX Type: L8
+Estado: Conectado
+Estado: Recuperando el listado del directorio...
+Comando:        PWD
+Respuesta:      211-Features:
+Respuesta:       MDTM
+Respuesta:       MFMT
+Respuesta:       TVFS
+Respuesta:       MFF modify;UNIX.group;UNIX.mode;
+Respuesta:       MLST modify*;perm*;size*;type*;unique*;UNIX.group*;UNIX.mode*;UNIX.owner*;
+Respuesta:       REST STREAM
+Respuesta:       SIZE
+Respuesta:      211 End
+Error:  No se pudo analizar la ruta devuelta.
+Error:  Error al recuperar el listado del directorio
+Respuesta:      257 "/" is the current directory
+
+En fin, como soy el menos importante por aqui, voy a tener que hacer otra
+cosa, no vaya a hacer que yo tambien la culpa de todos los problemas.
+
+A las 09:59:15, tengo frio, hambre y vista cansada, influyentes necesidades
+de oxigeno, y el ruido de mi computadora me esa matando. Ire a pasear,
+reflexionar, y hablar con el administrador de mantenimiento para ver si
+podemos hacer alguillo por mi pobre cerebro desconcentrado por el ruido
+de mi maquina.
+
+

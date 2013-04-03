@@ -1,0 +1,11 @@
+Mierzoles 27 di Marzo del 2013
+
+Llegue, abri el lugar y estoy escribiendo estas notas a las
+08:39:27, estoy haciendo mis respaldos de la base de datos,
+y planeo mi dia.
+
+Son las 11:35:34, ya tengo integrada un parte del plugin
+sfDoctrineGuardPlugin, aun me queda por entender algunas
+funcionalidades que posee, pero voy por pasos.
+
+
