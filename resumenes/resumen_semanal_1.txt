@@ -1,0 +1,38 @@
+Resumen de los mas importante de la semana
+==========================================
+
+Lunes:
+------
+
+* Trabajando sobre la recuperacion de datos de la
+  maquina virtual.
+* Mantenimiento de la computadora, debido a la ingente
+  cantidad de polvo que tenia.
+
+Martes:
+-------
+
+* Reunion con el Ing. Villarroel y el Lic. Villarroel.
+* Explicación sobre el nuevo sistema a administrar (SIGDIS) por
+  parte del auxiliar que estuvo a cargo, hasta ahora.
+
+Miercoles:
+----------
+
+* Programación del sistema vocare, trabajando en la integraciòn
+  de la rama que ya tiene integrado el plugin sfDoctrineGuardPlugin.
+
+Jueves:
+-------
+
+* Programaciòn de la logica de permisos y grupos del sistema vocare.
+* Programaciòn necesaria para la aplicaciòn de i18n en el sistema
+  vocare.
+
+Viernes:
+--------
+
+* No vine a trabajar, de hecho vine y la puerta de la universidad
+  estaba cerrada, asi que no se si es que no vine a trabajar en
+  exactitud o es que no hubo trabajo.
+

@@ -1,0 +1,10 @@
+Juebes 04 de Abril del 2013.
+
+08:51:44, llegue y me puse a hacer mi informe,
+ayer termine de configurar las paginas de autentificación,
+y la logica de permisos y grupos.
+
+Ahora voy a trabajar las paginas acerca de administración
+de usuarios.
+
+Veremos hasta donde llego el día de hoy.
