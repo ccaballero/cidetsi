@@ -1,0 +1,39 @@
+Llunez, 15 de abril del 2013
+============================
+
+Llego y me pongo a trabajar a las 09:09:59, me pregunto, cual de mis
+multiples tareas, deberia hacer primero, mmmmm, me digo a mi mismo,
+hagamos una lista:
+
+* Generar el certificado del código 2007_0020.
+* Trabajar en XSLT para generación de documentos.
+* Trabajar en el FTP, para automatizar la subida del proyecto
+  a un servidor de producción.
+
+Creo que por ahoringa es todo lo que necesito hacer....
+
+Vamos pa windows...
+
+Volvi de windows, me conminaron a ir a instalar el sistema de apoyo
+administrativo en Industrial, ire dentro de unos momentos, ahora
+necesito copiar todas las cosas a mi pendrive.
+
+Respecto al certificado faltante, tendre que realizarlo en la tarde,
+me temo que no tengo el documento original asi que, momento, se me
+ocurrio algo, mmm, ahora que lo pienso es mucho trabajo para algo
+tan superfluo.
+
+Necesito copiar las cosas para instalar el sistema de apoyo
+administrativo.
+
+Vamos pa windows otra vez.... eso me recuerda que necesito instalarme
+Virtual Box.
+
+Volvi y comenze a preparar mi maquina virtual, primera vez que uso
+virtualbox, decidi que sea virtualbox por asuntos de licencias, no
+quiero ser visto por las calles como aquel que instalaba pirateria
+por la universidad.
+
+Mañana consigo unos instaladores de Windows XPMañana consigo unos
+instaladores de Windows XP.
+

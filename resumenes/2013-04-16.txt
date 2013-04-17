@@ -1,0 +1,125 @@
+Martex, 16 de abril del 2013
+============================
+
+Llegue y me puse a preparar la maquina virtual para el
+sistema de apoyo administrativo en la carrera de industrial,
+consegui los instaladores de Windows del IP (192.168.2.12),
+me tomo media mañana instalar windows, incluso tuve una
+pantalla azul.
+
+Entre tanto que por un lado mi cerebro instalaba Windows XP,
+la otra mitad estaba intentando generar el documento faltante
+en los certificados, y ahi comenzamos con desprolijidades, ya
+que lo que en un momento funcionaba como una teja, ahora no
+conseguia terminar la generación, de tanto renegar para tracear
+el error, decidi que estaba perdiendo todo el higado que muy
+probablemente necesite. Asi que decidi generarlo a mano, es
+decir, copie el certificado de alguien mas, y sas le cambie
+los datos para formar el certificado que me faltaba.
+
+De ahi en mas era cuestión de hallar el paradero del Lic.
+Ustariz, para explicarle mi error, y rogar su perdon. No lo
+encontre en toda la mañana.
+
+Mientras mi hemisferio derecho ya habia terminado de instalar
+windows XP sobre VirtualBox. Quedo genial, lo probe en Ubuntu,
+y su portabilidad quedo comprobada, ahora puede dejar de usar
+Windows 7. Yupi!!.
+
+Termine de configurar la maquina virtual, y fui con mi super
+sonrisa del logro obtenido a Industrial, instale la maquina
+virtual. Y ahi fue donde descubri la amargura del mundo, todo
+era perfecto, ya que habia probado todo en el Laboratoria de
+Desarrollo. Pero no conte con un pequeño detalle.
+
+La IP de la computadora en el departamento de Industrias, que
+es utilizada para levantar el sistema de apoyo administrativo,
+ahora tenia el IP 192.245.121.227/24.
+
+Y esta no estaba autorizada en el archivo pg_hba.conf, asi que
+solo por ese pequeño detalle, fracase en mi misión. Raudamente
+me dirigi al Laboratorio de Computo, donde justamente se
+encontraba el auxiliar SALVATIERRA RODRIGUEZ RUDY, con carnet
+de identidad 5927532-Cbba, y unos zapatos geniales.
+
+Le comente mi problema, para lo cual solo necesitaba escribir
+en su archivo pg_hba.conf, el IP que yo le habia provisto,asi
+de facil, asi de simple. Pero la voluntad de los hombres es
+cosa de amplio estudio, asi como los designios de caprichoso
+destino.
+
+El menso no pudo hacerlo, estuve sentado en ese Laboratorio
+por un buuuuen rato, al final y despues de muchos intentos,
+me dijo que no podia hacerlo, que muy probablemente estuviera
+para mañana. Y que directamente ni modo para el pequeño Carlos,
+y sus aspiraciones de que dejen de echarle la culpa de todo.
+
+Como mi cara de fracaso luctuoso tuve que ir a industrial,
+la secretaria que tambien esta en tremendos ajetreos me hizo
+esperar un buen rato, aunque mas prudente seria decir, que yo
+espere por capricho un buen rato, o talvez es por mi moralidad
+insensata. nosep.
+
+El caso es que como razonable parece, la secretaria me vio con
+cara de que todas los problemas de la Universidad, eran culpa
+mia, y de mi desidia. Acordamos que intentaria que los colegas
+del Laboratorio de Computo se pusieran a trabajar en mi asunto.
+Y si hasta medio dia lo mensos no podian resolverlo. Yo iba
+a llenar los seguimientos y nombramientos que requeria con suma,
+y me hizo entender ese termino, asi que yo tambien hare lo mismo,
+suma urgencia.
+
+Asi fue como me perdi toda la mañana entre ires y venires, como
+en mi resignada y ahora colerica cabeza tendria que volver en la
+tarde, me fui a comer en punto, a las 12:45, no lo vi al Lic.
+Ustariz.
+
+Ya en la tarde, lo primero que hize fue ir a ver al Lic. Ustariz,
+para pasarle el certificado faltante en mantenimiento, me comento
+que habia otros que errores, y sas, descubri ahi que mi concentración
+se fue, desaparecio, ya no esta, yo el de ahora ya no soy el mismo.
+
+Con cara de verguenza le copie el archivo, y deje el resto del asunto
+en sus mas que profesionales manos.
+
+Despues de eso fui a recoger, el seguimiento de la secretaria del
+departamento de Industrias, ahi note que solo era uno, el mismo que
+ya alguna vez me pidio, y como siempre se veia facil, se veia, por un
+instante, un instante de calma y paz, solo un instante.
+
+El seguimiento de la Lic. LIGIA JACQUELINE ARANIBAR LA FUENTE, es
+la cosa mas curiosa que he visto, ya que posee 80 horas, 9 horas
+son de clases, las demas esta en el Departamento de Industrias.
+Pero con un horario nada convencional, despues de probar de todo,
+descubri que era imposible generar un horario como ese que ahora
+mismo tengo en mis manos.
+
+Intente de todo, por las funcionalidades del sistema, y luego pique
+algo de codigo, con la esperanza de que al menos la base de datos
+pudiera soportar tal anomalia, en vano. NO ESTA DISEÑADO PARA ESO.
+
+Ya siendo casi las 5 de la tarde, me llamo la secretaria, y me hizo
+un ultimatum por via telefonica, me asuste muchisimo.
+
+Asi que hize un backup de la base de datos de industrial, y una
+copia de la imagen del sistema operativo, y me fui a mi casa a
+continuar...
+
+Para colmo de todos los males, alguien me puso falta en el lugar
+donde firmo todos los dias. Aun tengo sentimientos encontrados con
+ese asunto. Ya veremos a como nos toca me dije a mi mismo.
+
+Ya en casa, tuve que instalar todas las herramientas que necesitaba
+para ejecutar el sistema de apoyo administrativo, y como aun no
+podia utilizarse la base de datos original, reconfigure el conector
+ODBC para que pudiese, entrar en modo local. Asi podria tener una
+copia descentralizada de la base de datos, funciono, pero todo fue
+practicamente en vano, ahora creo el sistema de apoyo administrativo
+es como un edificio resquebrajándose e inexorablemente condenado a
+estallar en la cara de todo aquel que este encargado de tal programa.
+
+Ya entradas las horas de la noche, termine de trabajar. Jaja pero
+tengo falta.
+
+Oh ironia de mis sueños palaciegos.
+

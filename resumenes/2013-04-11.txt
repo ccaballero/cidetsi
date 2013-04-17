@@ -1,0 +1,31 @@
+Xueves 11 de abril del 2013
+===========================
+
+
+Llegue poco antes de las 08:58:05, tengo varios planes que quiero
+llevar a cabo, particularmente no quiero olvidar la crucial tarea
+de encontrar algun metodo para poder ejecutar el sistema de apoyo
+administrativo en maquinas Windows 7 de 64 bits, ahora que lo
+pienso no estoy seguro si las Windows 7 de 32 bits, tambien poseen
+ese error. Cuando este en Windows voy a revisarlo.
+
+Pero creo que hoy no es el dia de ver eso, particularmente,
+preferiria ver el sigdis, para poder ver que hacer con ese
+sistema. Me temo que tendre que hablar con Liz. (sonido dramatico aqui)
+
+Tengo algunos planes para el sistema sigdis, y tengo miedo que sea
+lo indicado, suena a mi clasica actitud de 'yo puedo hacerlo todo'.
+
+Pienso y decido, necesito automatizar mi subido al servidor FTP,
+lo que seria realmente interesante, y sumamente motivador.
+
+Pero tambien esta el SIGDIS, y prefiero ver su codigo primero,
+talvez tenga algo que rescatar en cualquier respecto, digo algo que
+me de una idea de como debi actuar en el pasado, o como debere
+actuar en el futuro.
+
+SIGDIS será pues...
+
+Despues de un minucioso escarnio al codigo fuente del SIGDIS, creo que
+todo el lugar esta medio raro, 
+

@@ -1,0 +1,42 @@
+Miércoles 17 de abril del 2013
+==============================
+
+Llegue al laboratorio, y fui directamente hacia el Laboratorio de Computo, ahi
+se me confirmo que ya habian arreglado el problema con el IP del ordenador en
+industrial que tiene instalado el sistema de apoyo administrativo.
+
+Luego fui al Laboratorio de Desarrollo, y necesitaba instalar: Acrobar Reader,
+WinSCP, PDFCreator, y Microsoft Office, en la imagen de la maquina virtual que
+ahora manejo para el tan mencionado sistema de apoyo administrativo.
+
+Terminadas de instalar todas las herramientas necesarias, configure todo sobre
+mi portatil para ir a mostrarle a la secretaria de Industrial, ahi estuve
+discutiendo un rato, sobre como deberia verse el seguimiento que requiere.
+
+Como ninguno de los dos entendia como funciona su seguimiento de 80 horas,
+fuimos a ver a la docente en cuestion, pero no estaba, asi que quedamos en que
+me volveria a llamar cuando este, para aclarar la situación a detalle.
+
+Entonces volvi al Laboratorio de Desarrollo, y busque como instalar Delphi 7
+y que funcione propiamente en Windows 7. Para eso llego el Ing. Villarroel
+con su libro de actas, nos dijo que registraramos nuestras actividades, para
+lo cual desde ahora mis reportes deberan ser mas detallados.
+
+Estuve planeando como solucionar el problema de forma definitiva, se me
+ocurrieron dos planes:
+
+* Instalar Delphi 7 en Windows 7 64 bits, y luego recompilar, y parchar todo el
+  sistema.
+* Utilizar la imagen de Windows XP, y puentear la conexion a la impresora.
+
+Desgraciadamente no se como realizar ninguna de estas dos cosas.
+
+Entre investigaciones, me llamo la secretaria de Industrial, asi que fui, y
+ya con la Lic. Aranibar, vimos como deberia estar el seguimiento, estuvimos
+viendo como estan asignadas sus horas, y creamos el seguimiento basandonos en
+una solución que crearon para su seguimiento de la gestión II/2007.
+
+Ya con eso fue mucho mas facil crear el seguimiento apropiado, lamentablemente
+ya era medio dia y la secretaria me dijo que directamente en la tarde le pasara
+los archivos del seguimiento y nombramiento.
+
