@@ -1,0 +1,30 @@
+Viernes, 19 de abril del 2013
+=============================
+
+Hoy es el dia, hoy debo terminar de configurar la impresora para la maquina
+virtual, primero probare en mi portatil, y con la impresora virtual PDFCreator.
+
+Se rumorea en las calles que VMWare se lleva mejor con las impresoras, pero en
+este caso me decanto por Virtual Box, ya que me permitira dejar de usar Windows
+cada que requiera tener algun problema con el sistema de apoyo administrativo.
+
+A las 09:22:12 descubro que es una macana, esto de las impresoras, 
+particularmente dificil por el pequeño detalle de necesitar los drivers de 64 y
+32 bits, ahora pienso que todo el maldito sistema esta mal.
+
+Debo ir a mantenimiento, pero no es el momento, hare otra cosa por mientras, mmm
+no se me ocurre nada.
+
+A las 09:25:04, me planteo construir el script para subir el proyecto al FTP.
+
+A las 11:51, volvi del departamento de industrial, y estuvo raro, estaban
+cerrando el lugar, ahora se que si termino mis actividades hacia la impresora
+arreglaria todos mis problemas, todos, realmente todos.
+
+Ya veremos, mi experiencia con Windows es cada vez mas escasa en estos terrenos.
+
+Termino mi script FTP y me voy.
+
+Son las 12:06:21, y ya tengo ganas de irme, me da flojera seguir viendo
+Windows, ahora pienso y me digo. Tengo sueño.
+

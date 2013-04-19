@@ -1,0 +1,26 @@
+Jueves 18 de abril, 2013
+========================
+
+Despues de muchos problemas para llegar a destino, aterrize en el Laboratorio
+de Desarrollo, para eso la secretaria de Industrial, esta vez se requeria la
+correccion de un nombramiento del año pasado.
+
+Despues de la impresion de este, se noto que los campos de firmas estaban mal,
+lo que necesita ser corregido lo antes posible, de ahi en mas, tuve que revisar
+varias partes del codigo, despues de mucho probar teorias, descubri el problema.
+
+Era un problema de versiones, la version x.x.x-rx tenia un error del cual la
+providencia no permitia hacer nada.
+
+Despues de descubrir esto busque la ultima version del software (cosa dificil,
+por la falta de un estandar de nombramiento, y una falta total de organización),
+es decir, puro renegar aqui.
+
+Corregido el problema, fui al Departamento de Industrias, e imprimimos todos los
+reportes que eran requeridos, luego notamos que las fechas estaban mal, y tuve
+que reimprimir en mi portatil, fue toda una experiencia.
+
+Al final del dia, resincronize las bases de datos, es decir, la que se
+encuentra en el servidor 192.168.2.16, y la que instale en mi portatil, cuando
+el menso del administrador perdio la contraseña.
+
