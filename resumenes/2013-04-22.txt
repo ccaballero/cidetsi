@@ -1,0 +1,32 @@
+Llunes 22 de abril del 2013
+===========================
+
+A las 10:33:28, caigo en cuenta que perdi la parte superior de mi informe, por 
+culpa de la limpieza, perdi todo detalle anterior, asi es la vida supongo, no
+pienso volver a escribirlo.
+
+Sigo buscando una solucion a los problemas de la impresora, ya descarge los
+drivers, y ahora espero terminar de configurar la red, aqui es mas dificil por
+culpa del proxy.
+
+Y de repente nada funciona como antes, ajj, voy a windows a ver a como nos toca.
+
+Despues de varios problemas y soluciones, termine de configurar todas las
+funciones requeridas, primero busque una solucion en internet de como tener
+intranet e internet en una maquina virtual, la solucion que halle decia instalar
+dos interfaces de red, aunque al principio me parecio muy engorroso, ahora lo
+veo superfactible, es pues una solucion rapida, y hasta muy limpia, en lo que a
+configuraciones respecta.
+
+Al final del dia, me llamaron del departamento de electronica, diciendome que
+si impresora no podia imprimir, y que necesitaba de un seguimiento y 
+nombramiento urgentemente, la solucion que me planteo, fue que yo concediera
+permisos a la secretaria de civil, para poder ver e imprimir ahi aquellos
+reportes. Cosa que de buenas a primeras es literalmente imposible, al menos
+como solucion rapida, se requeririan muchisimas cosas.
+
+La solucion que yo le plantee, fue que yo podria imprimir tales reportes aqui,
+considerando que mi maquina posee privilegios ilimitados, me parecio una 
+solucion aun mas eficiente, asi se hizo, aunque tardo mas de lo concebible para
+tal solucion.
+

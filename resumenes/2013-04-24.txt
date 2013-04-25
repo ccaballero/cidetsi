@@ -1,0 +1,23 @@
+Miercoles 24 de abril del 2013
+==============================
+
+A las 08:59:01, comienzo mi reporte, necesito resolver un problema con las
+relaciones one-to-many de symfony, ayer intente ingresar una nueva relación y,
+esta no estaba, probe muchisimas variantes que encontre en Internet, ninguna me
+funciona, y lo peor de todo es que el error que se genera no da ninguna pista
+sobre que es lo que esta erroneo.
+
+Ahora lo unico que me queda es intentar aislar el problema. Por que parece un
+problema de conflicto entre las cosas que ya estan escritas y las que aun no
+estan escritas.
+
+A las 09:42.45, llego a la solucion, ahora entiendo mejor estos extraños 
+conceptos sobre symfony, es raro, o al menos me parecio raro por un tiempo,
+ahora mismo estoy empezando a hacerlo natural en mi mente.
+
+A las 10:56:39, termino de analizar las cuestiones de evaluacion del pasado,
+ahora creo que soy muy bueno al diseñar.
+
+Termine la parte de las enmiendas, al menos la parte de abajo, ahora me falta
+la parte de arriba, es decir la parte de la interfaz.
+

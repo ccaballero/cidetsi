@@ -1,0 +1,76 @@
+Martes 23 de abril del 2013
+===========================
+
+Despues de llegar y estar sometido a una refactorizacion de mi desempeño por el
+mismisimo jefe de departamento, ahora escribo mi reporte a las 09:13:12, tengo
+dos planes para el dia de hoy.
+
+* Instalar la maquina virtual que termine de preparar ayer.
+* Programar la logica de transicion de estados para las convocatorias en el
+  sistema vocare.
+
+En modo intercalado, ire por industrial a media mañana.
+
+El resto ahoringa mismo.
+
+A las 11:10:23, ya instale la maquina virtual en industrial, con todos lo
+necesario, ahora podemos decir al fin, que el problema esta resuelto 
+completamente. Se acabo.
+
+Por otro lado ya tengo las transiciones de estado, ahora debo analizar las 
+transformaciones internas, una por una.
+
+Escribo esta parte mas para fines documentales que como parte de un reporte concreto.
+
+
+=================================
+VOCARE Y LA TRANSICION DE ESTADOS
+=================================
+
+
+¿Que representan y que funcionalidad extendida difiere en cada uno de los 
+estados por los que puede pasar una convocatoria?
+
+Esta claro que una convocatoria puede pasar por multiples estados, dadas ciertas
+condicionales, existen acciones sobre las convocatorias que inexorablemente
+deben cambiar su comportamiento con relacion a las funciones que estan 
+disponibles para el usuario.
+
+Pero vamos por partes:
+
+ESTADO BORRADOR
+---------------
+
+Cuando una convocatoria esta en estado borrador, esta posee caracteristicas de
+edicion muy avanzadas, es decir, que puede transformar sus componentes sin
+ninguna restriccion. Este es el estado primigenio de las cosas, y el punto de
+partida de cualquier convocatoria vigente.
+
+Conceptualmente esta la realiza el departamento de informatica y sistemas, y 
+debe unicamente aproximarse a la forma en la que estos conciben la cuestion de
+las convocatorias, es decir, una base solida sobre la que continuar despues.
+
+ESTADO ELIMINADO
+----------------
+
+Para llegar al estado de eliminado una convocatoria en estado borrador, debe
+descartarse, se dice eliminada a una convocatoria cuyo valor oficial es 
+irrelevante para cualquier proposito.
+
+Si bien las convocatorias eliminadas, aun permanecen en la base de datos, estan solo pueden ser transformadas al estado borrador por el administrador del
+sistema.
+
+ESTADO EMITIDO
+--------------
+
+Cuando una convocatoria aun en borrador, es emitida (en la vida real, esto
+significa, poner en consideracion de los consejos de carrera), la redacción
+que poseia la convocatoria se hace intocable, es decir, que cualquier
+modificación hecha, unicamente puede ser de forma, no de fondo, dejando de ser
+un tanto filosoficos, diremos pues, que solo hay posibilidad de cambiar partes
+que no tienen importancia real a la hora de considerar los componentes que se
+estan haciendo.
+
+
+
+
