@@ -1,0 +1,19 @@
+Jueves 25 de abril del 2013
+===========================
+
+Partiendo del hecho que son las 08:36:31, comienzo mi reporte del dia, necesito
+hacer la parte interesante de las enmiendas para una convocatoria, la redaccion,
+las redacciones para ser exactos.
+
+Aun tengo la idea a medio cocinar en mi cerebro, espero aclarar todingo a modo
+de ir escribiendolo, o sea, paso a pasito.
+
+A las 09:45:05, tengo frio, y ya casi tengo lo de las enmiendas.
+A las 10:19:20, sigo sin terminar, y tengo muchas ganas de ver al horizonte, vi
+muchas pantallas mucho tiempo.
+
+A las 10:47:10, estoy estancado en la generacion de un formulario personalizado,
+necesito probar algunas teorias acerca de como es pues que funcionan los helpers
+url_for, y form_tag.
+
+Y vuelvo a intentarlo a las 11:46:37, tengo un plan.
