@@ -1,0 +1,30 @@
+Martes 30 de abril del 2013
+===========================
+
+Despues de arrivar a las 08:43:59, planeo, y me digo a mismo, que será
+recomendable programar esta friolenta mañana, recuerdo que ayer nomas tenia una
+interesante solucion, pero ahora quiero mas.
+
+Mis planes ya armados en mi cabeza me indican, testear las enmiendas, verificar
+las redacciones, y cuando esten super-probadas, pasar a otro estado de
+convocatorias.
+
+Aun tengo pendiente el script para subir mis archivos por FTP, automaticamente.
+Sigo sin tener la paz y calma necesarias para programar algo de bash, un dia
+de estos la escribo.
+
+A las 09:40:53, termino de depurar un error en mi codigo, descubri que el ORM
+doctrine 1.2 no tiene el metodo rightJoin, asi que tuve que ejecutar la consulta
+a mano, sin mapear. Triste pero cierto.
+
+A las 10:02:40, termine de corregir los viejos errores del pasado.
+
+A las 11:32:00, termino de hacer el cambio de director académico para el
+departamento de industrial, se necesitaba desactivar al Ing. Guido Gomez,
+y crear un registro para el Ing. Rene Torrico Mejia.
+
+A las 12:25:09, caigo en cuenta que me quiero ir, ya termine de configurar mis
+scripts para sincronizar la base de datos con el servidor en produccion, creo
+que muy en mis adentros me gusta bash.
+
+
