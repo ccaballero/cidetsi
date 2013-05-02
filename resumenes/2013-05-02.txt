@@ -1,0 +1,18 @@
+Jueves 02 de Mayo del 2013
+==========================
+
+
+LLegue y comence a escribir a las 08:36:48, pienso y me custiono, sobre que es
+lo prioritario, decido y me digo, hoy es el dia, hoy termino el script para
+subir automaticamente el proyecto via FTP.
+
+A las 12:11:05, termino uno de los scripts mas interesante que escribi en estos
+años, es interesante como todo es mas resignable con el tiempo. Muy curioso.
+
+Vi ademas eso de los cargos, creo que es lo que sigue en mi recorrido, ahora
+estoy pensando como será exactamente, mañana mismito lo veo.
+
+Ahondando en el script que acabo de crear, sirve para subir automaticamente por
+FTP los directorios, y archivos que uno necesite. Ademas le hice clausulas para
+crear carpetas y cambiar permisos. Realmente me gusta, es muy bonito.
+
