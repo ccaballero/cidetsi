@@ -1,0 +1,25 @@
+Viernes (al fin), 3 de mayo del 2013
+====================================
+
+Despues de mi gran logro de ayer, terminar el script para subir automaticamente
+el proyecto al FTP, ahora me presto a seguir con el desarrollo cotidiano.
+
+Particularmente voy a entrar en esto del manejo de cargos, primero voy a repasar
+los permisos, y grupos, para concretizar un idea mas solida.
+
+Comienzo a 08:40:33...
+
+Analisis
+--------
+
+Cada convocatoria tiene un conjunto de cargos necesarios. La cuestion es que tan
+estaticos son estos, y cual será su relación con los cargos de la vida real.
+
+Esta dificil, voa esperar a que venga el Ing. para que me aclare las cuestiones.
+
+A las 10:26:17 descubro que la tania hace mucho ruido y me desconcentra muy
+facilito.
+
+A la 11:30:48, me da sueño, voy a agarrar algo de cuerpo afuerita, vi mucho de 
+mi futuro proximo para un dia. La palabra clave parece ser DocBook.
+
