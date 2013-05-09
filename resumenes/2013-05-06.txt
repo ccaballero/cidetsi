@@ -1,0 +1,22 @@
+Lunes 06 de Mayo del 2013
+=========================
+
+Llegue a las 08:35:01, o al menos a esa hora vi el reloj por primera vez en la
+mañana, habia mucha gente sin trabajar en el camino, lleno mi corazon de ganas
+de ser uno de aquellos, en fin, las suertes fueron echadas haca ya tiempo.
+
+Ahora si planeare mi mañanita, mmm, 
+
+* Tengo que refinar los transformadores XSLT, que alguna vez aproxime a una
+  solucion factible, el problema es que ahora si que estoy muy oxidado en esas
+  tecnicas.
+
+* Tengo que idear una logica de cargos mas apropiada, algo solido, con mucha
+  neurona de por medio. Hasta se me antoja extenuante a ratos.
+
+Opto por lo segundo, y veré todas las cosas para el manejo de roles, necesito
+hacer que ese manejo de roles, este cazado a una convocatoria, de forma que
+otras convocatorias puedan manejar diferentes logicas de administración.
+
+A las 09:04:44, estoy revisando la logica de permisos del sistema, esta muy
+descuidado el lugar.
