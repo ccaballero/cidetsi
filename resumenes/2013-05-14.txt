@@ -1,0 +1,21 @@
+Martes 14 de mayo del 2013
+==========================
+
+Llego y comienzo el reporte a las 08:29:41, necesito terminar las interfaces 
+para el manejo de cargos, ademas de las interfaces para configurarlos en una
+convocatoria. Llevo trabajando en eso casi dos semanas, será mi gran obra de
+mayo.
+
+A las 11:01:12, descubro que lo que queria hacer, no funciona, ahora creo que
+necesito un metodo mas clasico.
+
+A las 11:32:32, resuelvo el problema de manera categorica, mas limpio de lo que
+inclusive yo esperaria, interesante, interesante.
+
+Son las 11:43:00, y termino de subir las funcionalidades para la configuración
+de los cargos, ahora debo programar las funciones que son especificas de una
+convocatoria.
+
+A las 12:08:20, me canso de programar y me voy, dejo los fixtures listos, y toda
+la infraestructura de la base de datos lista para la programacion de las 
+interfaces.
