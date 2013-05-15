@@ -1,0 +1,20 @@
+Miercoles, 15 de mayo del 2013
+==============================
+
+08:37:15, llego prendo la maquina y comienzo mi reporte.
+
+09:38:30, termino de organizar las interfaces, ahora estoy algo confundido sobre
+la mejor forma de configurar el personal encargado de las funciones especificas.
+
+Ademas que tengo mucho frio, voy a recibir algo de vitamina D, y reflexionar sobre la mejor forma de configurar estas weas.
+
+Commiteo antes de ir...
+
+11:22:13, pienso y creo que hay dos caminos, hacerlo simple o hacerlo versatil,
+me pregunto ¿Que haria Fabien Potencier?. La versatilidad me atrae, pero el 
+precio me asusta.
+
+Creo que es una decision que debo reflexionar un poco mas.
+
+Hare funciones menores mientras planeo mis siguientes pasos.
+
