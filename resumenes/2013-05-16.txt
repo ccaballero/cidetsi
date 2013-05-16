@@ -1,0 +1,17 @@
+Jueves 16 de mayo del 2013
+==========================
+
+08:50:05 - Comienzo a realizar mi programacion.
+09:06:52 - Voy a industrial a corregir problemas con el sistema de apoyo
+           administrativo.
+11:07:01 - Termino de configurar las renderizaciones para el manejo de las 
+           firmas. Ahora queda programar las respuestas del servidor, y las
+           ayudas en javascript.
+11:22:07 - Descubro que los sshs no estan funcionando, queria entrar a mi
+           maquina desde la maquina de escritorio, rayos. Creo que es la clase
+           de cosas que perturban a un desarrollador y decrementan su
+           productividad.
+11:57:25 - Termino todo lo que tuvo que ver con javascript, solo faltan las
+           respuestas del servidor.
+12:19:57 - Termino de procesar las peticiones del servidor. Soy feliz? nosep
+
