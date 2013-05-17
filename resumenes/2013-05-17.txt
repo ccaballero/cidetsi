@@ -1,0 +1,21 @@
+Viernes 17 de mayo del 2013
+===========================
+
+09:21:57 - Despues de una buena caminata por ciudad, arrivo y comienzo a
+           trabajar. Me digo a mi mismo que raro, no sali tan tarde de mi
+           casa, ahora agradezco no haberme dormido mucho tiempo en el micro
+           de venida.
+
+10:13:02 - Comienzo a diseñar las interfaces y funcionalidades para el envio de
+           notificaciones del sistema.
+
+11:10:49 - Despues de mucho pensar, no creo tener la respuesta acerca de que es
+           lo mas apropiado con respecto al manejo de cuentas, vale decir, las
+           cuentas de los postulantes y los miembros de las comisiones 
+           designadas a tales entresijos. Creo que lo mejor en este caso es que 
+           enfoque mis pensares a otros topicos menores.
+
+11:46:25 - Caigo en cuenta que el sueño me esta venciendo estrepitosamente, 
+           ahora creo que no puedo programar mas, caso cerrado, al menor por 
+           hoy. Al menor por esta semana. Voy a dormir.
+           
