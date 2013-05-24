@@ -1,0 +1,9 @@
+martes 21 de mayo del 2013
+==========================
+
+08:32:19 - Llegue y ahora a modo de distracción decido reinstalar mi sistema
+           operativo, inicialmente habia considerado poner FreeBSD, pero ahora
+           creo que con una Gentoo GNU/Linux tengo algo mas de seguridad.
+           Pondre una FreeBSD en mi laptop, pero despues.
+
+
