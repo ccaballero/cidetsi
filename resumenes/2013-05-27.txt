@@ -7,3 +7,7 @@ Lunes 27 de mayo del 2013
            decir el mapeo con doctrine, y la parte superior, es decir, la
            generación del HTML. Ahora solo me queda escribir el controlador y ya
            estoy hecho.
+12:55:46 - Termino de escribir el controlador para la peticion de administracion
+           de cargos, con eso ya tendria completa toda la etapa previa a una
+           convocatoria, lo siguiente es ver las concepciones para una convocatoria
+           en ejecución. Cosa maj grande.
