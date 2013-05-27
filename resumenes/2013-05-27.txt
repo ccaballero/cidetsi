@@ -1,0 +1,9 @@
+Lunes 27 de mayo del 2013
+=========================
+
+08:30:25 - Comienzo a trabajar, recuerdo que estoy en pleno analisis del manejo
+           de cargos y permisos para una convocatoria especifica.
+12:14:09 - Termino la interfaz para el manejo de cargos, la parte inferior, es
+           decir el mapeo con doctrine, y la parte superior, es decir, la
+           generación del HTML. Ahora solo me queda escribir el controlador y ya
+           estoy hecho.
