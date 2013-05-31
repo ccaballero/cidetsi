@@ -1,0 +1,16 @@
+Martes 28 de mayo del 2013
+==========================
+
+Hoy planeo poner en orden todas las cosas que tengan algo que ver con el sistema
+de apoyo administrativo, hay muchas cosas por todas partes, ire moviendo y
+documentando todingo, a medida que lo encuentre.
+
+08:39:10 - Comienzo actividades.
+08:53:32 - Decido ir a Windows, para agarrar mas contexto sobre el sistema
+           de apoyo administrativo, jure volver.
+10:24:57 - Vuelvo a ubuntu, despues de haber acopiado todo lo referente al 
+           sistema de apoyo administrativo.
+11:37:34 - Me invocan para instalar el sistema de apoyo administrativo en la
+           restaurada maquina de la secretaria del departamento de sistemas
+           e informatica.
+

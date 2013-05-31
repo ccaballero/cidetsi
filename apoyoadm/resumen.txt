@@ -1,0 +1,37 @@
+APOYO ADMINISTRATIVO (28 de Mayo del 2013)
+==========================================
+
+BASE DE DATOS
+-------------
+Comenzare diciendo que desde el dia que llegue hasta hoy mismo, y por el resto 
+de dias que me queden, hare backups diarios a las 9 bases de datos que tengo en
+mi vigilancia.
+
+Pero volviendo al asunto original, mencione que estoy a cargo de 9 bases de 
+datos, de estas solo unas pocas son utilizadas a profundidad, el resto es mas
+como un juguete que las personas no quieren entender, asi que diremos sin temor
+a equivocarnos, que mucho mucho lo que se pierden no es, pero el metodo que usan
+actualmente tampoco es la solución definitiva.
+
+A dia de hoy, se tienen 162 copias de respaldo ubicadas actualmente en:
+
+> ~/apoyo_administrativo/backups
+
+Se ejecuta una copia de respaldo mediante un script en shell ubicado en:
+
+> ~/apoyo_administrativo/respaldo_todo.sh
+
+Eso es todo en cuanto a este lado del mantenimiento.
+
+DOCUMENTACIÓN
+-------------
+Otro aspecto importante a tomar en cuenta para ti joven heredero, es que todas
+mis actividades, estan compendiadas en resumenes diarios, desde que llegue, 
+pense en lo crucial de mi documentación, asi que fui lo mas detallado que mis
+ganas (mientras las tenia) podian demostrar. Estas estan ubicadas en:
+
+> ~/cidetsi/resumenes     <-- conforman los resumenes diarios que fui haciendo.
+> ~/cidetsi/apoyoadm      <-- conforman las peticiones sobre el sistema de
+                              apoyo administrativo que fui atendiendo.
+
+
