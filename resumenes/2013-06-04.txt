@@ -1,0 +1,7 @@
+Martes 04 de Junio del 2013
+===========================
+
+08:33:58 - Comienzo a escribir mi informe.
+10:35:04 - Termino la funcionalidad de notificaciones.
+10:36:28 - Comienzo a trabajar la generacion final de documentos.
+

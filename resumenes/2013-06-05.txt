@@ -1,0 +1,11 @@
+Miercoles 05 de Mayo del 2013
+=============================
+
+08:50:21 - Comienzo mi reporte, y no hay red interna, tampoco internet.
+09:54:16 - Termino mi boceto de transformador XSLT para TXT. Comienzo a estudiar
+           el transformador LATEX.
+10:45:14 - Caigo en cuenta que no puedo transformar mi XML, esta muy sucio, debo
+           retroalimentar la situación, no me queda de otra.
+11:47:52 - Modifique la estructura base en XHTML, ahora caigo en cuenta que el
+           existe otro problema. Las secciones y subsecciones.
+
