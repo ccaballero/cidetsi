@@ -1,0 +1,11 @@
+Viernes 07 de Junio del 2013
+============================
+
+08:38:09 - Comienzo a planear mis funciones para hoy.
+10:46:44 - Comienzo a realizar pruebas para la compilacion de pdflatex, el
+           formato latex tiene muchas cosas que me serian mas faciles si las
+           obvio.
+13:12:54 - Termino de probar los minimos cambios para la correcta renderizacion.
+           Faltan varios retoques, y tengo que pensar como hacer para tener esto
+           corriendo en el fucking servidor de la carrera.
+
