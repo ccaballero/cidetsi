@@ -1,0 +1,27 @@
+Miercoles 12 de Junio del 2013
+==============================
+
+09:00:00 - Justito me fijo la hora de llegada, ja.
+10:35:33 - Realizando pruebas para la conversion por pdflatex via servidor
+           oficial.
+               - Los paquetes que estoy usando son:
+                   - tetex-latex
+                   - tetex-fonts
+           Necesito ver si no hace falta algun otro paquete adicional.
+11:49:51 - El servidor ya esta listo para generar archivos PDF a partir de 
+           ficheros LATEX. Esta bueno, lo que hize para arreglar el problema
+           fue probar los siguientes comandos:
+
+               - fmtutil --missing
+                   - reconstruye los estilos y demas weas que hacen a latex 
+                     hacer su magia.
+               - fmtutil-sys --all
+                   - si el anterior no lo consigue, este
+                     reconstruye todingo el lugar.
+               - texconfig rehash
+                   - reconstruye la lista de indices.
+               - texhash
+                   - hace lo mismo que el anterior, al menos eso parece, no
+                     averigue el hecho en profundidad.
+12:14:45 - Agrego algunos retoques, planeo hacer otros mañana, ya esta quedando
+           razonable.

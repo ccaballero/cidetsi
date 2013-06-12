@@ -1,0 +1,10 @@
+Martes 11 de Junio del 2013
+===========================
+
+08:35:16 - Comienzo uno de esos dias donde diria que terminare una parte crucial
+           del sistema que vengo desarrollando hace ya tiempito.
+10:05:52 - Termino todo lo necesario para configurar el perfil de usuario.
+           Ahora debo realizar tareas para el sistema de apoyo administrativo.
+11:48:51 - Termino las correcciones sobre el flash Messenger. Sigo haciendo test
+           de las funciones, corrigiendo errores y mejorando el código.
+
