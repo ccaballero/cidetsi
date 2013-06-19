@@ -1,0 +1,10 @@
+Martes 18 de Junio del 2013
+===========================
+
+08:28:03 - LLego y comienzo a escribir.
+           Pienso en generación de documentos.
+09:41:10 - Voy mas o menos en la generación, ya estableci variables, habia una
+           parte que parecia que estaba mal, pero nope, casi me deprimo, pero
+           resulta que mi logica era buena nomas, ojala jale como estoy pensando
+           que deberia jalar.
+12:09:25 - Termino la parte de renderizar.

@@ -1,0 +1,14 @@
+Miercoles 19 de Junio del 2013
+==============================
+
+08:41:46 - Entradita.
+10:20:29 - Terminado de corregir el modelo, tuve que cambiar para separar el
+           concepto de plantilla, del concepto de documento propiamente dicho.
+10:46:15 - Termino una función auxiliar de clonación, y me ahora me hacen falta
+           dos funcionalidades mas, una función que configure tipos, y otra que
+           me permita renderizar un formulario con las variables establecidas en
+           la plantilla de documentación.
+11:32:17 - Termino las estructuras internas para la definición de tipos.
+12:07:49 - Me quedo trabajando en el procesador de la funcionalidad de tipos, ya
+           es tarde y quiero hacerlo con calma.
+
