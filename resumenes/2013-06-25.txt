@@ -1,0 +1,9 @@
+25 de Junio del 2013
+====================
+
+08:48:26 - Comienzo faena, ooole.
+09:44:15 - Cambio el conjunto de objetos encargados de la generacion de 
+           documentacion, ahora todos estan prefijados con documentacion.
+11:10:47 - Tengo mucho sueño, asi que dejare de programar, mi concentraciòn
+           es super bajisima.
+

@@ -1,0 +1,7 @@
+Lunes 24 de Junio del 2013
+==========================
+
+08:45:55 - comienzo reporte.
+09:43:59 - termino el procesamiento de tipos para el generador de documentación.
+12:23:35 - termino mi analisis acerca de como hacer el generador de documentos espeficico.
+
