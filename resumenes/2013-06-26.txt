@@ -1,0 +1,9 @@
+Miercoles 26 de Junio del 2013
+==============================
+
+08:44:17 - Intento recordar en que me quede ayer mero.
+10:42:03 - Terminada una parte de generación de documentos, tuve muchos 
+           problemas con las especificaciones que debe establecer en doctrine.
+           Ya puede renderizar un documento a partir de un fixture, es un
+           comienzo, aun falta un monton, pero va a estar bueno.
+

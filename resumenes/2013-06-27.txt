@@ -1,0 +1,16 @@
+Jueves 27 de Junio del 2013
+===========================
+
+08:27:53 - Start the production.
+09:32:38 - Termino de programar el visor de documentos generados, ayer hize la
+           parte básica, ahora inclui la impresión de todo el volumen, ademas de
+           establecer un conjnuto de variables por defecto para todo el volumen.
+           Ahora intentaré generalizar otro volumen de documentos como ejemplo
+           de analisis, necesito crear el formulario de creación de volumenes.
+11:51:23 - Finalizo de ingresar los datos relativos a la convocatoria I/2013 y
+           II/2013, se han definido los formatos para ambas cartas, ahora
+           necesito crear un editor de volumenes, pero antes necesito definir
+           renderizadores personalizados para los tipos de datos.
+12:07:06 - Pienso en una forma de trabajar los tipos, creo que mis algoritmos
+           estan bien encaminados, pero necesito generalizar mas y mejor.
+
