@@ -1,0 +1,22 @@
+Lunes 15 de Julio del 2013
+==========================
+
+08:45:17 - Comienzo a trabajar, llegue temprano, pero estaba escribiendo mis
+           reportes de las ultimas 4 semanas.
+           Tengo dos actividades planeadas:
+           - Conseguir el driver de la impresora de la secretaria de inf-sis.
+           - Terminar el procesador de documentos, la tan anhelada funcion de
+             guardar los cambios.
+09:27:37 - Busco el driver de la impresora para la secretaria, veo esa
+           actividad, como mas prioritaria que cualquier otra.
+09:45:02 - Voy a probar un driver donde la secretaria.
+11:10:28 - La secretaria no estaba, y mi teoria sobre instalar el driver no
+           funciono, aproveche el hecho que no perjudicaba a nadie y me
+           propuse solucionarlo ahi mismo, busque en internet multiples
+           soluciones, y al final termine encontrando un driver universal,
+           al instalarlo puede compartir la impresora correctamente, asi que
+           con eso se soluciono el problema.
+11:59:36 - Termino mi algoritmo para fusionar dos estructuras en php, soporta
+           arreglos, tipos primitivos y stdClass.
+12:18:10 - Termino los arreglos sobre como editar, me falta la parte de los
+           documentos, los globales estan listos.

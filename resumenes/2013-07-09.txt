@@ -1,0 +1,13 @@
+Martes 09 de Julio del 2013
+===========================
+
+08:45:57 - Comienzo con mi trabajo, esta vez necesito crear el boton para
+           agregar documentos al editor, y luego de eso el procesador de la
+           peticion.
+09:53:47 - Termino otra de mis conocidas refactorizaciones, la funcion agregar y
+           todas las funciones del pasado ya funcionan. Ahora toca hacer un
+           removedor de documentos innecesarios.
+11:02:59 - Termino de escribir el removedor de documentos, ahora necesito hacer la 
+           parte mas magica de todas, el que retransforma todo a json para su
+           procesamiento en servidor.
+

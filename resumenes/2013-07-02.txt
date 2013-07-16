@@ -1,0 +1,10 @@
+Martes 07 de Julio del 2013
+===========================
+
+08:45:28 - En el comienzo ....
+09:47:48 - Caigo en cuenta que he llevado la generación de plantillas a una
+           cuestión muy intrincada. Decidi quitar los tipos de datos, ahora
+           y por el momento creo que será mejor que todo se maneje como cadenas.
+11:39:09 - Terminos las correcciones sobre las plantillas de documentación, he
+           retirado la logica de tipos, y cambie el algoritmo para soportar
+           anidación infinita de variables.

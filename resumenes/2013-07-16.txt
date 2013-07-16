@@ -1,0 +1,8 @@
+Martes 16 de Julio del 2013
+===========================
+
+08:53:17 - Hoy termino el editor de documentacion, y comienzo las funciones de
+           generación de documentos PDF.
+10:42:35 - Termino las correcciones de la libreria javascript para el editor de
+           funciones. Y llega rudy y nos dice que vaya al centro de computo a
+           ver las cuestiones de los nuevos administradores que daran cursos.

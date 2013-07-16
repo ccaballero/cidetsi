@@ -1,0 +1,10 @@
+Miercoles 10 de Julio del 2013
+==============================
+
+08:55:06 - Llego el dia en que debo hacer que mis librerias hagan la parte
+           magica, todavia vivo con una idea vaga de como hacerlo, espero poder
+           definirlo mientras lo termino.
+10:11:34 - Termino la edición de los formularios, ahora todos los campos son
+           escribibles, lo que quiere decir que tranquilamente podria procesar
+           la peticion en el servidor, solo me falta comprobar que mis nombres
+           de entrada de datos sean unicos.

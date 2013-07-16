@@ -1,0 +1,10 @@
+Lunes 08 de Julio del 2013
+==========================
+
+08:52:52 - Comienzo a trabajar en javascript, ya llevo muchos dias con eso, y
+           esta cada vez mas dificil.
+11:34:56 - Termino la libreria para renderizar los formularios, ahora necesito
+           dar funcionalidad a otras partes, primero el que cambia de 
+           documentos, luego el agregar documentos, luego el que fusiona 
+           plantillas con objetos concretos; da para largo.
+
