@@ -1,0 +1,9 @@
+Viernes 19 de Julio del 2013
+============================
+
+08:35:21 - Ayer no pude terminar mi libreria, porque encontre un problema muy
+           critico, necesite repensar varias logicas, creo que ya tengo un plan
+           Voy a intentar consolidarlo ahora mismo.
+12:16:13 - Terminada la funcion de remover documentos en el editor de
+           documentacion.
+

@@ -1,0 +1,17 @@
+22 de Julio del 2013
+====================
+
+08:54:53 - Tengo planeado realizar las siguientes actividades:
+           - Refactorizar el editor de documentación (vocare).
+           - Hacer mi reporte sobre el sistema de comunicados.
+           - Revisar que todo funcione en el sistema de apoyo administrativo,
+             despues del apagon de servidores de 3 dias de la anterior semana.
+09:47:12 - Acabo de terminar la inserción de un nuevo volumen de
+           documentación, que pedi para poder analizar los cambios de los
+           documentos entre diferentes gestiones, ahora se me ocurren mejores
+           ideas para refactorizar.
+12:03:52 - Ya corregi el clonador de cajas de la libreria de documentacion.
+           Encontre otro problema, esta vez es en el transformador json del
+           codigo php, prefiero procesar los objectos con mi propio metodo.
+           Eso es lo que hare mañana. Seria lo ultimo que me faltaria para
+           terminar el editor.

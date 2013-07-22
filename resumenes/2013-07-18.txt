@@ -1,0 +1,6 @@
+Jueves 18 de Julio del 2013
+===========================
+
+08:39:46 - Dia despues del agasajo.
+           Hoy quiero y voy a terminar la funcion de edicion, la funcion de
+           procesamiento de la peticion para ser mas exactos.
