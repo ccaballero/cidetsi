@@ -1,0 +1,9 @@
+Martes 23 de Julio del 2013
+===========================
+
+09:00:22 - Comienzo haciendo mi propio transformador de json -> stdClass y
+           viceversa.
+09:22:03 - Termino mi conversor propio de json, todo parece correcto, note que
+           los caracteres acentuados y las eñes causaban problemas, hace algun
+           tiempo, pero ahora sospechosamente funcionan, analizare ese 
+           comportamiento con calma durante las pruebas.

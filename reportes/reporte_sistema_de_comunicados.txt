@@ -1,0 +1,7 @@
+Primeras impresiones de un sistema para el manejo de avisos y comunicados.
+por: Carlos Caballero B. (Administrador del laboratorio de desarrollo)
+
+Introducción:
+Como parte de las funciones desempeñadas en aqui el laboratorio de desarrollo,
+se ha solicitado, realizar un reporte sobre las parecencias y observaciones acerca del sistema desarrollado por el Ing. Alvaro Chambi Reinaga, para la
+ges
