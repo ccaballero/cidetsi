@@ -1,0 +1,9 @@
+Miercoles 31 de Julio del 2013
+==============================
+
+08:59:11 - Siendo que he terminado las funciones sobre generación de
+           documentos, es hora de probarlo en batalla, me parece conveniente
+           tambien tratar la parte de la integración con todas las previas de
+           una convocatoria.
+12:09:35 - Termino las correcciones, mañana intentare subir al servidor para
+           hacer las pruebas definitivas, hay que ver que sigue.

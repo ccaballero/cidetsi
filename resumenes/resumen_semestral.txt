@@ -1,0 +1,178 @@
+                                               Cochabamba, 12 de Agosto del 2013
+
+Señor:
+Ing. Jimmy Villarroel Novillo
+Presente.-
+
+                                       Ref: Informe de media gestión.
+
+Estimado a quien corresponda:
+
+A continuación paso a detallar el conjunto de actividades que me han tenido
+ocupado este semestre (I/2013).
+
+Inicio de la gestión: 28 de Enero.
+Fecha del ultimo reporte: 9 de Agosto.
+
+ENERO
+FEBRERO
+MARZO
+ABRIL
+MAYO
+JUNIO
+
+JULIO
+=====
+
+SISTEMA PARA CONVOCATORIAS
+--------------------------
+Funciones que estan siendo trabajadas:
+   - Análisis, diseño, y codificación del modulo de documentación.
+
+                       |  1 |  2 |  3 |  4 |  5 ||  8 |  9 | 10 | 11 | 12 |
+Análisis               |    |  2 |    |    |    ||    |    |  1 |    |    |
+Herramientas           |    |    |    |    |    ||    |    |    |  1 |    |
+Diseño BD              |    |    |  1 |    |    ||    |    |  1 |    |    |
+Diseño Navegación      |    |    |    |    |    ||    |    |    |  1 |    |
+Planificación          |    |    |    |    |    ||    |    |    |    |    |
+Codificación           |  2 |  2 |  3 |  3 |  4 ||  4 |  4 |  2 |    |    |
+Capacitación           |    |    |    |    |    ||    |    |    |  2 |    |
+Pruebas                |    |    |    | .5 |    ||    |    |    |    |  2 |
+Implantación           |  2 |    |    | .5 |    ||    |    |    |    |    |     
+
+SISTEMA DE APOYO ADMINISTRATIVO
+-------------------------------
+
+                       |  1 |  2 |  3 |  4 |  5 ||  8 |  9 | 10 | 11 | 12 |
+Corrección de BD       |    |    |    |    |    ||    |    |    |    |    |
+Corrección de Código   |    |    |    |    |    ||    |    |    |    |    |
+Corrección de Contexto |    |    |    |    |    ||    |    |    |    |    |
+Atención al usuario    |    |    |    |    |    ||    |    |    |    |  2 |
+
+SISTEMA DE COMUNICADOS Y AVISOS
+-------------------------------
+
+                       |  1 |  2 |  3 |  4 |  5 ||  8 |  9 | 10 | 11 | 12 |
+Revisión del sistema   |    |    |    |    |    ||    |    |    |    |    |
+Pruebas                |    |    |    |    |    ||    |    |    |    |    |
+Implantación           |    |    |    |    |    ||    |    |    |    |    |
+
+AGOSTO
+======
+
+SISTEMA PARA CONVOCATORIAS
+--------------------------
+
+Funciones que estan siendo trabajadas:
+   - Evaluación y pruebas sobre el modulo de documentación.
+   - Análisis, y codificación e integración de las funciones de postulación.
+
+                       |  1 |  2 ||  5 |  6 |  7 |  8 |  9 |
+Análisis               |    | .4 ||    |  - | .3 |    |    |
+Herramientas           |    |    ||    |  - |    |    |    |
+Diseño BD              |    | .9 ||    |  - | .7 |    |    |
+Diseño Navegación      |    | .7 ||    |  - |    |    |    |
+Planificación          |    |    ||    |  - |    |    |    |
+Codificación           |    |  2 ||  3 |  - |  2 |    |    |
+Capacitación           |    |    ||    |  - |    |    |    |
+Pruebas                |  3 |    ||    |  - |    |    |    |
+Implantación           |  1 |    ||    |  - |    |    |    | 
+
+SISTEMA DE APOYO ADMINISTRATIVO
+-------------------------------
+
+                       |  1 |  2 ||  5 |  6 |  7 |  8 |  9 |
+Corrección de BD       |    |    ||    |  - |    |1.5 |  2 |
+Corrección de Código   |    |    ||    |  - |    |    |    |
+Corrección de Contexto |    |    ||    |  - |    | .5 | .5 |
+Atención al usuario    |    |    ||    |  - |    |  2 |  1 |
+
+SISTEMA DE COMUNICADOS Y AVISOS
+-------------------------------
+
+                       |  1 |  2 ||  5 |  6 |  7 |  8 |  9 |
+Revisión del sistema   |    |    ||  1 |  - |  1 |    |    |
+Pruebas                |    |    ||    |  - |    |    |    |
+Implantación           |    |    ||    |  - |    |    | .5 |
+
+
+
+
+
+            AGOSTO
+            -------------------------------------------------------
+            | Nº | apoyo          | convocatorias | comunicados   |
+            |    | administrativo |               | y avisos      |
+            -------------------------------------------------------
+            |  1 |                | 4             |               |
+            |  2 |                |               |               |
+            -------------------------------------------------------
+            |  5 |                |               |               |
+            |  6 |                |               |               |
+            |  7 |                |               |               |
+            |  8 |                |               |               |
+            |  9 |                |               |               |
+            -------------------------------------------------------
+
+
+            | 11 |                |               |               |
+            | 12 |                |               |               |
+            | 13 |                |               |               |
+            | 14 |                |               |               |
+            -------------------------------------------------------
+            | 15 |                |               |               |
+            | 16 |                |               |               |
+            | 17 |                |               |               |
+            | 18 |                |               |               |
+            -------------------------------------------------------
+            | 19 |                |               |               |
+            | 20 |                |               |               |
+            | 21 |                |               |               |
+            | 22 |                |               |               |
+            | 23 |                |               |               |
+            -------------------------------------------------------
+            | 24 |                |               |               |
+            | 25 |                |               |               |
+            | 26 |                |               |               |
+            | 27 |                |               |               |
+            | 28 |                |               |               |
+            -------------------------------------------------------
+            | 29 |                |               |               |
+            | 30 |                |               |               |
+            | 31 |                |               |               |
+            -------------------------------------------------------
+                                         
+
+Resumen:
+      Total de horas trabajadas: 124 horas
+      Total de horas dedicadas al
+        sistema de apoyo administrativo: 37.8 horas
+      Total de horas dedicadas al
+        sistema de convocatorias: 86.2 horas
+
+
+    Total tiempo invertido en analisis: 10.1
+    Total tiempo invertido en herramientas: 5.0
+    Total tiempo invertido en diseño db: 3.5
+    Total tiempo invertido en diseño navegación: 4
+    Total tiempo invertido en planificacion: 7
+    Total tiempo invertido en codificacion: 21
+    Total tiempo invertido en capacitacion: 35.5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         --------------------------
+                                   Firma
+                         Carlos E. Caballero Burgoa

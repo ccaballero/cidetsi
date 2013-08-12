@@ -1,0 +1,16 @@
+Viernes 26 de Julio del 2013
+============================
+
+08:52:48 - Tengo planeado corregir los errores en el sistema en produccion de
+           vocare, ademas de subir los nuevos cambios.
+           Luego quiero seguir trabajando en las transformaciones para mi
+           editor de documentación.
+           Si me queda tiempo en la mañana, instalare el sistema de comunicados
+           en mi portatil.
+12:08:59 - Termino las correcciones sobre el error en la creación de volumenes
+           de documentación, ahora puedo continuar generando texto, el error
+           era critico, ahora esta super-corregido.
+12:43:36 - Genero el documento que tantos meses he soñado con generar, y
+           resulta que esta algo golpeado por la vida. Tendre que volver a
+           trabajar en el transformador XSLT.
+

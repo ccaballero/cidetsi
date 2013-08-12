@@ -1,0 +1,6 @@
+Miercoles 07 de Agosto del 2013
+===============================
+
+09:10:36 - Sigo con la integración de las funciones de postulación de
+           usuarios.
+
