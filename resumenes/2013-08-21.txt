@@ -1,0 +1,21 @@
+Miercoles 21 de Agosto del 2013
+===============================
+
+09:32:49 - Comienzo a planear mi dia.
+           Trabajaré en postulaciones todingo el dia, a no ser que aparezca
+           algo diferente, espero nada.
+09:52:36 - Primero terminare la parte del postulante, aquella de llenar el
+           formulario, y activar su postulacion por correo electronico.
+
+11:56:02 - Me llaman para realizar correcciones sobre el sistema de apoyo
+           administrativo en el departamento de Fisica.
+
+TURNO TARDE:
+------------
+
+Sorprendentemente nadie me llama para ninguna correccion al famoso sistema de
+apoyo administrativo.
+
+Termino las funciones de validacion para postulaciones, comienzo a trabajar
+sobre la edicion del formulario, con eso gran parte se resolveria, pero no
+consigo hacer que funcione.

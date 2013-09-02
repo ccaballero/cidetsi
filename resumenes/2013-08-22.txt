@@ -1,0 +1,14 @@
+Jueves 22 de Agosto del 2013
+============================
+
+09:01:46 - Hoy en esta mañana, pretendo hacer funcionar mi editor de 
+           postulaciones, ayer no pudo arreglar el problema, espero hoy no
+           estancarme en eso.
+09:20:53 - Logro corregir mis problemas de ayer, ahora si edita perfectamente
+           Voy a realizar ahora los formularios de recepción, y habilitación.
+09:44:23 - Comienzo a realizar correcciones sobre el sistema de apoyo
+           administrativo para el departamento de informática-sistemas.
+10:08:31 - Termino las correcciones que me pidieron. Retomo el trabajo sobre
+           convocatorias.
+12:13:30 - Termino de crear la función para envio de confirmaciones para un
+           postulante, ahora solo me queda mostrar su información y liston.

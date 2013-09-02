@@ -1,0 +1,13 @@
+Viernes 30 de Agosto del 2013
+=============================
+
+08:23:47 - Ayer termine una parte de las funciones de recepción y habilitación
+           hoy termino de refinarlas, y comienzo a ponerle permisos, tambien
+           revisare la parte de reportes.
+10:02:46 - Ya termine el formulario de habilitacion, me faltarian las
+           observaciones.
+11:16:04 - Termine las funciones de cargado de csv para la importación directa
+           de la información, ahora solo faltan dos cosas, los reportes, y los
+           permisos.
+
+Ah, no se me olvide el control de fechas, es muy importante,

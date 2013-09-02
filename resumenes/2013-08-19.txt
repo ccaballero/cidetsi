@@ -1,0 +1,32 @@
+Lunes 19 de Agosto del 2013
+===========================
+
+08:24:01 Comienzo una semana media pesadona nomas.
+         Entre mis planes para la ocasión, estan dos cosas:
+
+         1º. Terminar de agrupar todo lo referente al sistema de apoyo
+             administrativo bajo un mismo directorio, y clasificarlo con calma.
+         2º. Seguir adaptando las funciones de postulación al sistema de 
+             convocatoria.
+
+Despues de un rato me llaman de Industrial para hacer correcciones sobre
+algunos de los registros para la impresion de nombramientos.
+
+Luego hago algunas tareas para el Departamento de Informática-Sistemas.
+Termino el dia haciendo correcciones sobre el sistema del Departamento de
+Fisica.
+
+Es opinion mia, que el sistema posee mucha redundancia, eso hace que las
+correcciones deban hacerse de forma manual, creo que en cierta forma hay que
+hacer correcciones sobre la base de datos, desgraciadamente esas son las
+correcciones mas dificultosas, y que requieren mayor planeación.
+
+TURNO TARDE:
+------------
+
+Por la tarde termino las correciones sobre el sistema del departamento de 
+fisica, y comienzo a realizar las correcciones para el sistema del departamento
+de industrial.
+
+Tambien hago algunas correcciones sobre el sistema de convocatorias, cosas 
+pequeñas.
