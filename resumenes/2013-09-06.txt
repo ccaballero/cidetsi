@@ -1,0 +1,5 @@
+Viernes 06 de Septiembre del 2013
+=================================
+
+08:19:17 - Comienzo las correcciones finales sobre eventos.
+           Creo que puedo terminarlo todo hoy mismo.

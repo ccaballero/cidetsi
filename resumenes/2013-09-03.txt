@@ -1,0 +1,9 @@
+Martes 03 de Septiembre del 2013
+================================
+
+08:28:55 - Ayer termine las funciones de generacion de pdf's para los reportes
+           de los postulantes, ahora necesito escribir los filtros.
+10:43:05 - Ya medio que entiendo como funcionan, estos reportes, pero todavia
+           no tengo el nivel, ya casi termino.
+11:24:14 - Ya termine de generar el reporte de postulantes, hize que las 
+           columnas sean dinamicas.
