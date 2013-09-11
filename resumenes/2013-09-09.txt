@@ -3,3 +3,6 @@ Lunes 09 de Septiembre del 2013
 
 08:18:42 - Hoy si estoy a la altura de terminar las funcionalidades de
            automatización de eventos. Luego es refinación nomas.
+10:20:59 - Termine las configuraciones sobre el servidor en producción,
+           ahora necesito hacer correcciones sobre las notificaciones.
+           Por alguna razon desconocida, no esta mandando correo.

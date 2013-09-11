@@ -1,0 +1,13 @@
+Miercoles 11 de Septiembre del 2013
+===================================
+
+09:37:45 - Hoy comienzo mi migración de sistemas, he añorado este día hacia ya
+           algún tiempo.
+           Pasos:
+               1: Probar el sistema en producción (vocare).
+               2: Corregir el sistema de comunicados.
+               3: Copiar los archivos finales de la maquina.
+               4: Despedirse de los archivaldos.
+               5: Reparticionar el disco duro.
+               6: Instalar la nueva linux.
+           A ver como me va ...

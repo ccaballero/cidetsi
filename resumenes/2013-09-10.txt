@@ -1,0 +1,8 @@
+Martes 10 de Septiembre del 2013
+================================
+
+08:20:00 - Hoy intentare terminar las funciones disparadoras.
+           Me faltan dos de ellas, y una refactorizada no les vendria mal
+           tampoco.
+11:59:50 - Termine las refinaciones sobre las tareas automaticas, solo me queda
+           refinar el envio de correo electrónico.
