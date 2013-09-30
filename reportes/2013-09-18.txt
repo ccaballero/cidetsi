@@ -1,0 +1,10 @@
+Miercoles 18 de Septiembre del 2013
+===================================
+
+09:46:59 - Ayer termine de instalar varias herramientas que me eran necesarias:
+           - Virtual Box.
+           - Latex.
+           - Otras menos importantes, o al menos poco afamadas.
+           Hoy espero de terminar de configurar y poner a punto mi escritorio,
+           de ahi espero trabajar en la propuesta de migración del sistema de
+           apoyo administrativo.

@@ -1,0 +1,15 @@
+Martes 20 de Agosto del 2013
+============================
+
+08:01:53 - Hoy pienso jugar con el plugin de PDF de symfony, terminar la mayor
+           parte de las funciones de postulación.
+           Ademas debo estar pendiente de cualquier emergencia sobre el sistema
+           de apoyo administrativo.
+
+TURNO TARDE:
+------------
+
+Sigo haciendo funciones para el modulo de postulaciones, ademas me llaman
+del departamento de Quimica, para realizar algunas correcciones, en este caso
+necesitaban agregar carreras, materias, y correccion de nombramientos.
+

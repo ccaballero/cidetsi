@@ -1,0 +1,7 @@
+Lunes 02 de Septiembre del 2013
+===============================
+
+08:25:48 - Hoy me dedico a hacer reportes de postulación, primero revisare los
+           codigos que estan haciendo eso en este momento.
+10:46:42 - Ya medio que entiendo como funciona el plugin TCPDF.
+

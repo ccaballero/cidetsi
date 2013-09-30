@@ -1,0 +1,9 @@
+Viernes 23 de Agosto del 2013
+=============================
+
+08:07:34 - Comienzo el dia, y me encamino a hacer pruebas sobre el envio de
+           correo electrónico, y la confirmación del mismo.
+08:49:19 - Termino de escribir las funciones de postulacion, ahora necesito
+           probar que estan bien. Eso implica ir al servidor en produccion.
+10:58:25 - Soy llamado por el departamento de sistemas, y me piden algo que
+           si que lleva mucho tiempo.

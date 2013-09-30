@@ -1,0 +1,7 @@
+Jueves 26 de Septiembre del 2013
+================================
+
+Estuve intentando instalar las herramientas de desarrollo del sistema
+de apoyo administrativo, todavia me da problemas la herramienta log4delphi.
+
+No puedo instalar ese paquete adecuadamente.

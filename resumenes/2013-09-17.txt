@@ -1,0 +1,13 @@
+Martes 17 de Septiembre del 2013
+================================
+
+08:27:13 - Llego a mi trabajo, ayer me encontre con el Ing. Villarroel,
+           justamente le comente que ya habia terminado el sistema para
+           convocatorias. Y que tenia pensado comenzar con la migración del
+           sistema de apoyo administrativo (Delphi) hacia una solución menos
+           compleja de mantener.
+           Le propuse escribir una propuesta al respecto.
+           Cosa que esta entre mis actividades de esta semana.
+           Ahora me es mas prioritario terminar de configurar mi entorno de
+           trabajo, estoy con esto desde el anterior viernes.
+

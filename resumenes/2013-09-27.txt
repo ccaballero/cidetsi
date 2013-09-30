@@ -1,0 +1,6 @@
+Viernes 27 de Septiembre del 2013
+=================================
+
+Estoy haciendo una revision de las imagenes antiguas que estan en VMWARE,
+quiero deshacerme de toda la redundancia.
+

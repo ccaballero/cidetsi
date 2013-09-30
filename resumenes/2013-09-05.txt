@@ -1,0 +1,10 @@
+Jueves 05 de Septiembre del 2013
+================================
+
+08:53:28 - Comienzo las correcciones sobre los permisos, luego me quedaria el
+           control de tiempos en los eventos.
+09:37:05 - Termino las funciones de control de permisos, hay que refinar todavia
+           Ahora vera los del control de fechas.
+11:07:22 - Termino de crear la funcion para el procesamiento de fechas. Aun me
+           faltan algunas cosas, pero ahora necesito trabajar los javascripts.
+11:19:26 - Termine las configuraciones de fechas, ahora me voy.y
