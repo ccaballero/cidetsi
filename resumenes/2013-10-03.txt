@@ -1,0 +1,9 @@
+Jueves 03 de Octubre del 2013
+=============================
+
+Hize un analisis de que tan factible es usar symfony 2 para la
+portar el sistema de apoyo administrativo, lamentablemente, no es algo
+que diria extrae un producto medible y cuanticable. Asi que solo es de
+palabra.
+
+Creacion de la iconografia base para el sistema de comunicados.

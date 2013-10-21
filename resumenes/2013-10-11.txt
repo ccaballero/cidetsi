@@ -1,0 +1,6 @@
+Viernes 11 de Octubre del 2013
+==============================
+
+08:48:07 - Ayer ya pude hacer jalar mi graficador de funciones, ahora me toca
+           crear las funciones para mover los ejes cartesianos, ademas de las
+           funciones para acercar y alejar.

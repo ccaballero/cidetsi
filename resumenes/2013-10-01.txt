@@ -1,0 +1,14 @@
+Martes 01 de Octubre del 2013
+=============================
+
+08:52:04 - Llego y me preparo para terminar la organización de los recursos
+           disponibles en el sistema de apoyo administrativo.
+           Primero, pondre a punto mi entorno de desarrollo en Borland 7.
+           ayer encontre un video muy esclarecedor acerca de como preparar el
+           sistema para compilarlo sin problemas.
+           Segundo, comenzare la indexación de los recursos de documentación
+           disponibles para el sistema.
+           Tercero, hare mis primeros pasos en Embarcadero Delphi X2, despues
+           de ver si puedo conseguir una copia, via unas copias instaladas en
+           los laboratorios del CAE.
+

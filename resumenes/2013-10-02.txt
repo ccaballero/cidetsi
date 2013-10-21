@@ -1,0 +1,13 @@
+Miercoles 02 de Octubre del 2013
+================================
+
+10:19:10 - Llego a ya tengo planes:
+           1º: Terminar algunas correcciones sobre el sistema de apoyo
+           administrativo (Cambios básicos sobre la información de la
+           aplicación).
+           2º: Comenzar y si es posible terminar la organización de la
+           información en los datos del sistema de apoyo administrativo.
+           3º: Hacer mis primeros pasos en Embarcadero Delphi.
+11:34:52 - Ya termine mis correcciones sobre el sistema de apoyo
+           administrativo.
+           Ahora me toca borrar las maquinas virtuales que ya no necesito.

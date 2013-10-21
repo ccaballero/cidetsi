@@ -1,0 +1,13 @@
+Martes 15 de Octubre del 2013
+=============================
+
+08:37:55 - Sigo haciendo certificados.
+           Tareas pendientes:
+           - Corrección del subidor de código de vocare.
+             (MySQL antiguo vs. MariaDB).
+           - Corrección del código de vocare (hacerle el parchesito faltante).
+           - Poner el graphex en estado presentable.
+           - Crear el folleto para la feria profesiografica.
+08:49:24 - Primero haré las correcciones para el graphex.
+11:49:29 - Ya escribi el menu, ahora necesito refinarlo.
+12:32:15 - Me falta solo la reflexion.

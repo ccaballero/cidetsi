@@ -1,0 +1,15 @@
+Martes 08 de Octubre del 2013
+=============================
+
+* Markdown is the future!
+
+08:10:46 - Hoy hago esas weas de fractales, y comienzo a re-factorizar el
+           modelo de apoyo administrativo. Ademas tengo que ir a averiguar
+           sobre varios correos electronicos, y sitios web allá en el lab
+           de computo.
+           Ah, tambien necesito comenzar el despliegue del nuevo código en
+           symfony 2 para el nuevo y renovado sistema de apoyo administrativo.
+           Tambien debo recordar corregir un error de despliegue que presenta
+           mi maquina al desplegar convocatorias en el sitio en producción.
+
+
