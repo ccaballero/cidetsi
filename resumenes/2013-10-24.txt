@@ -1,0 +1,5 @@
+Jueves 24 de Octubre del 2013
+=============================
+
+08:28:13 - Comienzo a trabajar sobre las credenciales.
+           Adicionalmente, voy a continuar con mis luchas contra doctrine 2.

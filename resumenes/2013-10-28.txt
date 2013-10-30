@@ -1,0 +1,8 @@
+Lunes 28 de Octubre del 2013
+============================
+
+08:54:18 - Comienzo el dia en dos tareas paralelas a realizar:
+           1: Sigo procesando las fotografias para las credenciales.
+           2: Debo encontrar la forma de trabajar en symfony 2, lo mas parecido
+              a como era la hermeneutica en symfony 1.4, el problema a resolver
+              ahora, es el manejo de fixtures.

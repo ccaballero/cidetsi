@@ -1,0 +1,6 @@
+Martes 29 de Octubre del 2013
+=============================
+
+08:27:04 - Sigo sacando fotos, y trabajando sobre el sistema de apoyo
+           administrativo, ayer pude usar fixtures, hoy necesito trabajar sobre
+           algunas funciones adicionales que creo que necesitare en adelante.
