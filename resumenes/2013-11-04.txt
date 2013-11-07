@@ -1,0 +1,6 @@
+Lunes 04 de Noviembre del 2013
+==============================
+
+08:47:40 - Entrego las credenciales, y de ahi en mas es unicamente, el sistema
+           de apoyo administrativo, lo que me concierne.
+           Primero pretendo revisar la integración de TCPDF con symfony 2.

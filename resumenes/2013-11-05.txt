@@ -1,0 +1,7 @@
+Martes 05 de Noviembre del 2013
+===============================
+
+08:42:46 - Hoy reviso las entidades, aun no he podido integrar el bundle TCPDF.
+           Decidi primero acostumbrarme al framework, antes de actuar sobre ese
+           detalle.
+
