@@ -1,0 +1,6 @@
+Jueves 14 de Noviembre del 2013
+===============================
+
+08:48:10 - Ayer pude terminar de entender la forma de decoración de 
+           formularios. Ahora me toca portar mas datos al sistema.
+           Hoy me ocupare de las materias.

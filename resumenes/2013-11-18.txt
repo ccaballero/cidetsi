@@ -1,0 +1,7 @@
+Lunes 18 de Noviembre del 2013
+==============================
+
+08:47:10 - Seguire trabajando con la autentificación, ademas de terminar las
+           funciones CRUD, sobre departamentos.
+09:24:31 - Termine de refinar mis funciones de autentificacion, ahora solo
+           necesito refinar mis operaciones crud.

@@ -1,0 +1,5 @@
+Jueves 21 de Noviembre del 2013
+===============================
+
+09:03:55 - Ayer comence algunos tests unitarios, hoy planeo terminarlos, ademas
+           de intentar disciplinarme de mejor manera hacia el test driving.

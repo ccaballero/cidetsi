@@ -1,0 +1,9 @@
+Lunes 11 de Noviembre del 2013
+==============================
+
+08:51:51 - Ya resolvi las cuestiones acerca de tcpdf, ademas de la 
+           implementacion de la libreria Bootstrap para la maquetacion del 
+           sitio.
+           Ahora lo que hare es implementar las conexiones y el acceso a la
+           informacion, primero departamentos, luego plan de estudios o
+           carreras.

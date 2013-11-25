@@ -1,0 +1,6 @@
+Miercoles 13 de Noviembre del 2013
+==================================
+
+10:00:26 - Hoy trabajare sobre la renderizacion y el procesamiento de
+           formularios. Necesito poder decorarlos adecuadamente, ese el
+           objetivo principal.

@@ -1,0 +1,6 @@
+Martes 19 de Noviembre del 2013
+===============================
+
+08:40:49 - Hoy trabajo sobre materias, ademas de terminar las generalizaciones
+           necesarias sobre el bundle de departamento.
+           Primero refinaré todo lo que respecta a las entidades.
