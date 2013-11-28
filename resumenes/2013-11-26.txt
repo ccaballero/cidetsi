@@ -1,0 +1,7 @@
+Martes 26 de Noviembre del 2013
+===============================
+
+08:44:10 - Ayer termine mis generadores de pdf, pero luego cai en cuenta de una
+           libreria mas versatil, que la que estaba usando, asi que opte por
+           cambiar de TCPDF a MPDF, ya hize la integración, y solo falta
+           portar los reportes escritor.

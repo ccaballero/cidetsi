@@ -1,0 +1,9 @@
+Miercoles 27 de Noviembre del 2013
+==================================
+
+09:44:31 - Creo que ya tengo una version respetable del reporte de seguimiento,
+           ahora el que me da problemas es el de nombramiento, espero acabarlo
+           hoy, luego pasare a la migración de datos de la gestión actual.
+11:51:06 - Termine mi prototipo del reporte de nombramiento, aun me falta
+           contemplar algunas cosas, como las variaciones para docentes.
+
