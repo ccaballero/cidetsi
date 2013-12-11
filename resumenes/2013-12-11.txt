@@ -1,0 +1,9 @@
+Miercoles 11 de diciembre del 2013
+==================================
+
+09:50:30 - Ahora necesito portar los datos del departamento de
+           informatica-sistemas, primero docentes y auxiliares. Luego la parte
+           compleja materias.
+           La parte de docentes ya esta, ahora estoy en la parte de materias,
+           esta mas dificil de lo que pense.
+

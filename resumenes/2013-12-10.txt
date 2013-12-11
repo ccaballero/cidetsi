@@ -1,0 +1,22 @@
+Martes 10 de diciembre del 2013
+===============================
+
+09:06:48 - La ultima vez que recuerdo estaba trabajando en el modelo de datos,
+           ahora me toca portar la información del departamento de 
+           informatica-sistemas. Vamos a ver si es facil o no.
+           Viniendo aqui considere que seria mejor cambiar la forma en la que
+           se ven los seguimientos y nombramientos, de una forma discreta a
+           una forma continua basada en fechas. Necesito seguir viendo los pros
+           y contras de esa forma de trabajo, y contrastarla con la forma
+           actual, que se basa en gestiones.
+
+           Plan:
+           1ª Respecto al bundle de davidbadura para usar fixtures, he
+              decidido mantenerlo, aunque ya no lo utilize, debo recordar
+              limpiarlo al final de la implantación.
+           2º Las definiciones en doctrine, tambien se mantienen por ahora.
+           3ª Ahora todos los datos se cargan por SQL, y luego realizare el
+              mapeo con anotaciones de doctrine 2, estoy harto que un ORM me
+              diga como modelar una base de datos, ahora doctrine se adapta al
+              modelo y no alreves.
+              Ojala todo salga bien.

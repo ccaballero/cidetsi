@@ -1,0 +1,14 @@
+Lunes 02 de diciembre del 2013
+==============================
+
+08:29:16 - Primero llenare mis materias, docentes, y auxiliares, mi objetivo
+           esta linda es generar una interfaz basica para generar los reportes.
+           Ademas tengo que preocuparme por poner un sitio en produccion, hace
+           tiempo que solicite una base de datos, ojala sea mas simple que en
+           Symfony 1.4.
+09:45:23 - Me dedique a realizar un seguimiento nuevo para un auxiliar de
+           pizarra, espero que este sea el ultimo que genera con el sistema
+           antiguo.
+
+
+

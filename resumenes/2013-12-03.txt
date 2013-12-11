@@ -1,0 +1,8 @@
+Martes 03 de Diciembre del 2013
+===============================
+
+08:35:43 - Ayer comprendi que el camino de usar fixtures es esencialmente hacer
+           doble trabajo, necesito cambiar el workflow que estoy usando, asi
+           que ahora decidi modelar la base de datos primero, y luego mapear
+           las entidades en doctrine con anotaciones, parece que es el flujo
+           mas popular en estos años.
