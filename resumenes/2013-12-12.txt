@@ -1,0 +1,10 @@
+Jueves 12 de Diciembre del 2013
+===============================
+
+09:14:44 - Ahora me toca portar la información de las materias, si lo consigo
+           luego necesito relacionar la información de materias, grupos, y
+           docentes.
+           Ademas necesito considerar cambiar la logica de una gestión, de un
+           sistema de banderas, a un sistema basado en fechas.
+           Por el momento las relaciones grupo-gestion, y item-gestion, me
+           parecen valederas.

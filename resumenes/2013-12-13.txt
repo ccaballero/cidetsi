@@ -1,0 +1,5 @@
+Viernes 13 de diciembre del 2013
+================================
+
+08:43:44 - Hoy terminare la integración de materias y docentes. Luego
+           necesito validar la información con los originales impresos.

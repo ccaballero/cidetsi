@@ -1,0 +1,6 @@
+Lunes 16 de diciembre del 2013
+==============================
+
+08:27:39 - Hoy sigo las correcciones de los controladores y vistas en carreras,
+           plan de estudios, y materias.
+           Ire preparando la información para el manejo de docentes.
