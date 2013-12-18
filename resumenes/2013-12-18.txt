@@ -1,0 +1,6 @@
+Miercoles 18 de diciembre del 2013
+==================================
+
+08:12:15 - Hoy trabajare en la parte de la relación de horarios con docentes.
+           Casi estoy a punto de poder generar nombramientos, ahora que los
+           seguimientos aún se ven complejos a esta altura de la vida.
