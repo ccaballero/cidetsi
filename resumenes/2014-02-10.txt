@@ -1,0 +1,6 @@
+Lunes 10 de Febrero del 2014
+============================
+
+09:00:54 - Me queda haciendo los formularios para carrera y plan de estudios,
+           ahora toca refinarlos y hacer los demas formularios que requiero para
+           la inserción manual de elementos clave.

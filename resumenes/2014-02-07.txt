@@ -1,0 +1,11 @@
+Viernes 07 de Febrero del 2014
+==============================
+
+08:41:50 - Ayer estuve trabajando en reordenar los docentes, y filtrar los datos
+           que necesito para el nuevo esquema de base de datos que plantee.
+           Hoy integraré la información de los docentes, los seguimientos y los
+           horarios.
+08:55:26 - Me arrepenti, dejare la parte de la integración para la proxima
+           semana, ahora prefiero hacer los formularios para la creación de los
+           elementos materia, carrera, docente, y plan de estudios.
+
