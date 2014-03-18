@@ -1,0 +1,13 @@
+Martes 18 de Marzo
+==================
+
+Ok, resumo las cosas que estuve haciendo:
+
+    - Hize mis informes finales.
+    - Correcciones para los nombramientos de auxiliares de pizarra en el
+      departamento de Informática-Sistemas.
+    - Correcciones para un cambio en el nombramiento de un docente en el
+      departamento de Industrias.
+    - Tratare de agregar algunas funcionalidades que me interesa probar sobre
+      el nuevo sistema de apoyo administrativo.
+

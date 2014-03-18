@@ -1,0 +1,174 @@
+                                                Cochabamba, 17 de Marzo del 2014
+
+Señor:
+Ing. Jimmy Villarroel Novillo
+Presente.-
+
+                                       Ref: Informe de final.
+
+A continuación paso a detallar el conjunto de actividades que me han tenido
+ocupado este semestre (I/2014).
+
+Inicio de la gestión: 3 de Febrero.
+Fecha del ultimo reporte: 14 de Marzo.
+
+FEBRERO
+=======
+
+SISTEMA DE APOYO ADMINISTRATIVO
+-------------------------------
+
+    - Cambio de autoridades en el departamento de informática-sistemas.
+    - Cambio sobre seguimientos y nombramientos en el departamento de
+      informática-sistemas.
+    - Modificación de navegación y creación de formularios para el nuevo
+      sistema de apoyo administrativo.
+    - Corrección de inconsistencias en los departamentos de
+      Informática-sistemas, Industrial, y Quimica.
+    - Creación de script de automatización para la migración de los datos entre
+      el sistema de apoyo administrativo antiguo y el nuevo.
+    - Relevamiento de requirimientos en el Departamento de Matematicas, acerca
+      de las funcionalidades deseadas para el nuevo sistema de apoyo
+      administrativo.
+    - Puesta a prueba sobre el servidor en producción del generador de reportes
+      para el nuevo sistema de apoyo administrativo (apoyoadm.cs.umss.edu.bo)
+    - Generación de certificados para auxiliares del departamento de
+      informática-sistemas.
+
+                       | 03 | 04 | 05 | 06 | 07 || 10 | 11 | 12 | 13 | 14 |
+Corrección de BD       |    |    |    |  1 |    ||    |  3 |  2 |  2 |    |
+Corrección de Código   |    |    |    |    |    ||    |    |    |    |    |
+Corrección de Contexto |    |  2 |  2 |  1 |    ||    |    |    |  1 |    |
+Atención al usuario    |    |    |    |  2 |    ||    |  1 |  2 |  1 |    |
+
+                       | 03 | 04 | 05 | 06 | 07 || 10 | 11 | 12 | 13 | 14 |
+Análisis               |    |  2 |    |    |  2 ||  1 |    |    |    |  1 |
+Herramientas           |    |    |  2 |    |  1 ||    |    |    |    |    |
+Diseño de DB           |    |    |    |    |    ||    |    |    |    |  2 |
+Diseño de Navegación   |    |    |    |    |  1 ||    |    |    |    |    |
+Codificación           |    |    |    |    |    ||  3 |    |    |    |  1 |
+Capacitación           |    |    |    |    |    ||    |    |    |    |    |
+Pruebas                |    |    |    |    |    ||    |    |    |    |    |
+Implantación           |    |    |    |    |    ||    |    |    |    |    |
+
+
+                       | 17 | 18 | 19 | 20 | 21 || 24 | 25 | 26 | 27 | 28 |
+Corrección de BD       |    |    |    |    |    ||    |    |  2 |  1 |    |
+Corrección de Código   |    |    |    |    |    ||    |    |    |    |  1 |
+Corrección de Contexto |    |    |    |    |    ||    |    |  1 |  1 |  1 |
+Atención al usuario    |    |  2 |    |    |    ||    |  1 |  1 |  2 |    |
+
+                       | 17 | 18 | 19 | 20 | 21 || 24 | 25 | 26 | 27 | 28 |
+Análisis               |  2 |  2 |    |  2 |    ||    |  1 |    |    |  1 |
+Herramientas           |    |    |    |    |    ||    |    |    |    |    |
+Diseño de DB           |    |    |  2 |  1 |    ||    |    |    |    |    |
+Diseño de Navegación   |    |    |    |  1 |  1 ||    |    |    |    |    |
+Codificación           |  2 |    |  2 |    |  3 ||  1 |  2 |    |    |  1 |
+Capacitación           |    |    |    |    |    ||    |    |    |    |    |
+Pruebas                |    |    |    |    |    ||  1 |    |    |    |    |
+Implantación           |    |    |    |    |    ||  2 |    |    |    |    |
+
+MARZO
+=====
+
+SISTEMA DE APOYO ADMINISTRATIVO
+-------------------------------
+
+    - Corrección de configuraciones para el despliegue de la aplicacion web
+      de apoyo adminstrativo (symfony 2) en el servidor de producción.
+    - Generación del reporte sobre materias de un departamento, adaptado a los
+      requerimientos necesarios para el Departamento de Matematicas.
+    - Corrección y recompilación del código fuente del sistema de apoyo
+      administrativo, debido a errores criticos en las funciones de
+      nombramiento de auxiliares.
+
+                       | 03 | 04 | 05 | 06 | 07 || 10 | 11 | 12 | 13 | 14 |
+Corrección de BD       |    |    |    |    |    ||    |  1 |  1 |  1 |    |
+Corrección de Código   |    |    |    |    |    ||    |    |  1 |  2 |  4 |
+Corrección de Contexto |    |    |    |  1 |    ||    |    |    |    |    |
+Atención al usuario    |    |    |    |    |    ||    |  3 |  2 |  1 |    |
+
+                       | 03 | 04 | 05 | 06 | 07 || 10 | 11 | 12 | 13 | 14 |
+Análisis               |    |    |    |    |    ||    |    |    |    |    |
+Herramientas           |    |    |    |  3 |    ||    |    |    |    |    |
+Diseño de DB           |    |    |    |    |    ||    |    |    |    |    |
+Diseño de Navegación   |    |    |    |    |    ||    |    |    |    |    |
+Codificación           |    |    |    |    |    ||  2 |    |    |    |    |
+Capacitación           |    |    |    |    |  1 ||  2 |    |    |    |    |
+Pruebas                |    |    |  3 |    |  3 ||    |    |    |    |    |
+Implantación           |    |    |  1 |    |    ||    |    |    |    |    |
+
+
+ESTADO ACTUAL DE LOS SISTEMAS
+=============================
+
+                                                                   | % AVANCE |
+-------------------------------------------------------------------------------
+| Sistema de apoyo administrativo (BUSHIDO)                        |    33.96 |
+-------------------------------------------------------------------------------
+| Migración de la información                                      |    58    |
+|    Migración de la información estructural                       |   100    |
+|    Migración de información de materias                          |   100    |
+|    Migración de información de docentes y auxiliares             |    90    |
+|    Migración de horarios                                         |     0    |
+|    Migración de información historica                            |     0    |
+-------------------------------------------------------------------------------
+| Administración de departamentos, carreras, y planes de estudio   |    62.5  |
+|    Administración de departamentos                               |   100    |
+|    Administración de carreras                                    |   100    |
+|    Administración de planes de estudio                           |    50    |
+|    Administración de malla curricular                            |     0    |
+-------------------------------------------------------------------------------
+| Administración de materias                                       |    25    |
+|    Administración de operaciones basicas                         |    75    |
+|    Administración de grupos                                      |     0    |
+|    Provision de servicios web                                    |     0    |
+-------------------------------------------------------------------------------
+| Administración de docentes                                       |    10    |
+|    Administración de operaciones basicas                         |    30    |
+|    Asignación a grupos                                           |     0    |
+|    Provision de servicios web                                    |     0    |
+-------------------------------------------------------------------------------
+| Administración de gestiones academicas                           |     6.25 |
+|    Administración de operaciones basicas                         |    25    |
+|    Manejo de información historica                               |     0    |
+|    Administración de fechas                                      |     0    |
+|    Provision de servicios web                                    |     0    |
+-------------------------------------------------------------------------------
+| Generación de reportes                                           |    42    |
+|    Generación de reporte de seguimiento                          |    50    |
+|    Generación de reporte de nombramiento                         |    80    |
+|    Generación de lista de materias                               |    80    |
+|    Generación de lista de docentes                               |     0    |
+|    Generación de lista de auxiliares                             |     0    |
+-------------------------------------------------------------------------------
+
+RESUMEN FINAL
+=============
+
+Suma total del tiempo dedicado a los sistemas en los que participo:
+(Del 03 de Febrero al 14 de Marzo).
+
+---------------------------------------------
+|         | apoyo          | apoyo          |
+|   MES   | administrativo | administrativo |
+|         | (antiguo)      | (nuevo)        |
+---------------------------------------------
+| FEBRERO | 33             | 43             |
+| MARZO   | 17             | 15             |
+---------------------------------------------
+  TOTAL     50               58             
+
+TOTAL DE TOTALES: 108 Horas
+
+
+
+
+
+
+
+
+                         --------------------------
+                                   Firma
+                         Carlos E. Caballero Burgoa
+

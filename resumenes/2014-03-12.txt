@@ -1,0 +1,17 @@
+Miércoles 12 de Marzo del 2014
+==============================
+
+09:07:33 - Ok, ayer fue a hacer correcciones en el departamento de fisica, sobre
+           la parte que corresponde a auxiliares, y existen dos errores criticos
+           que parece que me obligaran a recompilar el programa de apoyo
+           administrativo en Delphi.
+
+           Para ser exactos, no calcula adecuadamente al Jefe de Departamento,
+           en la parte de impresion de nombramientos para auxiliares.
+           La segunda y mas terrible de todas, parece que la transformación de
+           tal nombre se realiza de forma absolutamente inadecuada.
+
+           Ej:     Juan Jose Pinto Cayo   <-- Jefe de Departamento.
+                   Juan jose Pinto Cayo   <-- Lo que retorna el programa.
+
+           Absurdo, por donde se mire......

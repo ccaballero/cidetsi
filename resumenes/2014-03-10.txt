@@ -1,0 +1,10 @@
+Lunes, 10 de Marzo del 2014
+===========================
+
+08:39:41 - Como siempre, lo primeringo que voa a hacer, es verificar el espacio
+           que pedi para el sistema de apoyo administrativo, luego me pondre a
+           hacer mis weas para el curso de javascript básico.
+09:13:50 - Ok, ya termine de corregir el error sobre el sitio en producción,
+           ahora necesito refinar mi generación de reporte de materias, tengo un
+           problema de cabeceras, el punto es que necesito que la cabecera se
+           muestre en todas las paginas.

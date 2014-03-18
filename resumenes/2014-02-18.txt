@@ -1,0 +1,22 @@
+Martes 18 de Febrero del 2014
+=============================
+
+08:43:57 - Hoy me toca relevar todos los requerimientos del departamento de
+           Matematicas, primero necesito verificar la instalación y correcto
+           funcionamiento del sistema.
+09:16:24 - OK, ya volvi, ahora entiendo lo que Roger Limachi me comento hacia
+           tiempo sobre el modelamiento del sistema de apoyo administrativo.
+
+           Para resumirlo diremos que la relación materia-código no es 1 a 1.
+           la relación es mas de tipo
+
+           carrera ----> carrera_materia <------ materia
+                             código
+
+           Por el momento no puedo visualizar la magnitud de los cambios.
+           Aún asi cambiare el sistema para esta posibilidad, no faltaba mas.
+10:11:54 - Me doy cuenta de que esta mas feo y escarecedor que lo que pense
+           anteriormente, aun asi, es la pieza fundamental que faltaba para mi
+           conocimiento sobre la codificacion de materias en el sistema
+           universitario.
+

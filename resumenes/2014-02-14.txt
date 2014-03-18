@@ -1,0 +1,19 @@
+Viernes 14 de Febrero del 2014
+==============================
+
+09:02:41 - Ayer me dedique en su mayor parte a correcciones del sistema de apoyo
+           administrativo, para el Departamento de Industrias, y para el
+           Departamento de Quimica.
+           Hoy pienso revisar los scripts que realize para automatizar la
+           migración de datos referentes a grupos, y docentes en el nuevo
+           sistema de apoyo administrativo.
+
+           Referente a la migración de docentes, prefiero hacer esto en un
+           proceso semi-automatizado, esto es porque note que la información
+           que se extrae esta en un estado inconsistente. Asi que prefiero hacer
+           correcciones a mano, para asegurar la calidad de la información en el
+           nuevo sistema.
+
+           Primero voy a homogenizar los valores extraidos.
+
+09:42:32 - Ahora necesito homogenizar la información referente a materias.

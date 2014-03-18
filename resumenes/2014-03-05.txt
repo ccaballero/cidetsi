@@ -1,0 +1,6 @@
+Miercoles 05 de Marzo del 2014
+==============================
+
+09:03:01 - Ok, primero intentare de definir el método para subir los ficheros
+           del sistema de apoyo administrativo, tenia un método; pero medio que
+           me defrauda.

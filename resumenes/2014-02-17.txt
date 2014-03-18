@@ -1,0 +1,7 @@
+Lunes, 17 de Febrero del 2014
+=============================
+
+08:56:04 - Hoy trabajare sobre el formulario de seguimiento, necesito hacer
+           configurable los horarios.
+           Me arrepenti, primero vere los de los scripts de automatización, y
+           luego los de los grupos.

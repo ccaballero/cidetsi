@@ -1,0 +1,11 @@
+Lunes 24 de Febrero del 2014
+============================
+
+08:54:57 - El viernes estaba intentando crear una representación de materias,
+           con toda la complejidad que posee, de modo que pueda visualizarse
+           como el reporte que me facilitaron en el departamento de matematicas.
+           Creo que proseguiré con eso y necesito ver si en computo ya
+           arreglaron mi problema con las caches de symfony en el servidor en
+           producción.
+11:28:46 - He decidido crear un controlador especial para la reenderizacion de
+           las materias en el departamento.

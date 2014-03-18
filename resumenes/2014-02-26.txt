@@ -1,0 +1,8 @@
+Miercoles 26 de Febrero del 2014
+================================
+
+08:54:40 - Primero trabajare sobre la generación de certificados para la gestión
+           pasada (2013/II), ademas de preparar mi generador para extraer
+           certificados diferentes tanto para adhonorem, como para auxiliares
+           regulares.
+

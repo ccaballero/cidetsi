@@ -1,0 +1,10 @@
+Viernes 07 de Marzo del 2014
+============================
+
+09:33:05 - Hoy parece que no podre corregir el sistema de apoyo administrativo,
+           ayer descubri que el problema era un problema de espacio insuficiente
+           en el servidor de producción.
+           Le pedi al menso del Rudy que ampliara mi espacio por favorcito, pero
+           no creo que le importe, asi que como no quiero averiguarlo hoy,
+           prefiero revisar el lunes.
+

@@ -1,0 +1,8 @@
+Viernes 21 de febrero del 2014
+==============================
+
+08:51:46 - Ahora si me toca hacer dos cosas:
+           - Crear la entidad que representa la malla_curricular.
+           - En el script SQL, necesito incluir la parte de los prerequisitos.
+           - Al final necesitaré algunas vistas para la visualización de todas
+             estas cosas.
