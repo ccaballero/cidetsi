@@ -71,14 +71,211 @@ A dia de hoy (26 de Marzo del 2014) la paqueteria propia del sistema esta
 superactualizada, pueden verse los detalles de las versiones de algunos paquetes
 importantes en la tabla 1.
 
-    PAQUETE         DESCRIPCION                      VERSION
-    gentoo-sources  kernel del sistema operativo     3.13.6
-    awesome         1º escritorio provisto           3.5.2-r1
-    xfce4           2º escritorio provisto           4.10
-    mariadb         base de datos MySQL              5.5.32
-    postgresql      base de datos PostgreSQL         9.3.4
-    nginx           servidor web                     1.4.4
-    php             lenguaje de programación web     5.5.10
-    php-fpm         
+    TABLA #1
+    -------------------------------------------------------------
+    PAQUETE         DESCRIPCION                          VERSION
+    gentoo-sources  kernel del sistema operativo         3.13.6
+    awesome         1º escritorio provisto               3.5.2-r1
+    xfce4           2º escritorio provisto               4.10
+    mariadb         base de datos MySQL                  5.5.32
+    postgresql      base de datos PostgreSQL             9.3.4
+    nginx           servidor web                         1.4.4
+    php             lenguaje de programación web         5.5.10
+    netbeans        editor de código para php            8.0
+    icedtea         compilador y maquina virtual java    7.2.4.5
+    firefox         navegador web (el mejor)             28.0
+    -------------------------------------------------------------
+
+Para consultar acerca de otros paquetes de software puede usarse el comando
+
+    # emerge -s <paquete>
+
+como administrador (root).
+
+Terminando la parte de gentoo gnu/linux, recomiendo algunos lugares para obtener
+mayor información, estos son:
+
+- http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=2&chap=1
+
+ESTRUCTURA DE FICHEROS Y LOS LUGARES DONDE ESTAN LAS COSAS
+==========================================================
+
+Comenzare diciendo que esta maquina usa una tecnologia de particionado dinamico
+conocida como LVM2, si bien todo esta configurado y funciona perfecto, hay que
+tener presente esto siempre que se hable del disco duro, las particiones pueden
+verse en el escritorio, sobre la aplicación conky (los redondos sobre el
+escritorio). La informacion es parecida a como se muestra a continuación:
+
+    S.ficheros               Tamaño Usados  Disp Uso% Montado en
+    ========================================================================
+    /dev/sda8                  976M    97M  813M  11% /
+    /dev/sda6                  124M    68M   48M  59% /boot
+    /dev/mapper/vg-home        4,8G   3,2G  1,4G  70% /home
+    /dev/mapper/vg-opt         976M   798M  112M  88% /opt
+    /dev/mapper/vg-usr         9,8G   8,7G  583M  94% /usr
+    /dev/mapper/vg-var         9,8G   4,6G  4,9G  49% /var
+    /dev/mapper/vg-distfiles    24G    20G  2,6G  89% /usr/portage/distfiles
+    /dev/mapper/vg-music        79G    65G  9,8G  87% /media/music
+    /dev/mapper/vg-resources    99G    66G   29G  70% /media/resources
+    /dev/sda2                  100G    49G   52G  49% /mnt/win6
+    /dev/sda5                  100G    19G   82G  19% /mnt/win7
+
+A continuación detallo el fin que le daba a cada partición virtual:
+
+- sda8:    representa la raiz de la instalación gnu/linux.
+- sda6:    es la partición donde se aloja el nucleo del sistema operativo, y las
+           opciones de arranque del ordenador.
+- vg-home: representa la particion donde estan alojados los recursos de los
+           usuarios.
+- vg-opt:  partición para instalación de programas, que no utilizen la
+           paqueteria, un ejemplo de este caso, es el programa netbeans.
+- vg-usr:  partición para instalación de programas desde la paqueteria de la
+           distribución.
+- vg-var:  partición donde se alojan los datos de los programas y servicios que
+           posee el ordenador, un ejemplo de este caso, son las aplicaciones
+           web.
+- vg-distfiles: partición que aloja los paquetes de software a instalarse.
+- vg-music:     partición donde catalogaba mi música.
+- vg-resources: partición donde pongo cualquier información que sea propia del
+                laboratorio de desarrollo, por omisión pongo cosas aqui.
+
+Para seguir mas a fondo los razonamientos por los que decidi utilizar esta
+configuración, puede consultarse el siguiente manual:
+
+http://docs.huihoo.com/gentoo/resources/document-listing/lvm2.html
+
+El equipo cuenta con un solo usuario, este usuario se encuentra registrado en
+multiples grupos, se presenta tal información a continuación:
+
+    uid = 1000()
+    gid = 1000()
+    groups
+        1000()
+        10(wheel)
+        16(cron)
+        18(audio)
+        19(cdrom)
+        27(video)
+        80(cdrw)
+        85(usb)
+        100(users)
+        105(vboxusers)
+        249(locate)
+
+SOBRE EL DESARROLLO WEB Y PHP EN GENERAL (27 de Marzo del 2014)
+===============================================================
+
+Desde el día que comenze a experimentar con el extraño servidor en producción
+del laboratorio de computo, ademas de aquellos que lo administran, note que lo
+mejor era tener una maquina que mejore cualquier cualidad especial del servidor
+(para decirlo facil, que sea lo mas parecida en contexto a aquella), asi que
+mas o menos esa es la razón por la que uso GNU/Linux.
+
+Bueno comenzare diciendo que aqui no se utiliza el servidor Apache. ¿Porque?,
+desde hacia tiempo que experimento con un servidor web que tiene buenas
+perspectivas para ser de los mas populares, este servidor se conoce como
+Engine X (nginx).
+
+Si bien todo esta correctamente configurado, lo mejor para entender como
+desplegar una aplicacion web, es recomendable ver los archivos de configuración
+de nginx, alojados en /etc/nginx/.
+
+APLICACIONES INSTALADAS
+-----------------------
+
+Como parte de una correcta organización de la información, se ha establecido
+colgar todas las aplicaciones web como hosts virtuales, en la carpeta /var/www.
+Allí podemos encontrar entre otros:
+
+    - apoyoadm.local:
+        Nuevo sistema de apoyo administrativo (symfony 2.4).
+    - cidetsi.local:
+        Página del laboratorio de desarrollo (drupal 7.11).
+    - comunicados.local:
+        Sistema de comunicados y avisos (No versionado).
+    - convocatoria.local:
+        Sistema que me paso Lizeth antes de que yo le hiciera ligeros cambios,
+        para la version final.
+    - convocatoria_doc.local:
+        Archivos que conforman la documentación del sistema de convocatorias.
+    - convocatoria_img.local:
+        Imagineria que conforma la documentación visual del sistema de
+        convocatorias.
+    - convocatoria_src.local:
+        Sistema de convocatorias antiguo, antes de la primera refactorización.
+    - graphex.local:
+        Graficador de fractales que escribi para la feria cientifica del 2013.
+    - localhost:
+        Carpeta base, actualmente sin contenido.
+    - secretaria.local:
+        Archivos utilizados como portada del antiguo sistema de apoyo
+        administrativo, los use cuando esta remodelando la pagina principal.
+    - sigdis.local:
+        Archivos del sigdis, que Carla Cardenas dejo al irse.
+    - vocare.local:
+        Sistema de convocatorias definitivo, totalmente funcional.
+
+Para comodidad final, todos estos proyectos estan agrupados con enlaces
+simbolicos al directorio ~/Proyectos; que es donde el editor de código apunta.
+
+ADMINISTRACIÓN DE BASES DE DATOS
+--------------------------------
+
+El antiguo sistema de apoyo administrativo, esta conformado por 9 bases de datos
+en PostgreSQL, una por cada departamento que tiene instalado el sistema.
+
+Para la administración eficaz han sido creados 9 aliases:
+
+    apoyoadm_biologia
+    apoyoadm_civil
+    apoyoadm_electro
+    apoyoadm_fisica
+    apoyoadm_industrial
+    apoyoadm_infsis
+    apoyoadm_matematicas
+    apoyoadm_mecanica
+    apoyoadm_quimica
+
+Todos estos para acceder a la base de datos correspondiente.
+
+Referente a MariaDB, se han creado varias bases de datos, la mayor parte de
+ellas contienen datos veridicos pero no muy importantes, ya que solo son para
+pruebas durante el desarrollo de software.
+
+Entre estas podemos destacar:
+
+    - apoyoadm:
+        base de datos para el nuevo sistema de apoyo administrativo
+        (apoyoadm.local).
+    - cidetsi:
+        base de datos de prueba para la página de laboratorio de desarrollo.
+    - comunicados:
+        base de datos de prueba para la página de comunicados y avisos.
+    - mysql:
+        base de datos interna del servidor.
+    - test:
+        base de datos que viene con el servidor.
+    - vocare:
+        base de datos para el sistema de convocatorias (vocare.local).
+
+Para la utilización eficaz de estas bases de datos, tambien se han creado un
+conjunto de aliases para el acceso rapido.
+
+    db_admin
+        Alias para acceder a MariaDB como administrador.
+    db_apoyoadm:
+        Alias para acceder a la base de datos apoyoadm, en el sitio en
+        producción.
+    db_vocare:
+        Alias para acceder a la base de datos convocatoria, en el sitio en
+        producción.
+    db:
+        Alias para acceder a una base de datos concreta que se encuentre en la
+        misma maquina.
+        Ej:
+            db apoyoadm     // ingresa a la base de datos apoyoadm en localhost.
+            db vocare       // ingresa a la base de datos vocare en localhost.
+
+
 
 
