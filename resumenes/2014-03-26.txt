@@ -1,0 +1,10 @@
+Miercoles, 26 de Marzo del 2014
+===============================
+
+09:01:10 - Ok, primero termino de configurar el sistema operativo, para que
+           nadie tenga problemas.
+           Luego paso a crear el manual para el correcto funcionamiento de la
+           maquina.
+09:30:53 - Ok, ya termine de configurar la session de logeo del sistema
+           operativo.
+           Ahora si paso a hacer un resumen de funcionamiento de la maquina.

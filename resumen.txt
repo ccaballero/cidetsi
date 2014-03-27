@@ -1,0 +1,84 @@
+APOYO ADMINISTRATIVO (28 de Mayo del 2013)
+==========================================
+
+BASE DE DATOS
+-------------
+Comenzare diciendo que desde el dia que llegue hasta hoy mismo, y por el resto 
+de dias que me queden, hare backups diarios a las 9 bases de datos que tengo en
+mi vigilancia.
+
+Pero volviendo al asunto original, mencione que estoy a cargo de 9 bases de 
+datos, de estas solo unas pocas son utilizadas a profundidad, el resto es mas
+como un juguete que las personas no quieren entender, asi que diremos sin temor
+a equivocarnos, que mucho mucho lo que se pierden no es, pero el metodo que usan
+actualmente tampoco es la solución definitiva.
+
+A dia de hoy, se tienen 162 copias de respaldo ubicadas actualmente en:
+
+> ~/apoyo_administrativo/backups
+
+Se ejecuta una copia de respaldo mediante un script en shell ubicado en:
+
+> ~/apoyo_administrativo/respaldo_todo.sh
+
+Eso es todo en cuanto a este lado del mantenimiento.
+
+DOCUMENTACIÓN
+-------------
+Otro aspecto importante a tomar en cuenta para ti joven heredero, es que todas
+mis actividades, estan compendiadas en resumenes diarios, desde que llegue, 
+pense en lo crucial de mi documentación, asi que fui lo mas detallado que mis
+ganas (mientras las tenia) podian demostrar. Estas estan ubicadas en:
+
+> ~/cidetsi/resumenes     <-- conforman los resumenes diarios que fui haciendo.
+> ~/cidetsi/apoyoadm      <-- conforman las peticiones sobre el sistema de
+                              apoyo administrativo que fui atendiendo.
+
+DE TODO EN GENERAL Y MAS QUE TODO SOBRE LINUX (26 de Marzo del 2014)
+====================================================================
+
+Comenzare diciendo que probablemente la maquina que utilize en el laboratorio de
+desarrollo es la mas estable y de mejor rendimiento de probablemente todo el
+laboratorio.
+
+Por causales del destino nunca tuve un error de hardware memorable, y desde el
+día que instale Gentoo Linux, tampoco un error de software que perturbe mi flujo
+clasico de hacer las cosas.
+
+HARDWARE
+--------
+
+Despues de algún tiempo, como es de esperarse los ventiladores se llenan de
+polvo, asi que siempre que vi la menor posibilidad de ruido, la hize limpiar en
+mantenimiento, en la actualidad inclusive tiene dos ventiladores adicionales,
+que gentilmente me instalaron en mantenimiento.
+
+SOFTWARE
+--------
+
+Bueno pero que podemos decir sobre el sistema operativo mas que solo halagos.
+Comenzare diciendo que posee una distribución:
+
+    Gentoo GNU/Linux
+
+Esta distribución es de tipo 'Roll Release', que sin ir mas lejos diremos que no
+posee versiones, es una actualización constante, asi que no hay porque
+preocuparse de ningun tipo de obsolecencia planificada.
+
+Mas detalles aqui: https://en.wikipedia.org/wiki/Rolling_release#Gentoo-related
+
+A dia de hoy (26 de Marzo del 2014) la paqueteria propia del sistema esta
+superactualizada, pueden verse los detalles de las versiones de algunos paquetes
+importantes en la tabla 1.
+
+    PAQUETE         DESCRIPCION                      VERSION
+    gentoo-sources  kernel del sistema operativo     3.13.6
+    awesome         1º escritorio provisto           3.5.2-r1
+    xfce4           2º escritorio provisto           4.10
+    mariadb         base de datos MySQL              5.5.32
+    postgresql      base de datos PostgreSQL         9.3.4
+    nginx           servidor web                     1.4.4
+    php             lenguaje de programación web     5.5.10
+    php-fpm         
+
+
